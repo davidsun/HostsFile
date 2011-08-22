@@ -4,7 +4,7 @@ If you want the list of any other sites, post domain names here, and I'll work o
 
 列表可以访问哪些网站？
 可以访问的网站包括Google, Facebook以及Twitter。YouTube可以访问，但是不能看视频（主要是因为YouTube视频地址的列表不完整）。
-另外，将这个Hosts列表导入到Android手机后，手机可以访问Twitter, Facebook的服务。对Facebook手机发支持还不是很好，我不知道Facebook的手机应用需要哪些Hosts，因此没有完整提供。
+另外，将这个Hosts列表导入到Android手机后，手机可以访问Twitter, Facebook的服务。对Facebook手机应用的支持还不是很好，我不知道Facebook的手机应用需要哪些Hosts，因此没有完整提供。
 
 列表如何生成？
 目前这个列表是在SSH服务器上通过脚本获取的。当然，脚本只是一种方式，个人认为，任何一个可以翻墙的代理都可以用来获取Hosts列表。
