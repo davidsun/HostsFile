@@ -13,6 +13,6 @@ If you want the list of any other sites, post domain names here, and I'll work o
 在这个列表生成以后，当中的很多IP实际上是不能访问的。这些IP将被放到我本地的数据库中进行检查。比如像之前Twitter的IP，在不断地发生变化，那么，在我本地的数据库中，就存有了Twitter的多个IP，从中选择一个可以访问的IP合并到最终的Hosts列表中去。
 
 如何增加列表内容？
-发现网站载入长时间没有完成时，可以在网页上点击邮件，选择"审查元素"（Chrome）或者安装FireBug插件（Firefox），接着对于没有载入的页面获取它的域名。
+发现网站载入长时间没有完成时，可以在网页上点击右键，选择"审查元素"（Chrome）或者安装FireBug插件（Firefox），接着对于没有载入的页面获取它的域名。
 比如，没有载入的页面是 https://github.com/davidsun/HostsFile ，那么，获取的域名就是 github.com 。
 在获取了域名以后，可以直接在GitHub上提交这些域名，我会定期处理这些请求，并且扩充和更新列表。
