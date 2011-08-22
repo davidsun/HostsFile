@@ -12,5 +12,5 @@ If you want the list of any other sites, post domain names here, and I'll work o
 
 如何增加列表内容？
 发现网站载入长时间没有完成时，可以在网页上点击邮件，选择"审查元素"（Chrome）或者安装FireBug插件（Firefox），接着对于没有载入的页面获取它的域名。
-比如，没有载入的页面是https://github.com/davidsun/HostsFile，那么，获取的域名就是github.com。
+比如，没有载入的页面是 https://github.com/davidsun/HostsFile ，那么，获取的域名就是 github.com 。
 在获取了域名以后，可以直接在GitHub上提交这些域名，我会定期处理这些请求，并且扩充和更新列表。
