@@ -21,3 +21,8 @@ If you want the list of any other sites, post domain names here, and I'll work o
 脚本是用Python编写的，执行方式为
     # python getHostsFile.py <输入文件名>
 输入的格式见文件"hostsPool"，即，一行一个域名。
+
+
+--------
+By Davidsun (@sunzheng91)
+http://www.about.me/sunzheng
