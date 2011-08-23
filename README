@@ -16,3 +16,8 @@ If you want the list of any other sites, post domain names here, and I'll work o
 发现网站载入长时间没有完成时，可以在网页上点击右键，选择"审查元素"（Chrome）或者安装FireBug插件（Firefox），接着对于没有载入的页面获取它的域名。
 比如，没有载入的页面是 https://github.com/davidsun/HostsFile ，那么，获取的域名就是 github.com 。
 在获取了域名以后，可以直接在GitHub上提交这些域名，我会定期处理这些请求，并且扩充和更新列表。
+
+脚本如何使用？
+脚本是用Python编写的，执行方式为
+    # python getHostsFile.py <输入文件名>
+输入的格式见文件"hostsPool"，即，一行一个域名。
