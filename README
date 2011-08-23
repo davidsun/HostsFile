@@ -5,7 +5,7 @@ This hosts file that can help you visit Facebook, Twitter & Google (as well as Y
 If you want the list of any other sites, post domain names here, and I'll work out the new list.
 
 列表可以访问哪些网站？
-可以访问的网站包括Google, Facebook以及Twitter。YouTube可以访问，但是不能看视频（主要是因为YouTube视频地址的列表不完整）。
+可以访问的网站包括Google, Facebook以及Twitter。YouTube可以访问，但是不能看视频（主要是因为YouTube获取视频流的地址不支持https）。
 另外，将这个Hosts列表导入到Android手机后，手机可以访问Twitter, Facebook的服务。对Facebook手机应用的支持还不是很好，我不知道Facebook的手机应用需要哪些Hosts，因此没有完整提供。
 
 列表如何生成？
