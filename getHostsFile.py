@@ -36,7 +36,7 @@ else :
     for line in f.readlines() :
         q.put(line[ : -1])
     threads = list()
-    for i in range(0, 10) :
+    for i in range(0, 5) :
         t = myThread(i, q, out)
         t.start()
         threads.append(t)
