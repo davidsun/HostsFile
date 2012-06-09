@@ -1,0 +1,6 @@
+HostsPool/
+cleanHostsPool.py
+exractHostsFile.py
+verify.py
+*.pyc
+*.sh
