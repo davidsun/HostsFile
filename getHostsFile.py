@@ -15,8 +15,8 @@ class myThread(threading.Thread) :
             cur = self.queue.get()
             if (cur == None) : break
             try :
-                result = socket.getaddrinfo(cur, None)
-                self.output.out(result[0][4][0] + '\t' + cur)
+                result = socket.gethostbyname(cur)
+                self.output.out(result + '\t' + cur)
             except : pass
 
 if len(sys.argv) != 2 :
