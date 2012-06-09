@@ -450,7 +450,6 @@ v20.lscache7.c.youtube.com
 smtp-out.google.com
 r23.pek01s01.c.youtube.com
 tc.v3.cache7.c.youtube.com
-music.google.com
 v24.nonxt1.c.youtube.com
 tc.v3.cache2.c.youtube.com
 qwqy.vp.video.l.google.com
@@ -542,7 +541,7 @@ scholar.google.com
 partner.googleadservices.com
 r6.pek01s02.c.youtube.com
 tc.v21.cache2.c.youtube.com
-tc.v18.cache2.c.youtube.com
+music.google.com
 v6.lscache5.c.youtube.com
 o-o.preferred.sjc07s11.v20.lscache3.c.youtube.com
 o-o.preferred.sjc07s15.v4.lscache7.c.youtube.com
@@ -627,7 +626,7 @@ o-o.preferred.sjc07s15.v7.lscache8.c.youtube.com
 vthumb.ak.fbcdn.net
 o-o.preferred.sjc07s15.v23.lscache6.c.youtube.com
 uploadsj.clients.google.com
-o-o.preferred.sjc07s11.v7.lscache5.c.youtube.com
+web.tweetdeck.com
 v12.nonxt4.c.youtube.com
 a3.twimg.com
 o-o.preferred.sjc07s15.v17.lscache4.c.youtube.com
@@ -754,6 +753,7 @@ v8.lscache7.c.youtube.com
 o-o.preferred.sjc07s15.v11.lscache8.c.youtube.com
 o-o.preferred.sjc07s11.v1.lscache7.c.youtube.com
 v17.nonxt4.c.youtube.com
+play.google.com
 o-o.preferred.sjc07s15.v17.lscache7.c.youtube.com
 v3.nonxt1.c.youtube.com
 o-o.preferred.sjc07s15.v3.lscache1.c.youtube.com
@@ -877,7 +877,7 @@ newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
 tc.v4.cache4.c.youtube.com
 sketchup.google.com
 v8.nonxt4.c.youtube.com
-a0.twimg.com
+tc.v18.cache2.c.youtube.com
 r7.pek01s05.c.youtube.com
 v17.nonxt1.c.youtube.com
 v12.nonxt6.c.youtube.com
@@ -899,6 +899,7 @@ o-o.preferred.sjc07s11.v12.lscache3.c.youtube.com
 v19.nonxt2.c.youtube.com
 zh-CN.facebook.com
 tc.v2.cache4.c.youtube.com
+o-o.preferred.sjc07s11.v7.lscache5.c.youtube.com
 o-o.preferred.sjc07s15.v12.lscache7.c.youtube.com
 tbn2.google.com
 o-o.preferred.sjc07s15.v21.lscache1.c.youtube.com
@@ -915,7 +916,7 @@ tc.v1.cache5.c.youtube.com
 v13.lscache3.c.youtube.com
 v18.lscache1.c.youtube.com
 o-o.preferred.sjc07s15.v2.lscache1.c.youtube.com
-tc.v14.cache5.c.youtube.com
+gmail-pop.l.google.com
 v9.lscache5.c.youtube.com
 r18.pek01s02.c.youtube.com
 v11.lscache3.c.youtube.com
@@ -925,7 +926,7 @@ tc.v3.cache1.c.youtube.com
 r14.pek01s01.c.youtube.com
 www.googlelabs.com
 tc.v23.cache8.c.youtube.com
-gmail-pop.l.google.com
+tc.v12.cache6.c.youtube.com
 v12.lscache6.c.youtube.com
 v1.nonxt7.c.youtube.com
 bp0.blogger.com
@@ -1054,6 +1055,7 @@ v5.lscache3.c.youtube.com
 scholar.l.google.com
 r20.pek01s05.c.youtube.com
 tc.v9.cache8.c.youtube.com
+a0.twimg.com
 o-o.preferred.sjc07s15.v12.lscache2.c.youtube.com
 o-o.preferred.sjc07s11.v3.lscache1.c.youtube.com
 tc.v17.cache2.c.youtube.com
@@ -1080,7 +1082,6 @@ tc.v5.cache4.c.youtube.com
 v9.nonxt6.c.youtube.com
 bks2.books.google.com
 tc.v19.cache8.c.youtube.com
-tc.v12.cache6.c.youtube.com
 o-o.preferred.sjc07s11.v4.lscache4.c.youtube.com
 tc.v24.cache4.c.youtube.com
 upload.youtube.com
@@ -1094,6 +1095,7 @@ v10.nonxt4.c.youtube.com
 o-o.preferred.sjc07s11.v9.lscache8.c.youtube.com
 o-o.preferred.sjc07s11.v20.lscache6.c.youtube.com
 o-o.preferred.sjc07s11.v5.lscache3.c.youtube.com
+api.tweetdeck.com
 v4.lscache3.c.youtube.com
 o-o.preferred.sjc07s11.v14.lscache5.c.youtube.com
 bks7.books.google.com
@@ -1130,7 +1132,7 @@ v9.nonxt2.c.youtube.com
 tc.v17.cache4.c.youtube.com
 o-o.preferred.sjc07s15.v5.lscache6.c.youtube.com
 v9.lscache8.c.youtube.com
-v6.nonxt4.c.youtube.com
+v5.lscache1.c.youtube.com
 o-o.preferred.sjc07s15.v6.lscache2.c.youtube.com
 v10.lscache4.c.youtube.com
 v15.nonxt2.c.youtube.com
@@ -1252,7 +1254,7 @@ v5.lscache6.c.youtube.com
 tc.v22.cache2.c.youtube.com
 v12.lscache5.c.youtube.com
 o-o.preferred.sjc07s11.v5.lscache6.c.youtube.com
-v5.lscache1.c.youtube.com
+v6.nonxt4.c.youtube.com
 o-o.preferred.sjc07s11.v14.lscache6.c.youtube.com
 o-o.preferred.sjc07s11.v1.lscache3.c.youtube.com
 blogger.com
@@ -1276,6 +1278,7 @@ o-o.preferred.sjc07s11.v17.lscache5.c.youtube.com
 v2.nonxt8.c.youtube.com
 v10.lscache2.c.youtube.com
 r13.pek01s05.c.youtube.com
+tc.v14.cache5.c.youtube.com
 o-o.preferred.sjc07s11.v4.lscache1.c.youtube.com
 v24.lscache3.c.youtube.com
 v14.nonxt7.c.youtube.com
