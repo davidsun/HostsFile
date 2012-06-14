@@ -775,8 +775,6 @@
 216.252.124.30	us.bc.yahoo.com
 221.123.176.123	s5.flashget.com
 221.123.176.136	cplog.flashget.com
-24.143.202.11	a1210.phobos.apple.com
-24.143.202.11	a152.phobos.apple.com
 50.23.200.238	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -1488,6 +1486,7 @@
 69.31.119.210	a1457.phobos.apple.com
 69.31.119.210	a1470.phobos.apple.com
 69.31.119.210	a1512.phobos.apple.com
+69.31.119.210	a152.phobos.apple.com
 69.31.119.210	a1536.phobos.apple.com
 69.31.119.210	a1552.phobos.apple.com
 69.31.119.210	a1553.phobos.apple.com
@@ -2457,6 +2456,7 @@
 69.31.119.233	a1130.phobos.apple.com
 69.31.119.233	a1190.phobos.apple.com
 69.31.119.233	a1192.phobos.apple.com
+69.31.119.233	a1210.phobos.apple.com
 69.31.119.233	a1240.phobos.apple.com
 69.31.119.233	a1271.phobos.apple.com
 69.31.119.233	a1286.phobos.apple.com
@@ -3684,7 +3684,6 @@
 74.125.79.108	gmail-smtp.l.google.com
 74.200.247.59	botd.wordpress.com
 74.200.247.59	stats.wordpress.com
-76.73.40.45	soutong.com
 76.74.254.120	dashboard.wordpress.com
 76.74.254.120	en.blog.wordpress.com
 76.74.254.120	en.forums.wordpress.com
