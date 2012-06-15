@@ -400,6 +400,8 @@
 184.169.77.33	si1.twimg.com
 184.169.77.33	si3.twimg.com
 184.169.77.33	si4.twimg.com
+184.30.178.110	s-static.ak.facebook.com
+184.30.181.47	www.me.com
 199.47.216.170	www.dropbox.com
 199.47.216.179	dropbox.com
 199.59.148.212	help.twitter.com
@@ -552,6 +554,7 @@
 208.117.238.21	tc.v7.cache4.c.youtube.com
 208.117.238.220	tc.v24.cache6.c.youtube.com
 208.117.238.220	tc.v24.cache7.c.youtube.com
+208.117.238.222	tc.v14.cache1.c.youtube.com
 208.117.238.222	tc.v14.cache3.c.youtube.com
 208.117.238.222	tc.v14.cache4.c.youtube.com
 208.117.238.222	tc.v14.cache6.c.youtube.com
@@ -692,7 +695,6 @@
 208.117.243.92	tc.v5.cache1.c.youtube.com
 208.117.243.93	tc.v13.cache5.c.youtube.com
 208.117.243.94	tc.v21.cache1.c.youtube.com
-208.117.243.96	tc.v14.cache1.c.youtube.com
 208.117.243.97	tc.v22.cache1.c.youtube.com
 208.117.243.97	tc.v22.cache5.c.youtube.com
 208.117.243.98	tc.v7.cache1.c.youtube.com
@@ -753,7 +755,6 @@
 23.32.111.144	platform.twitter.com
 23.32.111.144	si2.twimg.com
 23.32.111.144	si5.twimg.com
-23.45.34.110	s-static.ak.facebook.com
 23.61.248.10	a1011.phobos.apple.com
 23.61.248.10	a1017.phobos.apple.com
 23.61.248.10	a1023.phobos.apple.com
@@ -1217,6 +1218,7 @@
 23.61.248.24	a1465.phobos.apple.com
 23.61.248.24	a1482.phobos.apple.com
 23.61.248.24	a1596.phobos.apple.com
+23.61.248.24	a1598.phobos.apple.com
 23.61.248.24	a1605.phobos.apple.com
 23.61.248.24	a1614.phobos.apple.com
 23.61.248.24	a1645.phobos.apple.com
@@ -1495,6 +1497,7 @@
 23.61.248.32	a399.phobos.apple.com
 23.61.248.32	a417.phobos.apple.com
 23.61.248.32	a485.phobos.apple.com
+23.61.248.32	a498.phobos.apple.com
 23.61.248.32	a513.phobos.apple.com
 23.61.248.32	a541.phobos.apple.com
 23.61.248.32	a601.phobos.apple.com
@@ -2379,7 +2382,6 @@
 23.61.248.58	a1749.phobos.apple.com
 23.61.248.58	a178.phobos.apple.com
 23.61.248.58	a1812.phobos.apple.com
-23.61.248.58	a1818.phobos.apple.com
 23.61.248.58	a1853.phobos.apple.com
 23.61.248.58	a1857.phobos.apple.com
 23.61.248.58	a1870.phobos.apple.com
@@ -2821,8 +2823,7 @@
 69.171.234.23	zh-CN.facebook.com
 69.171.234.39	apps.facebook.com
 69.171.234.40	m.facebook.com
-69.31.119.203	a1598.phobos.apple.com
-69.31.119.232	a498.phobos.apple.com
+69.31.119.201	a1818.phobos.apple.com
 69.63.179.70	secure.facebook.com
 72.14.203.87	orkut.l.google.com
 72.21.91.111	s0.wp.com
@@ -2963,7 +2964,6 @@
 74.125.127.121	chrome.angrybirds.com
 74.125.127.121	ghs46.google.com
 74.125.127.121	ghs46.l.google.com
-74.125.127.123	wifi.google.com
 74.125.127.123	wifi.l.google.com
 74.125.127.124	large-uploads.l.google.com
 74.125.127.124	sslvideo-upload.l.google.com
@@ -3310,6 +3310,7 @@
 74.125.170.89	o-o.preferred.sjc07s15.v20.lscache5.c.youtube.com
 74.125.170.8	o-o.preferred.sjc07s15.v11.lscache1.c.youtube.com
 74.125.170.9	o-o.preferred.sjc07s11.v16.lscache1.c.youtube.com
+74.125.224.172	s2.googleusercontent.com
 74.125.224.191	id.google.cn
 74.125.224.191	id.google.com.hk
 74.125.224.212	toolbarqueries.google.com
@@ -3591,7 +3592,6 @@
 74.125.224.236	photos-ugc.l.google.com
 74.125.224.236	rbjhe237k979f79d87gmenp3gejfonu9-a-oz-opensocial.googleusercontent.com
 74.125.224.236	s1.googleusercontent.com
-74.125.224.236	s2.googleusercontent.com
 74.125.224.236	s3.googleusercontent.com
 74.125.224.236	s5.googleusercontent.com
 74.125.224.236	spreadsheets-opensocial.googleusercontent.com
@@ -3728,7 +3728,6 @@
 85.17.27.208	www5.multiupload.com
 85.17.27.208	www.multiupload.com
 85.17.73.239	www13.multiupload.com
-88.221.117.47	www.me.com
 88.80.2.31	www.wikileaks.org
 88.80.2.33	wikileaks.org
 89.105.213.22	premium.nl.avira-update.com
