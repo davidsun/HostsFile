@@ -9,6 +9,7 @@
 173.194.26.103	v6.lscache4.c.youtube.com
 173.194.26.103	v6.nonxt4.c.youtube.com
 173.194.26.104	v11.lscache4.c.youtube.com
+173.194.26.104	v11.nonxt4.c.youtube.com
 173.194.26.105	v16.lscache4.c.youtube.com
 173.194.26.105	v16.nonxt4.c.youtube.com
 173.194.26.106	v22.lscache4.c.youtube.com
@@ -399,6 +400,7 @@
 184.169.77.33	si1.twimg.com
 184.169.77.33	si3.twimg.com
 184.169.77.33	si4.twimg.com
+184.30.191.144	platform.twitter.com
 199.47.216.170	www.dropbox.com
 199.47.216.179	dropbox.com
 199.59.148.212	help.twitter.com
@@ -682,6 +684,7 @@
 208.117.243.81	tc.v9.cache1.c.youtube.com
 208.117.243.81	tc.v9.cache5.c.youtube.com
 208.117.243.82	tc.v17.cache1.c.youtube.com
+208.117.243.82	tc.v17.cache5.c.youtube.com
 208.117.243.83	tc.v2.cache5.c.youtube.com
 208.117.243.87	tc.v11.cache1.c.youtube.com
 208.117.243.87	tc.v11.cache5.c.youtube.com
@@ -695,7 +698,6 @@
 208.117.243.97	tc.v22.cache5.c.youtube.com
 208.117.243.98	tc.v7.cache1.c.youtube.com
 208.117.243.99	tc.v15.cache5.c.youtube.com
-208.117.254.146	tc.v17.cache5.c.youtube.com
 208.80.152.133	mail.wikimedia.org
 208.80.152.149	bugs.wikimedia.org
 208.80.152.149	bugzilla.wikimedia.org
@@ -749,7 +751,6 @@
 221.123.176.125	s5.flashget.com
 221.123.176.136	cplog.flashget.com
 23.32.109.227	s.yimg.com
-23.32.111.144	platform.twitter.com
 23.32.111.144	si2.twimg.com
 23.32.111.144	si5.twimg.com
 23.45.34.110	s-static.ak.facebook.com
@@ -807,7 +808,6 @@
 23.61.248.10	a3.mzstatic.com
 23.61.248.10	a407.phobos.apple.com
 23.61.248.10	a423.phobos.apple.com
-23.61.248.10	a453.phobos.apple.com
 23.61.248.10	a465.phobos.apple.com
 23.61.248.10	a477.phobos.apple.com
 23.61.248.10	a486.phobos.apple.com
@@ -1298,6 +1298,7 @@
 23.61.248.25	a1997.phobos.apple.com
 23.61.248.25	a231.phobos.apple.com
 23.61.248.25	a244.phobos.apple.com
+23.61.248.25	a264.phobos.apple.com
 23.61.248.25	a271.phobos.apple.com
 23.61.248.25	a275.phobos.apple.com
 23.61.248.25	a295.phobos.apple.com
@@ -1357,6 +1358,7 @@
 23.61.248.26	a177.phobos.apple.com
 23.61.248.26	a1822.phobos.apple.com
 23.61.248.26	a1901.phobos.apple.com
+23.61.248.26	a194.phobos.apple.com
 23.61.248.26	a1962.phobos.apple.com
 23.61.248.26	a1966.phobos.apple.com
 23.61.248.26	a205.phobos.apple.com
@@ -1944,7 +1946,6 @@
 23.61.248.43	a1172.phobos.apple.com
 23.61.248.43	a1219.phobos.apple.com
 23.61.248.43	a1225.phobos.apple.com
-23.61.248.43	a1231.phobos.apple.com
 23.61.248.43	a1242.phobos.apple.com
 23.61.248.43	a1320.phobos.apple.com
 23.61.248.43	a1340.phobos.apple.com
@@ -2820,8 +2821,8 @@
 69.171.234.23	zh-CN.facebook.com
 69.171.234.39	apps.facebook.com
 69.171.234.40	m.facebook.com
-69.31.119.227	a194.phobos.apple.com
-69.31.119.234	a264.phobos.apple.com
+69.31.119.211	a453.phobos.apple.com
+69.31.119.226	a1231.phobos.apple.com
 69.63.179.70	secure.facebook.com
 72.14.203.87	orkut.l.google.com
 72.21.91.111	s0.wp.com
@@ -2839,7 +2840,7 @@
 72.21.91.19	s.stats.wordpress.com
 72.21.91.19	s.wordpress.com
 72.21.91.19	s.wordpress.org
-72.233.2.58	botd2.wordpress.com
+72.233.69.6	botd2.wordpress.com
 74.125.100.198	o-o.preferred.ams03g05.v1.lscache5.c.youtube.com
 74.125.103.10	o-o.preferred.sjc07s11.v22.lscache1.c.youtube.com
 74.125.103.10	o-o.preferred.sjc07s11.v22.lscache3.c.youtube.com
@@ -3003,7 +3004,6 @@
 74.125.127.191	buttons.blogger.com
 74.125.127.191	img1.blogblog.com
 74.125.127.191	img2.blogblog.com
-74.125.127.191	www1.blogblog.com
 74.125.127.191	www2.blogblog.com
 74.125.127.191	www.blogblog.com
 74.125.127.191	www.blogger.com
@@ -3014,7 +3014,6 @@
 74.125.127.82	chromium.googlecode.com
 74.125.127.82	closure-library.googlecode.com
 74.125.127.82	earth-api-samples.googlecode.com
-74.125.127.82	gmaps-samples-flash.googlecode.com
 74.125.127.82	google-code-feed-gadget.googlecode.com
 74.125.127.82	googlecode.l.google.com
 74.125.127.84	accounts.google.com
@@ -3734,7 +3733,6 @@
 89.105.213.22	prempeak.avira-update.com
 95.101.145.54	discussions.apple.com
 95.101.146.46	www.icloud.com
-95.211.138.142	www11.multiupload.com
 95.211.99.1	www9.multiupload.com
 95.211.99.2	www6.multiupload.com
 95.211.99.3	www7.multiupload.com
