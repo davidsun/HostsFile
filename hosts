@@ -65,6 +65,7 @@
 173.194.26.135	v6.lscache5.c.youtube.com
 173.194.26.135	v6.nonxt5.c.youtube.com
 173.194.26.136	v11.lscache5.c.youtube.com
+173.194.26.136	v11.nonxt5.c.youtube.com
 173.194.26.137	v16.lscache5.c.youtube.com
 173.194.26.137	v16.nonxt5.c.youtube.com
 173.194.26.138	v22.lscache5.c.youtube.com
@@ -386,7 +387,6 @@
 173.194.26.8	v11.nonxt1.c.youtube.com
 173.194.26.9	v16.lscache1.c.youtube.com
 173.194.26.9	v16.nonxt1.c.youtube.com
-173.194.39.111	csi.gstatic.com
 173.194.79.160	ditu.google.cn
 173.194.79.160	maps.google.cn
 173.194.79.160	mt0.google.cn
@@ -746,7 +746,6 @@
 208.80.154.233	www.wikimediafoundation.org
 209.17.68.106	i37.photobucket.com
 209.17.88.216	twitgoo.com
-209.191.105.102	adjax.flickr.yahoo.com
 209.85.225.113	clients-china.l.google.com
 216.115.97.236	d.yimg.com
 216.115.97.236	l.yimg.com
@@ -798,7 +797,6 @@
 23.61.248.10	a1797.phobos.apple.com
 23.61.248.10	a1803.phobos.apple.com
 23.61.248.10	a1869.phobos.apple.com
-23.61.248.10	a1875.phobos.apple.com
 23.61.248.10	a1899.phobos.apple.com
 23.61.248.10	a1922.phobos.apple.com
 23.61.248.10	a1941.phobos.apple.com
@@ -856,7 +854,6 @@
 23.61.248.11	a1624.phobos.apple.com
 23.61.248.11	a1702.phobos.apple.com
 23.61.248.11	a1708.phobos.apple.com
-23.61.248.11	a1744.phobos.apple.com
 23.61.248.11	a1762.phobos.apple.com
 23.61.248.11	a1774.phobos.apple.com
 23.61.248.11	a1804.phobos.apple.com
@@ -922,7 +919,6 @@
 23.61.248.16	a1541.phobos.apple.com
 23.61.248.16	a1559.phobos.apple.com
 23.61.248.16	a1607.phobos.apple.com
-23.61.248.16	a161.phobos.apple.com
 23.61.248.16	a1631.phobos.apple.com
 23.61.248.16	a1661.phobos.apple.com
 23.61.248.16	a1679.phobos.apple.com
@@ -1002,7 +998,6 @@
 23.61.248.17	a1608.phobos.apple.com
 23.61.248.17	a1614.phobos.apple.com
 23.61.248.17	a1644.phobos.apple.com
-23.61.248.17	a1650.phobos.apple.com
 23.61.248.17	a1652.phobos.apple.com
 23.61.248.17	a1674.phobos.apple.com
 23.61.248.17	a1698.phobos.apple.com
@@ -1072,6 +1067,7 @@
 23.61.248.18	a1531.phobos.apple.com
 23.61.248.18	a1542.phobos.apple.com
 23.61.248.18	a157.phobos.apple.com
+23.61.248.18	a1580.phobos.apple.com
 23.61.248.18	a1591.phobos.apple.com
 23.61.248.18	a1593.phobos.apple.com
 23.61.248.18	a1596.phobos.apple.com
@@ -1079,7 +1075,6 @@
 23.61.248.18	a1635.phobos.apple.com
 23.61.248.18	a1637.phobos.apple.com
 23.61.248.18	a164.phobos.apple.com
-23.61.248.18	a166.phobos.apple.com
 23.61.248.18	a1680.phobos.apple.com
 23.61.248.18	a1758.phobos.apple.com
 23.61.248.18	a1776.phobos.apple.com
@@ -1155,6 +1150,7 @@
 23.61.248.19	a1814.phobos.apple.com
 23.61.248.19	a1829.phobos.apple.com
 23.61.248.19	a1848.phobos.apple.com
+23.61.248.19	a1875.phobos.apple.com
 23.61.248.19	a1912.phobos.apple.com
 23.61.248.19	a1950.phobos.apple.com
 23.61.248.19	a1971.phobos.apple.com
@@ -1209,8 +1205,10 @@
 23.61.248.24	a1528.phobos.apple.com
 23.61.248.24	a1602.phobos.apple.com
 23.61.248.24	a1605.phobos.apple.com
+23.61.248.24	a161.phobos.apple.com
 23.61.248.24	a1645.phobos.apple.com
 23.61.248.24	a165.phobos.apple.com
+23.61.248.24	a166.phobos.apple.com
 23.61.248.24	a1689.phobos.apple.com
 23.61.248.24	a1704.phobos.apple.com
 23.61.248.24	a1721.phobos.apple.com
@@ -1302,7 +1300,6 @@
 23.61.248.25	a183.phobos.apple.com
 23.61.248.25	a1841.phobos.apple.com
 23.61.248.25	a185.phobos.apple.com
-23.61.248.25	a1867.phobos.apple.com
 23.61.248.25	a1914.phobos.apple.com
 23.61.248.25	a1965.phobos.apple.com
 23.61.248.25	a1991.phobos.apple.com
@@ -1357,6 +1354,7 @@
 23.61.248.26	a1660.phobos.apple.com
 23.61.248.26	a1668.phobos.apple.com
 23.61.248.26	a1710.phobos.apple.com
+23.61.248.26	a1744.phobos.apple.com
 23.61.248.26	a177.phobos.apple.com
 23.61.248.26	a1784.phobos.apple.com
 23.61.248.26	a1813.phobos.apple.com
@@ -1447,6 +1445,7 @@
 23.61.248.27	a233.phobos.apple.com
 23.61.248.27	a264.phobos.apple.com
 23.61.248.27	a304.phobos.apple.com
+23.61.248.27	a30.phobos.apple.com
 23.61.248.27	a340.phobos.apple.com
 23.61.248.27	a341.phobos.apple.com
 23.61.248.27	a344.phobos.apple.com
@@ -1535,7 +1534,6 @@
 23.61.248.32	a547.phobos.apple.com
 23.61.248.32	a566.phobos.apple.com
 23.61.248.32	a641.phobos.apple.com
-23.61.248.32	a657.phobos.apple.com
 23.61.248.32	a688.phobos.apple.com
 23.61.248.32	a730.phobos.apple.com
 23.61.248.32	a748.phobos.apple.com
@@ -1544,6 +1542,7 @@
 23.61.248.32	a783.phobos.apple.com
 23.61.248.32	a799.phobos.apple.com
 23.61.248.32	a811.phobos.apple.com
+23.61.248.32	a820.phobos.apple.com
 23.61.248.32	a826.phobos.apple.com
 23.61.248.32	a830.phobos.apple.com
 23.61.248.32	a88.phobos.apple.com
@@ -1648,7 +1647,6 @@
 23.61.248.34	a1524.phobos.apple.com
 23.61.248.34	a1551.phobos.apple.com
 23.61.248.34	a1576.phobos.apple.com
-23.61.248.34	a1580.phobos.apple.com
 23.61.248.34	a1589.phobos.apple.com
 23.61.248.34	a160.phobos.apple.com
 23.61.248.34	a1688.phobos.apple.com
@@ -1872,6 +1870,7 @@
 23.61.248.41	a1552.phobos.apple.com
 23.61.248.41	a1610.phobos.apple.com
 23.61.248.41	a1636.phobos.apple.com
+23.61.248.41	a1650.phobos.apple.com
 23.61.248.41	a1669.phobos.apple.com
 23.61.248.41	a1696.phobos.apple.com
 23.61.248.41	a1701.phobos.apple.com
@@ -1969,6 +1968,7 @@
 23.61.248.42	a696.phobos.apple.com
 23.61.248.42	a736.phobos.apple.com
 23.61.248.42	a792.phobos.apple.com
+23.61.248.42	a821.phobos.apple.com
 23.61.248.42	a839.phobos.apple.com
 23.61.248.42	a84.phobos.apple.com
 23.61.248.42	a886.phobos.apple.com
@@ -2028,6 +2028,7 @@
 23.61.248.43	a668.phobos.apple.com
 23.61.248.43	a723.phobos.apple.com
 23.61.248.43	a731.phobos.apple.com
+23.61.248.43	a751.phobos.apple.com
 23.61.248.43	a782.phobos.apple.com
 23.61.248.43	a790.phobos.apple.com
 23.61.248.43	a841.phobos.apple.com
@@ -2135,7 +2136,6 @@
 23.61.248.50	a234.phobos.apple.com
 23.61.248.50	a250.phobos.apple.com
 23.61.248.50	a256.phobos.apple.com
-23.61.248.50	a30.phobos.apple.com
 23.61.248.50	a348.phobos.apple.com
 23.61.248.50	a351.phobos.apple.com
 23.61.248.50	a357.phobos.apple.com
@@ -2220,12 +2220,10 @@
 23.61.248.51	a709.phobos.apple.com
 23.61.248.51	a734.phobos.apple.com
 23.61.248.51	a739.phobos.apple.com
-23.61.248.51	a751.phobos.apple.com
 23.61.248.51	a752.phobos.apple.com
 23.61.248.51	a756.phobos.apple.com
 23.61.248.51	a757.phobos.apple.com
 23.61.248.51	a761.phobos.apple.com
-23.61.248.51	a820.phobos.apple.com
 23.61.248.51	a828.phobos.apple.com
 23.61.248.51	a82.phobos.apple.com
 23.61.248.51	a86.phobos.apple.com
@@ -2289,6 +2287,7 @@
 23.61.248.56	a537.phobos.apple.com
 23.61.248.56	a597.phobos.apple.com
 23.61.248.56	a644.phobos.apple.com
+23.61.248.56	a657.phobos.apple.com
 23.61.248.56	a667.phobos.apple.com
 23.61.248.56	a680.phobos.apple.com
 23.61.248.56	a689.phobos.apple.com
@@ -2343,6 +2342,7 @@
 23.61.248.57	a1817.phobos.apple.com
 23.61.248.57	a1823.phobos.apple.com
 23.61.248.57	a1840.phobos.apple.com
+23.61.248.57	a1867.phobos.apple.com
 23.61.248.57	a1879.phobos.apple.com
 23.61.248.57	a1920.phobos.apple.com
 23.61.248.57	a1924.phobos.apple.com
@@ -2371,7 +2371,6 @@
 23.61.248.57	a776.phobos.apple.com
 23.61.248.57	a785.phobos.apple.com
 23.61.248.57	a812.phobos.apple.com
-23.61.248.57	a821.phobos.apple.com
 23.61.248.57	a847.phobos.apple.com
 23.61.248.57	a855.phobos.apple.com
 23.61.248.57	a879.phobos.apple.com
@@ -2542,7 +2541,6 @@
 23.61.248.64	a1451.phobos.apple.com
 23.61.248.64	a1615.phobos.apple.com
 23.61.248.64	a1616.phobos.apple.com
-23.61.248.64	a1657.phobos.apple.com
 23.61.248.64	a1666.phobos.apple.com
 23.61.248.64	a1667.phobos.apple.com
 23.61.248.64	a1687.phobos.apple.com
@@ -2674,6 +2672,7 @@
 23.61.248.8	a1585.phobos.apple.com
 23.61.248.8	a1633.phobos.apple.com
 23.61.248.8	a1648.phobos.apple.com
+23.61.248.8	a1657.phobos.apple.com
 23.61.248.8	a1693.phobos.apple.com
 23.61.248.8	a169.phobos.apple.com
 23.61.248.8	a1729.phobos.apple.com
@@ -2799,7 +2798,6 @@
 50.23.200.238	twitpic.com
 58.254.134.238	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
-61.213.189.113	fbcdn.net
 61.213.189.113	s-hprofile-sf2p.fbcdn.net
 62.146.87.171	62.146.87.171
 62.146.87.172	premium.de.avira-update.com
@@ -2863,6 +2861,7 @@
 74.125.103.12	o-o.preferred.sjc07s15.v12.lscache3.c.youtube.com
 74.125.103.13	o-o.preferred.sjc07s11.v17.lscache3.c.youtube.com
 74.125.103.13	o-o.preferred.sjc07s15.v17.lscache3.c.youtube.com
+74.125.103.13	o-o.preferred.sjc07s15.v17.lscache5.c.youtube.com
 74.125.103.14	o-o.preferred.sjc07s11.v3.lscache1.c.youtube.com
 74.125.103.14	o-o.preferred.sjc07s11.v3.lscache7.c.youtube.com
 74.125.103.15	o-o.preferred.sjc07s11.v8.lscache5.c.youtube.com
@@ -2902,7 +2901,6 @@
 74.125.103.41	o-o.preferred.sjc07s11.v16.lscache8.c.youtube.com
 74.125.103.41	o-o.preferred.sjc07s15.v16.lscache4.c.youtube.com
 74.125.103.42	o-o.preferred.sjc07s11.v22.lscache6.c.youtube.com
-74.125.103.42	o-o.preferred.sjc07s11.v22.lscache8.c.youtube.com
 74.125.103.43	o-o.preferred.sjc07s11.v7.lscache8.c.youtube.com
 74.125.103.43	o-o.preferred.sjc07s15.v7.lscache6.c.youtube.com
 74.125.103.46	o-o.preferred.sjc07s15.v23.lscache2.c.youtube.com
@@ -2983,10 +2981,8 @@
 74.125.127.191	img1.blogblog.com
 74.125.127.191	img2.blogblog.com
 74.125.127.191	www1.blogblog.com
-74.125.127.191	www2.blogblog.com
 74.125.127.191	www.blogblog.com
 74.125.127.191	www.blogger.com
-74.125.127.193	m.google.com
 74.125.127.26	gmail-smtp-in.l.google.com
 74.125.127.81	sandbox.google.com
 74.125.127.82	autoproxy-gfwlist.googlecode.com
@@ -3006,6 +3002,7 @@
 74.125.127.95	translate.googleapis.com
 74.125.127.95	www.googleapis.com
 74.125.130.125	talkx.l.google.com
+74.125.142.120	csi.gstatic.com
 74.125.170.102	o-o.preferred.sjc07s11.v1.lscache7.c.youtube.com
 74.125.170.102	o-o.preferred.sjc07s11.v21.lscache7.c.youtube.com
 74.125.170.102	o-o.preferred.sjc07s15.v1.lscache7.c.youtube.com
@@ -3202,6 +3199,7 @@
 74.125.170.232	o-o.preferred.sjc07s11.v11.lscache8.c.youtube.com
 74.125.170.232	o-o.preferred.sjc07s15.v11.lscache8.c.youtube.com
 74.125.170.233	o-o.preferred.sjc07s15.v16.lscache8.c.youtube.com
+74.125.170.234	o-o.preferred.sjc07s11.v22.lscache8.c.youtube.com
 74.125.170.234	o-o.preferred.sjc07s11.v2.lscache8.c.youtube.com
 74.125.170.234	o-o.preferred.sjc07s15.v22.lscache8.c.youtube.com
 74.125.170.234	o-o.preferred.sjc07s15.v2.lscache8.c.youtube.com
@@ -3289,7 +3287,6 @@
 74.125.170.76	o-o.preferred.sjc07s11.v12.lscache5.c.youtube.com
 74.125.170.76	o-o.preferred.sjc07s15.v12.lscache5.c.youtube.com
 74.125.170.77	o-o.preferred.sjc07s11.v17.lscache5.c.youtube.com
-74.125.170.77	o-o.preferred.sjc07s15.v17.lscache5.c.youtube.com
 74.125.170.78	o-o.preferred.sjc07s11.v23.lscache5.c.youtube.com
 74.125.170.78	o-o.preferred.sjc07s11.v3.lscache5.c.youtube.com
 74.125.170.78	o-o.preferred.sjc07s15.v23.lscache5.c.youtube.com
@@ -3336,7 +3333,6 @@
 74.125.224.224	bks2.books.google.com
 74.125.224.224	bks3.books.google.com
 74.125.224.224	bks4.books.google.com
-74.125.224.224	bks5.books.google.com
 74.125.224.224	bks6.books.google.com
 74.125.224.224	bks7.books.google.com
 74.125.224.224	bks8.books.google.com
@@ -3485,6 +3481,7 @@
 74.125.224.231	s2.youtube.com
 74.125.224.231	s.youtube.com
 74.125.224.231	video-stats.video.google.com
+74.125.224.232	bks5.books.google.com
 74.125.224.232	clients4.google.com
 74.125.224.232	feedproxy.google.com
 74.125.224.232	feeds2.feedburner.com
@@ -3528,11 +3525,11 @@
 74.125.224.234	a-oz-opensocial.googleusercontent.com
 74.125.224.234	base4.googlehosted.com
 74.125.224.234	base5.googlehosted.com
-74.125.224.234	blogger.googleusercontent.com
 74.125.224.234	bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
 74.125.224.234	clients1.googleusercontent.com
 74.125.224.234	clients2.googleusercontent.com
 74.125.224.234	clients3.googleusercontent.com
+74.125.224.234	clients4.googleusercontent.com
 74.125.224.234	clients5.googleusercontent.com
 74.125.224.234	clients6.googleusercontent.com
 74.125.224.234	clients7.googleusercontent.com
@@ -3606,7 +3603,7 @@
 74.125.224.234	www-open-opensocial.googleusercontent.com
 74.125.224.234	www-oz-opensocial.googleusercontent.com
 74.125.224.236	0-focus-opensocial.googleusercontent.com
-74.125.224.236	clients4.googleusercontent.com
+74.125.224.236	blogger.googleusercontent.com
 74.125.224.236	doc-0s-7o-docs.googleusercontent.com
 74.125.224.236	doc-10-7o-docs.googleusercontent.com
 74.125.224.236	hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
@@ -3724,6 +3721,7 @@
 85.17.27.208	www50.multiupload.com
 85.17.27.208	www5.multiupload.com
 85.17.27.208	www.multiupload.com
+85.17.73.239	www13.multiupload.com
 88.221.117.47	www.me.com
 88.80.2.31	www.wikileaks.org
 88.80.2.33	wikileaks.org
