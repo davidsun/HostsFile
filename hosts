@@ -393,9 +393,10 @@
 173.194.79.108	smtp.gmail.com
 173.194.79.109	gmail-pop.l.google.com
 173.194.79.112	adwords.google.com
+173.194.79.112	adwords.google.sk
 173.194.79.115	checkout.google.com
 173.194.79.115	checkout.l.google.com
-173.194.79.117	music-streaming.l.google.com
+173.194.79.116	music-streaming.l.google.com
 173.194.79.117	t.doc-0-0-sj.sj.googleusercontent.com
 173.194.79.121	apiblog.youtube.com
 173.194.79.121	chrome.angrybirds.com
@@ -505,6 +506,7 @@
 184.169.84.33	oi55.tinypic.com
 184.169.84.33	oi56.tinypic.com
 184.169.84.33	posterous.com
+184.169.84.33	scribe.twitter.com
 184.169.84.33	t.co
 184.28.97.55	p.twimg.com
 199.16.156.11	integratedsearch.twitter.com
@@ -644,8 +646,10 @@
 208.117.238.144	tc.v21.cache4.c.youtube.com
 208.117.238.146	tc.v11.cache7.c.youtube.com
 208.117.238.147	tc.v16.cache4.c.youtube.com
+208.117.238.148	tc.v2.cache2.c.youtube.com
 208.117.238.148	tc.v2.cache4.c.youtube.com
 208.117.238.149	tc.v7.cache4.c.youtube.com
+208.117.238.150	tc.v12.cache3.c.youtube.com
 208.117.238.151	tc.v17.cache5.c.youtube.com
 208.117.238.152	tc.v23.cache1.c.youtube.com
 208.117.238.153	tc.v8.cache4.c.youtube.com
@@ -692,6 +696,7 @@
 208.117.238.24	tc.v23.cache4.c.youtube.com
 208.117.238.24	tc.v3.cache6.c.youtube.com
 208.117.238.28	tc.v24.cache1.c.youtube.com
+208.117.238.28	tc.v24.cache6.c.youtube.com
 208.117.238.28	tc.v4.cache1.c.youtube.com
 208.117.238.28	tc.v4.cache5.c.youtube.com
 208.117.238.29	tc.v9.cache4.c.youtube.com
@@ -724,7 +729,6 @@
 208.117.238.98	tc.v15.cache3.c.youtube.com
 208.117.242.10	tc.v22.cache4.c.youtube.com
 208.117.242.11	tc.v7.cache2.c.youtube.com
-208.117.242.12	tc.v12.cache3.c.youtube.com
 208.117.242.12	tc.v12.cache8.c.youtube.com
 208.117.242.13	tc.v17.cache1.c.youtube.com
 208.117.242.13	tc.v17.cache4.c.youtube.com
@@ -733,7 +737,6 @@
 208.117.242.14	tc.v3.cache1.c.youtube.com
 208.117.242.17	tc.v18.cache7.c.youtube.com
 208.117.242.18	tc.v24.cache2.c.youtube.com
-208.117.242.18	tc.v24.cache6.c.youtube.com
 208.117.242.18	tc.v24.cache8.c.youtube.com
 208.117.242.18	tc.v4.cache6.c.youtube.com
 208.117.242.18	tc.v4.cache8.c.youtube.com
@@ -779,7 +782,6 @@
 208.117.243.17	tc.v9.cache3.c.youtube.com
 208.117.243.18	tc.v17.cache2.c.youtube.com
 208.117.243.18	tc.v17.cache3.c.youtube.com
-208.117.243.19	tc.v2.cache2.c.youtube.com
 208.117.243.19	tc.v2.cache3.c.youtube.com
 208.117.243.212	tc.v10.cache8.c.youtube.com
 208.117.243.213	tc.v18.cache4.c.youtube.com
@@ -3048,14 +3050,13 @@
 74.125.103.9	o-o.preferred.sjc07s11.v16.lscache5.c.youtube.com
 74.125.127.102	spreadsheets-china.l.google.com
 74.125.127.102	writely-china.l.google.com
-74.125.127.112	adwords.google.sk
 74.125.127.116	large-uploads.l.google.com
 74.125.127.116	uploadsj.clients.google.com
-74.125.127.116	upload.video.google.com
 74.125.127.117	upload.youtube.com
 74.125.127.123	wifi.google.com
 74.125.127.123	wifi.l.google.com
 74.125.127.124	sslvideo-upload.l.google.com
+74.125.127.124	upload.video.google.com
 74.125.127.138	youtube-ui-china.l.google.com
 74.125.127.160	maps.google.cn
 74.125.127.160	mt1.google.cn
@@ -3635,11 +3636,11 @@
 74.125.224.170	www-open-opensocial.googleusercontent.com
 74.125.224.170	www-opensocial.googleusercontent.com
 74.125.224.170	www-opensocial-sandbox.googleusercontent.com
+74.125.224.171	4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
 74.125.224.172	0-open-opensocial.googleusercontent.com
 74.125.224.172	1-open-opensocial.googleusercontent.com
 74.125.224.172	2-open-opensocial.googleusercontent.com
 74.125.224.172	3-focus-opensocial.googleusercontent.com
-74.125.224.172	4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
 74.125.224.172	adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com
 74.125.224.172	a-oz-opensocial.googleusercontent.com
 74.125.224.172	base4.googlehosted.com
