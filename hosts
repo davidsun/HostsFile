@@ -1,13 +1,7 @@
-107.14.33.160	a1103.phobos.apple.com
-107.14.33.177	a96.phobos.apple.com
-107.14.33.203	a112.phobos.apple.com
-107.14.33.216	a143.phobos.apple.com
-107.14.33.216	a517.phobos.apple.com
 108.171.171.159	twitter.zendesk.com
 123.129.242.212	hub5idx.shub.sandai.net
 124.108.120.124	sa.edit.yahoo.com
 17.254.2.129	developer.apple.com
-173.194.25.6	o-o.preferred.sjc07s15.v21.lscache1.c.youtube.com
 173.194.26.102	v1.lscache4.c.youtube.com
 173.194.26.102	v1.nonxt4.c.youtube.com
 173.194.26.102	v21.lscache4.c.youtube.com
@@ -390,6 +384,7 @@
 173.194.26.89	v20.lscache2.c.youtube.com
 173.194.26.89	v20.nonxt2.c.youtube.com
 173.194.26.8	v11.lscache1.c.youtube.com
+173.194.26.8	v11.nonxt1.c.youtube.com
 173.194.26.9	v16.lscache1.c.youtube.com
 173.194.26.9	v16.nonxt1.c.youtube.com
 173.194.34.127	id.google.com
@@ -398,7 +393,6 @@
 173.194.79.108	smtp.gmail.com
 173.194.79.109	gmail-pop.l.google.com
 173.194.79.112	adwords.google.com
-173.194.79.112	adwords.google.sk
 173.194.79.115	checkout.google.com
 173.194.79.115	checkout.l.google.com
 173.194.79.117	music-streaming.l.google.com
@@ -419,8 +413,10 @@
 173.194.79.141	r3091-dot-latest-dot-project-slingshot-gp.appspot.com
 173.194.79.141	r3101-dot-latest-dot-project-slingshot-gp.appspot.com
 173.194.79.141	r3115-dot-latest-dot-project-slingshot-gp.appspot.com
+173.194.79.141	r3432-dot-latest-dot-project-slingshot-hr.appspot.com
 173.194.79.141	r4681-dot-latest-dot-project-slingshot-hr.appspot.com
 173.194.79.141	sunzhengproxy.appspot.com
+173.194.79.141	wcproxyx.appspot.com
 173.194.79.141	www.appspot.com
 173.194.79.141	www.googlelabs.com
 173.194.79.14	gmr-smtp-in.l.google.com
@@ -440,6 +436,7 @@
 173.194.79.160	www.google.cn
 173.194.79.160	www.gstatic.cn
 173.194.79.176	vp.video.google.com
+173.194.79.176	vp.video.l.google.com
 173.194.79.188	mtalk.google.com
 173.194.79.189	0.docs.google.com
 173.194.79.189	1.docs.google.com
@@ -475,6 +472,7 @@
 173.194.79.95	ajax.googleapis.com
 173.194.79.95	chart.googleapis.com
 173.194.79.95	fonts.googleapis.com
+173.194.79.95	googleapis.l.google.com
 173.194.79.95	maps.googleapis.com
 173.194.79.95	translate.googleapis.com
 173.194.79.95	www.googleapis.com
@@ -489,6 +487,7 @@
 184.169.77.33	si3.twimg.com
 184.169.77.33	si4.twimg.com
 184.169.84.33	betastream.twitter.com
+184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
 184.169.84.33	oi43.tinypic.com
@@ -506,7 +505,6 @@
 184.169.84.33	oi55.tinypic.com
 184.169.84.33	oi56.tinypic.com
 184.169.84.33	posterous.com
-184.169.84.33	scribe.twitter.com
 184.169.84.33	t.co
 184.28.97.55	p.twimg.com
 199.16.156.11	integratedsearch.twitter.com
@@ -514,6 +512,7 @@
 199.47.216.179	dropbox.com
 199.59.148.212	help.twitter.com
 199.59.148.212	m.twitter.com
+199.59.148.221	mobile.twitter.com
 199.59.149.137	dev.twitter.com
 203.208.46.100	r21.pek01s02.c.youtube.com
 203.208.46.101	r22.pek01s02.c.youtube.com
@@ -916,6 +915,7 @@
 23.61.248.10	a1341.phobos.apple.com
 23.61.248.10	a1359.phobos.apple.com
 23.61.248.10	a1419.phobos.apple.com
+23.61.248.10	a143.phobos.apple.com
 23.61.248.10	a1443.phobos.apple.com
 23.61.248.10	a1467.phobos.apple.com
 23.61.248.10	a1503.phobos.apple.com
@@ -1849,6 +1849,7 @@
 23.61.248.35	a467.phobos.apple.com
 23.61.248.35	a46.phobos.apple.com
 23.61.248.35	a515.phobos.apple.com
+23.61.248.35	a517.phobos.apple.com
 23.61.248.35	a518.phobos.apple.com
 23.61.248.35	a575.phobos.apple.com
 23.61.248.35	a696.phobos.apple.com
@@ -1991,6 +1992,7 @@
 23.61.248.41	a979.phobos.apple.com
 23.61.248.41	a984.phobos.apple.com
 23.61.248.42	a1030.phobos.apple.com
+23.61.248.42	a1103.phobos.apple.com
 23.61.248.42	a1130.phobos.apple.com
 23.61.248.42	a1155.phobos.apple.com
 23.61.248.42	a1156.phobos.apple.com
@@ -2166,6 +2168,7 @@
 23.61.248.49	a1111.phobos.apple.com
 23.61.248.49	a1121.phobos.apple.com
 23.61.248.49	a1126.phobos.apple.com
+23.61.248.49	a112.phobos.apple.com
 23.61.248.49	a1161.phobos.apple.com
 23.61.248.49	a1164.phobos.apple.com
 23.61.248.49	a118.phobos.apple.com
@@ -2776,6 +2779,7 @@
 23.61.248.65	a813.phobos.apple.com
 23.61.248.65	a895.phobos.apple.com
 23.61.248.65	a964.phobos.apple.com
+23.61.248.65	a96.phobos.apple.com
 23.61.248.65	a981.phobos.apple.com
 23.61.248.8	a1021.phobos.apple.com
 23.61.248.8	a1033.phobos.apple.com
@@ -2927,6 +2931,8 @@
 50.23.200.238	twitpic.com
 58.254.134.204	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
+62.146.87.171	62.146.87.171
+62.146.87.172	premium.avira-update.net
 62.212.66.130	multiupload.com
 62.212.73.70	www12.multiupload.com
 66.163.168.247	open.login.yahoo.com
@@ -3015,6 +3021,7 @@
 74.125.103.43	o-o.preferred.sjc07s11.v7.lscache2.c.youtube.com
 74.125.103.43	o-o.preferred.sjc07s15.v7.lscache4.c.youtube.com
 74.125.103.43	o-o.preferred.sjc07s15.v7.lscache8.c.youtube.com
+74.125.103.44	o-o.preferred.sjc07s15.v12.lscache4.c.youtube.com
 74.125.103.44	o-o.preferred.sjc07s15.v12.lscache8.c.youtube.com
 74.125.103.45	o-o.preferred.sjc07s11.v17.lscache2.c.youtube.com
 74.125.103.46	o-o.preferred.sjc07s15.v23.lscache8.c.youtube.com
@@ -3037,9 +3044,11 @@
 74.125.103.6	o-o.preferred.sjc07s11.v21.lscache3.c.youtube.com
 74.125.103.6	o-o.preferred.sjc07s11.v21.lscache7.c.youtube.com
 74.125.103.6	o-o.preferred.sjc07s15.v1.lscache1.c.youtube.com
+74.125.103.6	o-o.preferred.sjc07s15.v21.lscache1.c.youtube.com
 74.125.103.9	o-o.preferred.sjc07s11.v16.lscache5.c.youtube.com
 74.125.127.102	spreadsheets-china.l.google.com
 74.125.127.102	writely-china.l.google.com
+74.125.127.112	adwords.google.sk
 74.125.127.116	large-uploads.l.google.com
 74.125.127.116	uploadsj.clients.google.com
 74.125.127.116	upload.video.google.com
@@ -3052,8 +3061,6 @@
 74.125.127.160	mt1.google.cn
 74.125.127.160	mt2.google.cn
 74.125.127.176	qwqy.vp.video.l.google.com
-74.125.127.176	vp.video.l.google.com
-74.125.127.95	googleapis.l.google.com
 74.125.130.108	gmail-smtp.l.google.com
 74.125.130.125	talkx.l.google.com
 74.125.170.102	o-o.preferred.sjc07s11.v1.lscache7.c.youtube.com
@@ -3212,7 +3219,6 @@
 74.125.170.202	o-o.preferred.sjc07s15.v2.lscache4.c.youtube.com
 74.125.170.203	o-o.preferred.sjc07s11.v7.lscache4.c.youtube.com
 74.125.170.204	o-o.preferred.sjc07s11.v12.lscache4.c.youtube.com
-74.125.170.204	o-o.preferred.sjc07s15.v12.lscache4.c.youtube.com
 74.125.170.205	o-o.preferred.sjc07s11.v17.lscache4.c.youtube.com
 74.125.170.205	o-o.preferred.sjc07s15.v17.lscache4.c.youtube.com
 74.125.170.206	o-o.preferred.sjc07s11.v23.lscache4.c.youtube.com
@@ -3495,7 +3501,6 @@
 74.125.224.164	toolbarqueries.clients.google.com
 74.125.224.164	www.feedburner.com
 74.125.224.164	ytstatic.l.google.com
-74.125.224.165	appengine.google.com
 74.125.224.165	bks2.books.google.com
 74.125.224.165	bks7.books.google.com
 74.125.224.165	cbks2.google.com
@@ -3535,7 +3540,6 @@
 74.125.224.166	video.google.com
 74.125.224.166	video.l.google.com
 74.125.224.166	video-stats.l.google.com
-74.125.224.166	youtube.com
 74.125.224.167	cbk0.google.com
 74.125.224.167	cbk3.google.com
 74.125.224.167	docs0.google.com
@@ -3551,6 +3555,7 @@
 74.125.224.167	drive.google.com
 74.125.224.167	writely.google.com
 74.125.224.167	writely.l.google.com
+74.125.224.168	appengine.google.com
 74.125.224.168	calendar.google.com
 74.125.224.168	gg.google.cn
 74.125.224.168	goto.google.com
@@ -3680,6 +3685,7 @@
 74.125.224.174	picasaweb.google.com.hk
 74.125.224.174	safebrowsing.clients.google.com
 74.125.224.174	sb.google.com
+74.125.224.174	youtube.com
 74.125.224.175	g0.gstatic.com
 74.125.224.175	g1.gstatic.com
 74.125.224.175	g2.gstatic.com
@@ -3736,6 +3742,7 @@
 74.125.226.207	csi.l.google.com
 74.200.247.187	botd.wordpress.com
 74.200.247.187	stats.wordpress.com
+76.73.40.45	soutong.com
 76.74.254.120	en.forums.wordpress.com
 76.74.254.123	dashboard.wordpress.com
 76.74.254.123	forums.wordpress.com
@@ -3747,8 +3754,7 @@
 77.109.171.120	profile.ak.facebook.com
 77.109.171.120	profile.ak.fbcdn.net
 77.109.171.98	a3.twimg.com
-80.190.130.227	premium.avira-update.net
-80.190.130.229	premium.de.avira-update.com
+80.190.130.230	premium.de.avira-update.com
 85.17.27.208	www14.multiupload.com
 85.17.27.208	www15.multiupload.com
 85.17.27.208	www16.multiupload.com
