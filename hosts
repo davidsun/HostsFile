@@ -1,8 +1,3 @@
-107.14.33.203	a224.phobos.apple.com
-107.14.33.211	a1575.phobos.apple.com
-107.14.33.224	a235.phobos.apple.com
-107.14.33.226	a1245.phobos.apple.com
-107.14.33.226	a489.phobos.apple.com
 108.171.171.159	twitter.zendesk.com
 123.129.242.170	hub5idx.shub.sandai.net
 124.108.120.124	sa.edit.yahoo.com
@@ -782,6 +777,7 @@
 173.194.75.94	id.google.com.hk
 173.194.75.94	id.l.google.com
 173.194.79.141	appspot.com
+173.194.79.141	appspot.l.google.com
 173.194.79.141	chrometophone.appspot.com
 173.194.79.141	gv-gadget.appspot.com
 173.194.79.141	newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
@@ -797,13 +793,12 @@
 173.194.79.141	wcproxyx.appspot.com
 173.194.79.141	www.appspot.com
 173.194.79.141	www.googlelabs.com
-173.194.79.14	gmr-smtp-in.l.google.com
 173.194.79.160	ditu.google.cn
 173.194.79.160	maps.google.cn
+173.194.79.160	mt0.google.cn
 173.194.79.160	mt2.google.cn
 173.194.79.176	qwqy.vp.video.l.google.com
 173.194.79.188	mtalk.google.com
-173.194.79.189	5.docs.google.com
 173.194.79.93	dl-ssl.google.com
 173.236.207.127	mysql.imfido.com
 174.36.51.42	forums.dropbox.com
@@ -825,13 +820,11 @@
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
-184.169.84.33	oi48.tinypic.com
-184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
-184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
+184.169.84.33	oi55.tinypic.com
 184.169.84.33	oi56.tinypic.com
 184.169.84.33	posterous.com
 184.169.84.33	scribe.twitter.com
@@ -1231,6 +1224,7 @@
 23.61.248.10	a1185.phobos.apple.com
 23.61.248.10	a1209.phobos.apple.com
 23.61.248.10	a1239.phobos.apple.com
+23.61.248.10	a1245.phobos.apple.com
 23.61.248.10	a1263.phobos.apple.com
 23.61.248.10	a1281.phobos.apple.com
 23.61.248.10	a1323.phobos.apple.com
@@ -1499,6 +1493,7 @@
 23.61.248.18	a1505.phobos.apple.com
 23.61.248.18	a1531.phobos.apple.com
 23.61.248.18	a1558.phobos.apple.com
+23.61.248.18	a157.phobos.apple.com
 23.61.248.18	a1591.phobos.apple.com
 23.61.248.18	a1593.phobos.apple.com
 23.61.248.18	a1635.phobos.apple.com
@@ -1596,6 +1591,7 @@
 23.61.248.19	a241.phobos.apple.com
 23.61.248.19	a297.phobos.apple.com
 23.61.248.19	a44.phobos.apple.com
+23.61.248.19	a489.phobos.apple.com
 23.61.248.19	a496.phobos.apple.com
 23.61.248.19	a523.phobos.apple.com
 23.61.248.19	a619.phobos.apple.com
@@ -2173,6 +2169,7 @@
 23.61.248.35	a910.phobos.apple.com
 23.61.248.35	a952.phobos.apple.com
 23.61.248.35	a953.phobos.apple.com
+23.61.248.35	a957.phobos.apple.com
 23.61.248.35	a95.phobos.apple.com
 23.61.248.35	a985.phobos.apple.com
 23.61.248.35	a994.phobos.apple.com
@@ -2613,6 +2610,7 @@
 23.61.248.50	a1995.phobos.apple.com
 23.61.248.50	a219.phobos.apple.com
 23.61.248.50	a221.phobos.apple.com
+23.61.248.50	a224.phobos.apple.com
 23.61.248.50	a234.phobos.apple.com
 23.61.248.50	a250.phobos.apple.com
 23.61.248.50	a30.phobos.apple.com
@@ -2776,7 +2774,6 @@
 23.61.248.56	a882.phobos.apple.com
 23.61.248.56	a922.phobos.apple.com
 23.61.248.56	a94.phobos.apple.com
-23.61.248.56	a957.phobos.apple.com
 23.61.248.56	a960.phobos.apple.com
 23.61.248.56	a975.phobos.apple.com
 23.61.248.56	a987.phobos.apple.com
@@ -2796,6 +2793,7 @@
 23.61.248.57	a1430.phobos.apple.com
 23.61.248.57	a1437.phobos.apple.com
 23.61.248.57	a1539.phobos.apple.com
+23.61.248.57	a1575.phobos.apple.com
 23.61.248.57	a1577.phobos.apple.com
 23.61.248.57	a1586.phobos.apple.com
 23.61.248.57	a1599.phobos.apple.com
@@ -2865,7 +2863,6 @@
 23.61.248.58	a1343.phobos.apple.com
 23.61.248.58	a1355.phobos.apple.com
 23.61.248.58	a1554.phobos.apple.com
-23.61.248.58	a157.phobos.apple.com
 23.61.248.58	a1619.phobos.apple.com
 23.61.248.58	a1627.phobos.apple.com
 23.61.248.58	a1674.phobos.apple.com
@@ -2951,6 +2948,7 @@
 23.61.248.59	a20.phobos.apple.com
 23.61.248.59	a22.phobos.apple.com
 23.61.248.59	a230.phobos.apple.com
+23.61.248.59	a235.phobos.apple.com
 23.61.248.59	a246.phobos.apple.com
 23.61.248.59	a259.phobos.apple.com
 23.61.248.59	a278.phobos.apple.com
@@ -3305,7 +3303,6 @@
 72.21.91.19	s.stats.wordpress.com
 72.21.91.19	s.wordpress.com
 72.21.91.19	s.wordpress.org
-72.233.2.58	dashboard.wordpress.com
 72.233.69.6	botd2.wordpress.com
 72.233.69.6	lb.wordpress.com
 72.233.69.6	lucifr.wordpress.com
@@ -3406,6 +3403,7 @@
 74.125.127.139	groups.google.com
 74.125.127.139	groups.l.google.com
 74.125.127.139	writely-china.l.google.com
+74.125.127.14	gmr-smtp-in.l.google.com
 74.125.127.160	0.gvt0.cn
 74.125.127.160	1.gvt0.cn
 74.125.127.160	2.gvt0.cn
@@ -3428,6 +3426,7 @@
 74.125.127.189	2.docs.google.com
 74.125.127.189	3.docs.google.com
 74.125.127.189	4.docs.google.com
+74.125.127.189	5.docs.google.com
 74.125.127.189	browserchannel-docs.l.google.com
 74.125.127.191	beta.blogger.com
 74.125.127.191	blogger.com
@@ -3854,7 +3853,6 @@
 74.125.224.163	khm.l.google.com
 74.125.224.163	lh2.l.google.com
 74.125.224.163	mt7.gstatic.com
-74.125.224.163	mts0.google.com
 74.125.224.163	mw2.google.com
 74.125.224.163	m.youtube.com
 74.125.224.163	spreadsheet.google.com
@@ -3879,6 +3877,7 @@
 74.125.224.164	khms1.google.com
 74.125.224.164	khms3.google.com
 74.125.224.164	khms.l.google.com
+74.125.224.164	mts0.google.com
 74.125.224.164	mts1.google.com
 74.125.224.164	mts2.google.com
 74.125.224.164	mts3.google.com
@@ -3971,7 +3970,6 @@
 74.125.224.174	safebrowsing.clients.google.com
 74.125.224.174	sb.google.com
 74.125.224.174	youtube.com
-74.125.224.180	tbn3.google.com
 74.125.224.202	1-focus-opensocial.googleusercontent.com
 74.125.224.202	adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com
 74.125.224.202	base5.googlehosted.com
@@ -4095,6 +4093,7 @@
 74.125.224.210	desktop.l.google.com
 74.125.224.210	photos1.blogger.com
 74.125.224.210	t2.gstatic.com
+74.125.224.210	tbn3.google.com
 74.125.224.210	www.google.com
 74.125.224.210	www.google.com.hk
 74.125.224.210	www.l.google.com
@@ -4132,6 +4131,7 @@
 76.73.40.45	soutong.com
 76.74.254.120	wpcom.wordpress.com
 76.74.254.120	zh-sg.wordpress.com
+76.74.254.123	dashboard.wordpress.com
 76.74.254.123	en.blog.wordpress.com
 76.74.254.123	en.forums.wordpress.com
 76.74.254.123	forums.wordpress.com
