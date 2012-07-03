@@ -5,7 +5,6 @@
 107.14.33.49	photos-h.ak.fbcdn.net
 107.14.33.50	photos-c.ak.fbcdn.net
 107.14.33.50	photos-g.ak.fbcdn.net
-107.14.33.67	a705.phobos.apple.com
 107.14.33.9	photos-d.ak.fbcdn.net
 108.171.171.159	twitter.zendesk.com
 123.129.242.168	hub5idx.shub.sandai.net
@@ -479,7 +478,6 @@
 173.194.26.233	o-o.preferred.sea07s11.v16.lscache8.c.youtube.com
 173.194.26.233	o-o.preferred.sea07s15.v16.lscache8.c.youtube.com
 173.194.26.233	v16.lscache8.c.youtube.com
-173.194.26.233	v16.nonxt8.c.youtube.com
 173.194.26.234	o-o.preferred.sea07s11.v22.lscache8.c.youtube.com
 173.194.26.234	o-o.preferred.sea07s11.v2.lscache8.c.youtube.com
 173.194.26.234	o-o.preferred.sea07s15.v22.lscache8.c.youtube.com
@@ -815,7 +813,6 @@
 184.169.84.33	scribe.twitter.com
 184.169.84.33	si0.twimg.com
 184.169.84.33	si1.twimg.com
-184.169.84.33	si2.twimg.com
 184.169.84.33	si3.twimg.com
 184.169.84.33	si4.twimg.com
 184.169.84.33	si5.twimg.com
@@ -1266,7 +1263,6 @@
 216.156.147.16	a1271.phobos.apple.com
 216.156.147.16	a1295.phobos.apple.com
 216.156.147.16	a1301.phobos.apple.com
-216.156.147.16	a131.phobos.apple.com
 216.156.147.16	a1379.phobos.apple.com
 216.156.147.16	a1403.phobos.apple.com
 216.156.147.16	a140.phobos.apple.com
@@ -1510,7 +1506,6 @@
 216.156.147.32	a1800.phobos.apple.com
 216.156.147.32	a186.phobos.apple.com
 216.156.147.32	a1890.phobos.apple.com
-216.156.147.32	a336.phobos.apple.com
 216.156.147.32	a440.phobos.apple.com
 216.156.147.32	a478.phobos.apple.com
 216.156.147.32	a590.phobos.apple.com
@@ -1615,7 +1610,6 @@
 216.156.147.35	a500.phobos.apple.com
 216.156.147.35	a539.phobos.apple.com
 216.156.147.35	a544.phobos.apple.com
-216.156.147.35	a652.phobos.apple.com
 216.156.147.35	a732.phobos.apple.com
 216.156.147.35	a75.phobos.apple.com
 216.156.147.35	a771.phobos.apple.com
@@ -1807,7 +1801,6 @@
 216.156.147.50	a1880.phobos.apple.com
 216.156.147.50	a1881.phobos.apple.com
 216.156.147.50	a1901.phobos.apple.com
-216.156.147.50	a202.phobos.apple.com
 216.156.147.50	a38.phobos.apple.com
 216.156.147.50	a408.phobos.apple.com
 216.156.147.50	a554.phobos.apple.com
@@ -1971,7 +1964,6 @@
 216.156.147.64	a1345.phobos.apple.com
 216.156.147.64	a1346.phobos.apple.com
 216.156.147.64	a136.phobos.apple.com
-216.156.147.64	a1370.phobos.apple.com
 216.156.147.64	a1431.phobos.apple.com
 216.156.147.64	a1549.phobos.apple.com
 216.156.147.64	a1596.phobos.apple.com
@@ -2502,7 +2494,6 @@
 216.156.149.123	a968.phobos.apple.com
 216.156.149.128	a1066.phobos.apple.com
 216.156.149.128	a1076.phobos.apple.com
-216.156.149.128	a1097.phobos.apple.com
 216.156.149.128	a1112.phobos.apple.com
 216.156.149.128	a1207.phobos.apple.com
 216.156.149.128	a1225.phobos.apple.com
@@ -2828,6 +2819,7 @@
 216.252.124.32	row.bc.yahoo.com
 216.252.124.32	us.bc.yahoo.com
 2.17.130.110	s-static.ak.facebook.com
+2.17.159.144	si2.twimg.com
 221.123.176.123	s5.flashget.com
 221.123.176.136	cplog.flashget.com
 23.0.210.46	www.icloud.com
@@ -3734,6 +3726,7 @@
 77.109.171.128	a1930.phobos.apple.com
 77.109.171.128	a1948.phobos.apple.com
 77.109.171.128	a238.phobos.apple.com
+77.109.171.128	a652.phobos.apple.com
 77.109.171.129	a1085.phobos.apple.com
 77.109.171.129	a1091.phobos.apple.com
 77.109.171.129	a1127.phobos.apple.com
@@ -3785,6 +3778,7 @@
 77.109.171.138	a1347.phobos.apple.com
 77.109.171.138	a168.phobos.apple.com
 77.109.171.138	a268.phobos.apple.com
+77.109.171.138	a336.phobos.apple.com
 77.109.171.138	a34.phobos.apple.com
 77.109.171.138	a437.phobos.apple.com
 77.109.171.138	a576.phobos.apple.com
@@ -3934,6 +3928,7 @@
 77.109.171.169	a927.phobos.apple.com
 77.109.171.170	a1151.phobos.apple.com
 77.109.171.170	a122.phobos.apple.com
+77.109.171.170	a1370.phobos.apple.com
 77.109.171.170	a1655.phobos.apple.com
 77.109.171.170	a191.phobos.apple.com
 77.109.171.170	a253.phobos.apple.com
@@ -3958,9 +3953,11 @@
 77.109.171.177	a1282.phobos.apple.com
 77.109.171.177	a1587.phobos.apple.com
 77.109.171.177	a1643.phobos.apple.com
+77.109.171.177	a202.phobos.apple.com
 77.109.171.177	a220.phobos.apple.com
 77.109.171.177	a609.phobos.apple.com
 77.109.171.177	a650.phobos.apple.com
+77.109.171.177	a705.phobos.apple.com
 77.109.171.177	a770.phobos.apple.com
 77.109.171.178	a1455.phobos.apple.com
 77.109.171.178	a1464.phobos.apple.com
@@ -4069,6 +4066,7 @@
 77.109.171.194	a98.phobos.apple.com
 77.109.171.194	a999.phobos.apple.com
 77.109.171.195	a1148.phobos.apple.com
+77.109.171.195	a131.phobos.apple.com
 77.109.171.195	a1377.phobos.apple.com
 77.109.171.195	a1389.phobos.apple.com
 77.109.171.195	a1472.phobos.apple.com
@@ -4096,6 +4094,7 @@
 77.109.171.200	a821.phobos.apple.com
 77.109.171.200	a856.phobos.apple.com
 77.109.171.200	a898.phobos.apple.com
+77.109.171.201	a1097.phobos.apple.com
 77.109.171.201	a1223.phobos.apple.com
 77.109.171.201	a1275.phobos.apple.com
 77.109.171.201	a1619.phobos.apple.com
