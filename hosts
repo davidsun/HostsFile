@@ -1191,9 +1191,6 @@
 216.115.107.207	www.flickr.com
 216.115.97.236	d.yimg.com
 216.115.97.236	l.yimg.com
-216.156.147.34	a76.phobos.apple.com
-216.156.147.40	a1142.phobos.apple.com
-216.156.149.123	a312.phobos.apple.com
 216.252.124.30	row.bc.yahoo.com
 216.252.124.30	us.bc.yahoo.com
 221.123.176.125	s5.flashget.com
@@ -1339,6 +1336,7 @@
 23.61.248.11	a718.phobos.apple.com
 23.61.248.11	a749.phobos.apple.com
 23.61.248.11	a760.phobos.apple.com
+23.61.248.11	a76.phobos.apple.com
 23.61.248.11	a778.phobos.apple.com
 23.61.248.11	a790.phobos.apple.com
 23.61.248.11	a802.phobos.apple.com
@@ -1800,6 +1798,7 @@
 23.61.248.26	a1966.phobos.apple.com
 23.61.248.26	a200.phobos.apple.com
 23.61.248.26	a291.phobos.apple.com
+23.61.248.26	a312.phobos.apple.com
 23.61.248.26	a322.phobos.apple.com
 23.61.248.26	a386.phobos.apple.com
 23.61.248.26	a396.phobos.apple.com
@@ -2765,6 +2764,7 @@
 23.61.248.57	a1081.phobos.apple.com
 23.61.248.57	a1117.phobos.apple.com
 23.61.248.57	a1139.phobos.apple.com
+23.61.248.57	a1142.phobos.apple.com
 23.61.248.57	a1188.phobos.apple.com
 23.61.248.57	a1288.phobos.apple.com
 23.61.248.57	a1366.phobos.apple.com
@@ -4179,6 +4179,7 @@
 95.211.99.3	www7.multiupload.com
 95.211.99.4	www10.multiupload.com
 95.211.99.5	www8.multiupload.com
+98.136.170.121	farm6.static.flickr.com
 98.136.170.121	gq1.farm6.static.flickr.com
 98.136.246.29	c5.ah.yahoo.com
 98.136.43.76	geo.yahoo.com
