@@ -799,6 +799,7 @@
 184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
+184.169.84.33	oi47.tinypic.com
 184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
@@ -3755,7 +3756,6 @@
 74.125.224.208	toolbarqueries.google.com
 74.125.224.208	toolbarqueries.google.com.hk
 74.125.224.208	toolbarqueries.l.google.com
-74.125.224.240	www.google.com.hk
 74.125.224.248	id.google.cn
 74.125.224.248	id.google.com
 74.125.224.248	id.google.com.hk
@@ -3868,6 +3868,7 @@
 74.125.239.12	www-opensocial.googleusercontent.com
 74.125.239.12	www-opensocial-sandbox.googleusercontent.com
 74.125.239.12	www-oz-opensocial.googleusercontent.com
+74.125.239.14	browsersync.google.com
 74.125.239.14	browsersync.l.google.com
 74.125.239.14	cbk1.google.com
 74.125.239.14	mt3.gstatic.com
@@ -3875,6 +3876,7 @@
 74.125.239.14	mts2.google.com
 74.125.239.14	mts3.google.com
 74.125.239.14	sketchup.google.com
+74.125.239.14	toolbar.google.com
 74.125.239.14	tools.google.com
 74.125.239.15	g0.gstatic.com
 74.125.239.15	g1.gstatic.com
@@ -3959,6 +3961,7 @@
 74.125.239.20	scholar.l.google.com
 74.125.239.20	t2.gstatic.com
 74.125.239.20	www.google.com
+74.125.239.20	www.google.com.hk
 74.125.239.20	www.l.google.com
 74.125.239.21	gmail.com
 74.125.239.22	googlemail.l.google.com
@@ -3982,6 +3985,7 @@
 74.125.239.30	ssl.google-analytics.com
 74.125.239.3	cbk2.google.com
 74.125.239.3	feedproxy.google.com
+74.125.239.3	feeds2.feedburner.com
 74.125.239.3	feeds.feedburner.com
 74.125.239.3	gdata.youtube.com
 74.125.239.3	goo.gl
@@ -4019,7 +4023,6 @@
 74.125.239.4	writely.l.google.com
 74.125.239.4	www.google-analytics.com
 74.125.239.5	apis.google.com
-74.125.239.5	browsersync.google.com
 74.125.239.5	cache.pack.google.com
 74.125.239.5	cbks0.google.com
 74.125.239.5	clients2.google.com
@@ -4058,11 +4061,9 @@
 74.125.239.6	picasaweb.google.com
 74.125.239.6	places.google.com
 74.125.239.6	youtu.be
-74.125.239.7	feeds2.feedburner.com
 74.125.239.7	gg.google.cn
 74.125.239.7	mobilemaps.clients.google.com
 74.125.239.7	mt0.gstatic.com
-74.125.239.7	toolbar.google.com
 74.125.239.8	0.gvt0.com
 74.125.239.8	1.gvt0.com
 74.125.239.8	2.gvt0.com
