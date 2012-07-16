@@ -294,6 +294,7 @@
 173.194.26.176	o-o.preferred.sea07s15.v13.lscache6.c.youtube.com
 173.194.26.176	v13.lscache6.c.youtube.com
 173.194.26.176	v13.nonxt6.c.youtube.com
+173.194.26.177	o-o.preferred.sea07s11.v18.lscache6.c.youtube.com
 173.194.26.177	o-o.preferred.sea07s15.v18.lscache6.c.youtube.com
 173.194.26.177	v18.lscache6.c.youtube.com
 173.194.26.177	v18.nonxt6.c.youtube.com
@@ -406,6 +407,7 @@
 173.194.26.208	v13.lscache7.c.youtube.com
 173.194.26.208	v13.nonxt7.c.youtube.com
 173.194.26.209	o-o.preferred.sea07s11.v18.lscache7.c.youtube.com
+173.194.26.209	o-o.preferred.sea07s15.v18.lscache7.c.youtube.com
 173.194.26.209	v18.lscache7.c.youtube.com
 173.194.26.209	v18.nonxt7.c.youtube.com
 173.194.26.20	o-o.preferred.sea07s11.v14.lscache1.c.youtube.com
@@ -789,6 +791,7 @@
 184.169.77.33	si1.twimg.com
 184.169.77.33	si2.twimg.com
 184.169.84.33	a0.twimg.com
+184.169.84.33	betastream.twitter.com
 184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
@@ -796,11 +799,11 @@
 184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
-184.169.84.33	oi47.tinypic.com
 184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
+184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
@@ -3752,6 +3755,7 @@
 74.125.224.208	toolbarqueries.google.com
 74.125.224.208	toolbarqueries.google.com.hk
 74.125.224.208	toolbarqueries.l.google.com
+74.125.224.240	www.google.com.hk
 74.125.224.248	id.google.cn
 74.125.224.248	id.google.com
 74.125.224.248	id.google.com.hk
@@ -3864,16 +3868,13 @@
 74.125.239.12	www-opensocial.googleusercontent.com
 74.125.239.12	www-opensocial-sandbox.googleusercontent.com
 74.125.239.12	www-oz-opensocial.googleusercontent.com
-74.125.239.14	browsersync.google.com
 74.125.239.14	browsersync.l.google.com
 74.125.239.14	cbk1.google.com
-74.125.239.14	earth.google.com
 74.125.239.14	mt3.gstatic.com
 74.125.239.14	mts0.google.com
 74.125.239.14	mts2.google.com
 74.125.239.14	mts3.google.com
 74.125.239.14	sketchup.google.com
-74.125.239.14	toolbar.google.com
 74.125.239.14	tools.google.com
 74.125.239.15	g0.gstatic.com
 74.125.239.15	g1.gstatic.com
@@ -3918,6 +3919,7 @@
 74.125.239.1	developer.android.com
 74.125.239.1	dl.google.com
 74.125.239.1	dl.l.google.com
+74.125.239.1	earth.google.com
 74.125.239.1	encrypted.google.com
 74.125.239.1	feedburner.google.com
 74.125.239.1	finance.google.com
@@ -3957,7 +3959,6 @@
 74.125.239.20	scholar.l.google.com
 74.125.239.20	t2.gstatic.com
 74.125.239.20	www.google.com
-74.125.239.20	www.google.com.hk
 74.125.239.20	www.l.google.com
 74.125.239.21	gmail.com
 74.125.239.22	googlemail.l.google.com
@@ -3981,7 +3982,6 @@
 74.125.239.30	ssl.google-analytics.com
 74.125.239.3	cbk2.google.com
 74.125.239.3	feedproxy.google.com
-74.125.239.3	feeds2.feedburner.com
 74.125.239.3	feeds.feedburner.com
 74.125.239.3	gdata.youtube.com
 74.125.239.3	goo.gl
@@ -4019,6 +4019,7 @@
 74.125.239.4	writely.l.google.com
 74.125.239.4	www.google-analytics.com
 74.125.239.5	apis.google.com
+74.125.239.5	browsersync.google.com
 74.125.239.5	cache.pack.google.com
 74.125.239.5	cbks0.google.com
 74.125.239.5	clients2.google.com
@@ -4057,9 +4058,11 @@
 74.125.239.6	picasaweb.google.com
 74.125.239.6	places.google.com
 74.125.239.6	youtu.be
+74.125.239.7	feeds2.feedburner.com
 74.125.239.7	gg.google.cn
 74.125.239.7	mobilemaps.clients.google.com
 74.125.239.7	mt0.gstatic.com
+74.125.239.7	toolbar.google.com
 74.125.239.8	0.gvt0.com
 74.125.239.8	1.gvt0.com
 74.125.239.8	2.gvt0.com
@@ -4119,6 +4122,7 @@
 76.74.254.123	zh.wordpress.com
 80.190.130.227	premium.avira-update.net
 80.190.130.230	premium.de.avira-update.com
+85.17.27.208	www14.multiupload.com
 85.17.27.208	www15.multiupload.com
 85.17.27.208	www16.multiupload.com
 85.17.27.208	www17.multiupload.com
