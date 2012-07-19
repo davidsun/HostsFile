@@ -1,7 +1,7 @@
 107.14.33.19	photos-b.ak.fbcdn.net
-107.14.33.34	photos-g.ak.fbcdn.net
 107.14.33.49	photos-a.ak.fbcdn.net
 107.14.33.50	photos-c.ak.fbcdn.net
+107.14.33.50	photos-g.ak.fbcdn.net
 107.14.33.57	photos-f.ak.fbcdn.net
 107.14.33.59	photos-d.ak.fbcdn.net
 107.14.33.59	photos-h.ak.fbcdn.net
@@ -382,6 +382,7 @@
 173.194.26.203	o-o.preferred.sea07s15.v7.lscache7.c.youtube.com
 173.194.26.203	v7.lscache7.c.youtube.com
 173.194.26.203	v7.nonxt7.c.youtube.com
+173.194.26.204	o-o.preferred.sea07s11.v12.lscache7.c.youtube.com
 173.194.26.204	o-o.preferred.sea07s15.v12.lscache7.c.youtube.com
 173.194.26.204	v12.lscache7.c.youtube.com
 173.194.26.204	v12.nonxt7.c.youtube.com
@@ -482,6 +483,7 @@
 173.194.26.234	o-o.preferred.sea07s15.v22.lscache8.c.youtube.com
 173.194.26.234	o-o.preferred.sea07s15.v2.lscache8.c.youtube.com
 173.194.26.234	v22.lscache8.c.youtube.com
+173.194.26.234	v22.nonxt8.c.youtube.com
 173.194.26.234	v2.lscache8.c.youtube.com
 173.194.26.234	v2.nonxt8.c.youtube.com
 173.194.26.235	o-o.preferred.sea07s11.v7.lscache8.c.youtube.com
@@ -802,9 +804,12 @@
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
+184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
+184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
 184.169.84.33	oi52.tinypic.com
+184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
 184.169.84.33	oi56.tinypic.com
@@ -1566,6 +1571,7 @@
 216.156.147.24	a335.phobos.apple.com
 216.156.147.24	a381.phobos.apple.com
 216.156.147.24	a415.phobos.apple.com
+216.156.147.24	a436.phobos.apple.com
 216.156.147.24	a437.phobos.apple.com
 216.156.147.24	a518.phobos.apple.com
 216.156.147.24	a51.phobos.apple.com
@@ -2556,7 +2562,6 @@
 216.156.147.58	a1495.phobos.apple.com
 216.156.147.58	a1502.phobos.apple.com
 216.156.147.58	a1567.phobos.apple.com
-216.156.147.58	a1604.phobos.apple.com
 216.156.147.58	a1612.phobos.apple.com
 216.156.147.58	a1615.phobos.apple.com
 216.156.147.58	a1630.phobos.apple.com
@@ -2645,7 +2650,6 @@
 216.156.147.64	a1049.phobos.apple.com
 216.156.147.64	a1052.phobos.apple.com
 216.156.147.64	a1054.phobos.apple.com
-216.156.147.64	a1064.phobos.apple.com
 216.156.147.64	a1080.phobos.apple.com
 216.156.147.64	a1094.phobos.apple.com
 216.156.147.64	a1150.phobos.apple.com
@@ -3165,6 +3169,7 @@
 216.156.147.8	a988.phobos.apple.com
 216.156.147.8	a991.phobos.apple.com
 216.156.147.8	a997.phobos.apple.com
+216.156.147.9	a1064.phobos.apple.com
 216.156.147.9	a1076.phobos.apple.com
 216.156.147.9	a1100.phobos.apple.com
 216.156.147.9	a1178.phobos.apple.com
@@ -3181,6 +3186,7 @@
 216.156.147.9	a146.phobos.apple.com
 216.156.147.9	a1526.phobos.apple.com
 216.156.147.9	a1532.phobos.apple.com
+216.156.147.9	a1604.phobos.apple.com
 216.156.147.9	a164.phobos.apple.com
 216.156.147.9	a1688.phobos.apple.com
 216.156.147.9	a1712.phobos.apple.com
@@ -3226,7 +3232,6 @@
 62.212.73.68	www19.multiupload.com
 62.212.73.70	www12.multiupload.com
 62.212.73.80	www23.multiupload.com
-63.141.192.131	a436.phobos.apple.com
 63.141.196.147	swcdn.apple.com
 63.141.196.155	movies.apple.com
 63.141.196.161	adcdownload.apple.com
@@ -3867,7 +3872,6 @@
 74.125.239.12	www-oz-opensocial.googleusercontent.com
 74.125.239.14	browsersync.google.com
 74.125.239.14	browsersync.l.google.com
-74.125.239.14	cbk0.google.com
 74.125.239.14	cbk1.google.com
 74.125.239.14	mt3.gstatic.com
 74.125.239.14	mts0.google.com
@@ -4086,6 +4090,7 @@
 74.125.239.8	youtube-ui.l.google.com
 74.125.239.9	appengine.google.com
 74.125.239.9	bp0.blogger.com
+74.125.239.9	cbk0.google.com
 74.125.239.9	cbks2.google.com
 74.125.239.9	clients1.google.com
 74.125.239.9	clients3.google.com
@@ -4123,8 +4128,9 @@
 83.149.126.40	www18.multiupload.com
 85.17.122.103	www21.multiupload.com
 85.17.123.20	www22.multiupload.com
+85.17.190.226	www16.multiupload.com
 85.17.190.229	www17.multiupload.com
-85.17.27.208	www16.multiupload.com
+85.17.27.208	www15.multiupload.com
 85.17.27.208	www24.multiupload.com
 85.17.27.208	www25.multiupload.com
 85.17.27.208	www26.multiupload.com
@@ -4157,7 +4163,6 @@
 85.17.27.208	www5.multiupload.com
 85.17.27.208	www.multiupload.com
 85.17.73.226	www20.multiupload.com
-85.17.73.227	www15.multiupload.com
 85.17.73.239	www13.multiupload.com
 88.80.2.31	www.wikileaks.org
 88.80.2.33	wikileaks.org
