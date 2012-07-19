@@ -2562,6 +2562,7 @@
 216.156.147.58	a1495.phobos.apple.com
 216.156.147.58	a1502.phobos.apple.com
 216.156.147.58	a1567.phobos.apple.com
+216.156.147.58	a1604.phobos.apple.com
 216.156.147.58	a1612.phobos.apple.com
 216.156.147.58	a1615.phobos.apple.com
 216.156.147.58	a1630.phobos.apple.com
@@ -3186,7 +3187,6 @@
 216.156.147.9	a146.phobos.apple.com
 216.156.147.9	a1526.phobos.apple.com
 216.156.147.9	a1532.phobos.apple.com
-216.156.147.9	a1604.phobos.apple.com
 216.156.147.9	a164.phobos.apple.com
 216.156.147.9	a1688.phobos.apple.com
 216.156.147.9	a1712.phobos.apple.com
@@ -4130,7 +4130,6 @@
 85.17.123.20	www22.multiupload.com
 85.17.190.226	www16.multiupload.com
 85.17.190.229	www17.multiupload.com
-85.17.27.208	www15.multiupload.com
 85.17.27.208	www24.multiupload.com
 85.17.27.208	www25.multiupload.com
 85.17.27.208	www26.multiupload.com
@@ -4163,6 +4162,7 @@
 85.17.27.208	www5.multiupload.com
 85.17.27.208	www.multiupload.com
 85.17.73.226	www20.multiupload.com
+85.17.73.227	www15.multiupload.com
 85.17.73.239	www13.multiupload.com
 88.80.2.31	www.wikileaks.org
 88.80.2.33	wikileaks.org
