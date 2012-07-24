@@ -791,6 +791,7 @@
 173.194.79.160	mt1.google.cn
 173.194.79.160	mt2.google.cn
 173.194.79.160	mt.google.cn
+173.194.79.176	pr.vp.video.l.google.com
 173.194.79.176	qwqy.vp.video.l.google.com
 173.194.79.176	vp.video.google.com
 173.194.79.176	vp.video.l.google.com
@@ -807,6 +808,7 @@
 184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
 184.169.84.33	oi43.tinypic.com
+184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
@@ -814,12 +816,12 @@
 184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
+184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
 184.169.84.33	oi56.tinypic.com
 184.169.84.33	posterous.com
-184.169.84.33	scribe.twitter.com
 184.169.84.33	t.co
 184.25.104.54	discussions.apple.com
 184.25.105.46	www.icloud.com
@@ -1224,8 +1226,9 @@
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
-23.61.248.32	a232.phobos.apple.com
-23.61.248.33	a1601.phobos.apple.com
+23.61.248.16	a1883.phobos.apple.com
+23.61.248.18	a1590.phobos.apple.com
+23.61.248.58	a109.phobos.apple.com
 50.23.200.239	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -1523,6 +1526,7 @@
 63.141.192.107	a2000.phobos.apple.com
 63.141.192.107	a204.phobos.apple.com
 63.141.192.107	a219.phobos.apple.com
+63.141.192.107	a232.phobos.apple.com
 63.141.192.107	a252.phobos.apple.com
 63.141.192.107	a258.phobos.apple.com
 63.141.192.107	a26.phobos.apple.com
@@ -1777,7 +1781,6 @@
 63.141.192.114	a1795.phobos.apple.com
 63.141.192.114	a1799.phobos.apple.com
 63.141.192.114	a1870.phobos.apple.com
-63.141.192.114	a1883.phobos.apple.com
 63.141.192.114	a1901.phobos.apple.com
 63.141.192.114	a1932.phobos.apple.com
 63.141.192.114	a1936.phobos.apple.com
@@ -1996,7 +1999,6 @@
 63.141.192.120	a995.phobos.apple.com
 63.141.192.121	a1009.phobos.apple.com
 63.141.192.121	a1097.phobos.apple.com
-63.141.192.121	a109.phobos.apple.com
 63.141.192.121	a1124.phobos.apple.com
 63.141.192.121	a1126.phobos.apple.com
 63.141.192.121	a1166.phobos.apple.com
@@ -2020,7 +2022,6 @@
 63.141.192.121	a1553.phobos.apple.com
 63.141.192.121	a1554.phobos.apple.com
 63.141.192.121	a1556.phobos.apple.com
-63.141.192.121	a1590.phobos.apple.com
 63.141.192.121	a1679.phobos.apple.com
 63.141.192.121	a1683.phobos.apple.com
 63.141.192.121	a1718.phobos.apple.com
@@ -2762,6 +2763,7 @@
 63.141.192.90	a1505.phobos.apple.com
 63.141.192.90	a1523.phobos.apple.com
 63.141.192.90	a1589.phobos.apple.com
+63.141.192.90	a1601.phobos.apple.com
 63.141.192.90	a1721.phobos.apple.com
 63.141.192.90	a1739.phobos.apple.com
 63.141.192.90	a1745.phobos.apple.com
@@ -3403,7 +3405,6 @@
 74.125.127.160	mt3.google.cn
 74.125.127.160	www.google.cn
 74.125.127.160	www.gstatic.cn
-74.125.127.176	pr.vp.video.l.google.com
 74.125.127.189	0.docs.google.com
 74.125.127.189	1.docs.google.com
 74.125.127.189	2.docs.google.com
