@@ -114,6 +114,7 @@
 173.194.26.119	v10.nonxt4.c.youtube.com
 173.194.26.11	o-o.preferred.sea07s11.v7.lscache1.c.youtube.com
 173.194.26.11	o-o.preferred.sea07s15.v7.lscache1.c.youtube.com
+173.194.26.11	v7.lscache1.c.youtube.com
 173.194.26.11	v7.nonxt1.c.youtube.com
 173.194.26.120	o-o.preferred.sea07s11.v15.lscache4.c.youtube.com
 173.194.26.120	o-o.preferred.sea07s15.v15.lscache4.c.youtube.com
@@ -336,6 +337,7 @@
 173.194.26.183	v10.lscache6.c.youtube.com
 173.194.26.183	v10.nonxt6.c.youtube.com
 173.194.26.184	o-o.preferred.sea07s11.v15.lscache6.c.youtube.com
+173.194.26.184	o-o.preferred.sea07s15.v15.lscache6.c.youtube.com
 173.194.26.184	v15.lscache6.c.youtube.com
 173.194.26.184	v15.nonxt6.c.youtube.com
 173.194.26.185	o-o.preferred.sea07s11.v20.lscache6.c.youtube.com
@@ -412,6 +414,7 @@
 173.194.26.208	v13.nonxt7.c.youtube.com
 173.194.26.209	o-o.preferred.sea07s11.v18.lscache7.c.youtube.com
 173.194.26.209	o-o.preferred.sea07s15.v18.lscache7.c.youtube.com
+173.194.26.209	v18.lscache7.c.youtube.com
 173.194.26.209	v18.nonxt7.c.youtube.com
 173.194.26.20	o-o.preferred.sea07s11.v14.lscache1.c.youtube.com
 173.194.26.20	o-o.preferred.sea07s15.v14.lscache1.c.youtube.com
@@ -473,7 +476,6 @@
 173.194.26.231	o-o.preferred.sea07s15.v6.lscache8.c.youtube.com
 173.194.26.231	v6.lscache8.c.youtube.com
 173.194.26.231	v6.nonxt8.c.youtube.com
-173.194.26.232	o-o.preferred.sea07s11.v11.lscache8.c.youtube.com
 173.194.26.232	o-o.preferred.sea07s15.v11.lscache8.c.youtube.com
 173.194.26.232	v11.lscache8.c.youtube.com
 173.194.26.232	v11.nonxt8.c.youtube.com
@@ -507,6 +509,7 @@
 173.194.26.238	o-o.preferred.sea07s15.v3.lscache8.c.youtube.com
 173.194.26.238	v23.lscache8.c.youtube.com
 173.194.26.238	v23.nonxt8.c.youtube.com
+173.194.26.238	v3.lscache8.c.youtube.com
 173.194.26.238	v3.nonxt8.c.youtube.com
 173.194.26.239	o-o.preferred.sea07s11.v8.lscache8.c.youtube.com
 173.194.26.239	o-o.preferred.sea07s15.v8.lscache8.c.youtube.com
@@ -591,6 +594,7 @@
 173.194.26.42	o-o.preferred.sea07s11.v22.lscache3.c.youtube.com
 173.194.26.42	o-o.preferred.sea07s11.v2.lscache3.c.youtube.com
 173.194.26.42	o-o.preferred.sea07s15.v22.lscache3.c.youtube.com
+173.194.26.42	o-o.preferred.sea07s15.v2.lscache3.c.youtube.com
 173.194.26.42	v22.lscache3.c.youtube.com
 173.194.26.42	v22.nonxt3.c.youtube.com
 173.194.26.42	v2.lscache3.c.youtube.com
@@ -630,6 +634,7 @@
 173.194.26.50	o-o.preferred.sea07s11.v24.lscache3.c.youtube.com
 173.194.26.50	o-o.preferred.sea07s11.v4.lscache3.c.youtube.com
 173.194.26.50	o-o.preferred.sea07s15.v24.lscache3.c.youtube.com
+173.194.26.50	o-o.preferred.sea07s15.v4.lscache3.c.youtube.com
 173.194.26.50	v24.lscache3.c.youtube.com
 173.194.26.50	v24.nonxt3.c.youtube.com
 173.194.26.50	v4.lscache3.c.youtube.com
@@ -641,6 +646,7 @@
 173.194.26.52	o-o.preferred.sea07s11.v14.lscache3.c.youtube.com
 173.194.26.52	o-o.preferred.sea07s15.v14.lscache3.c.youtube.com
 173.194.26.52	v14.lscache3.c.youtube.com
+173.194.26.52	v14.nonxt3.c.youtube.com
 173.194.26.53	o-o.preferred.sea07s11.v19.lscache3.c.youtube.com
 173.194.26.53	o-o.preferred.sea07s15.v19.lscache3.c.youtube.com
 173.194.26.53	v19.lscache3.c.youtube.com
@@ -661,6 +667,7 @@
 173.194.26.57	o-o.preferred.sea07s15.v20.lscache3.c.youtube.com
 173.194.26.57	v20.lscache3.c.youtube.com
 173.194.26.57	v20.nonxt3.c.youtube.com
+173.194.26.6	o-o.preferred.sea07s11.v1.lscache1.c.youtube.com
 173.194.26.6	o-o.preferred.sea07s11.v21.lscache1.c.youtube.com
 173.194.26.6	o-o.preferred.sea07s15.v1.lscache1.c.youtube.com
 173.194.26.6	o-o.preferred.sea07s15.v21.lscache1.c.youtube.com
@@ -744,6 +751,7 @@
 173.194.26.83	o-o.preferred.sea07s15.v9.lscache2.c.youtube.com
 173.194.26.83	v9.lscache2.c.youtube.com
 173.194.26.83	v9.nonxt2.c.youtube.com
+173.194.26.84	o-o.preferred.sea07s11.v14.lscache2.c.youtube.com
 173.194.26.84	o-o.preferred.sea07s15.v14.lscache2.c.youtube.com
 173.194.26.84	v14.lscache2.c.youtube.com
 173.194.26.84	v14.nonxt2.c.youtube.com
@@ -793,18 +801,18 @@
 184.169.77.33	si0.twimg.com
 184.169.77.33	si3.twimg.com
 184.169.77.33	si4.twimg.com
-184.169.84.33	betastream.twitter.com
 184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
+184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
 184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
+184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
-184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
@@ -3312,6 +3320,7 @@
 74.125.103.21	o-o.preferred.sjc07s11.v19.lscache3.c.youtube.com
 74.125.103.22	o-o.preferred.sjc07s11.v5.lscache5.c.youtube.com
 74.125.103.22	o-o.preferred.sjc07s15.v5.lscache7.c.youtube.com
+74.125.103.25	o-o.preferred.sjc07s15.v20.lscache5.c.youtube.com
 74.125.103.38	o-o.preferred.sjc07s15.v1.lscache2.c.youtube.com
 74.125.103.38	o-o.preferred.sjc07s15.v1.lscache8.c.youtube.com
 74.125.103.38	o-o.preferred.sjc07s15.v21.lscache8.c.youtube.com
@@ -3320,13 +3329,11 @@
 74.125.103.40	o-o.preferred.sjc07s15.v11.lscache6.c.youtube.com
 74.125.103.42	o-o.preferred.sjc07s11.v22.lscache6.c.youtube.com
 74.125.103.42	o-o.preferred.sjc07s11.v2.lscache8.c.youtube.com
-74.125.103.42	o-o.preferred.sjc07s15.v22.lscache8.c.youtube.com
 74.125.103.42	o-o.preferred.sjc07s15.v2.lscache2.c.youtube.com
 74.125.103.43	o-o.preferred.sjc07s11.v7.lscache6.c.youtube.com
 74.125.103.43	o-o.preferred.sjc07s15.v7.lscache8.c.youtube.com
 74.125.103.44	o-o.preferred.sjc07s11.v12.lscache2.c.youtube.com
 74.125.103.44	o-o.preferred.sjc07s15.v12.lscache8.c.youtube.com
-74.125.103.45	o-o.preferred.sjc07s11.v17.lscache2.c.youtube.com
 74.125.103.45	o-o.preferred.sjc07s11.v17.lscache4.c.youtube.com
 74.125.103.45	o-o.preferred.sjc07s15.v17.lscache4.c.youtube.com
 74.125.103.46	o-o.preferred.sjc07s11.v23.lscache8.c.youtube.com
@@ -3494,6 +3501,7 @@
 74.125.170.13	o-o.preferred.sjc07s11.v17.lscache1.c.youtube.com
 74.125.170.13	o-o.preferred.sjc07s15.v17.lscache1.c.youtube.com
 74.125.170.140	o-o.preferred.sjc07s15.v12.lscache2.c.youtube.com
+74.125.170.141	o-o.preferred.sjc07s11.v17.lscache2.c.youtube.com
 74.125.170.141	o-o.preferred.sjc07s15.v17.lscache2.c.youtube.com
 74.125.170.142	o-o.preferred.sjc07s11.v23.lscache2.c.youtube.com
 74.125.170.142	o-o.preferred.sjc07s15.v23.lscache2.c.youtube.com
@@ -3622,6 +3630,7 @@
 74.125.170.233	o-o.preferred.sjc07s11.v16.lscache8.c.youtube.com
 74.125.170.233	o-o.preferred.sjc07s15.v16.lscache8.c.youtube.com
 74.125.170.234	o-o.preferred.sjc07s11.v22.lscache8.c.youtube.com
+74.125.170.234	o-o.preferred.sjc07s15.v22.lscache8.c.youtube.com
 74.125.170.234	o-o.preferred.sjc07s15.v2.lscache8.c.youtube.com
 74.125.170.235	o-o.preferred.sjc07s11.v7.lscache8.c.youtube.com
 74.125.170.236	o-o.preferred.sjc07s11.v12.lscache8.c.youtube.com
@@ -3744,7 +3753,6 @@
 74.125.170.88	o-o.preferred.sjc07s11.v15.lscache5.c.youtube.com
 74.125.170.88	o-o.preferred.sjc07s15.v15.lscache5.c.youtube.com
 74.125.170.89	o-o.preferred.sjc07s11.v20.lscache5.c.youtube.com
-74.125.170.89	o-o.preferred.sjc07s15.v20.lscache5.c.youtube.com
 74.125.170.8	o-o.preferred.sjc07s11.v11.lscache1.c.youtube.com
 74.125.170.8	o-o.preferred.sjc07s15.v11.lscache1.c.youtube.com
 74.125.170.9	o-o.preferred.sjc07s11.v16.lscache1.c.youtube.com
