@@ -15,7 +15,6 @@
 108.171.171.159	twitter.zendesk.com
 123.129.242.212	hub5idx.shub.sandai.net
 124.108.120.124	sa.edit.yahoo.com
-17.254.2.129	developer.apple.com
 173.194.26.102	o-o.preferred.sea07s11.v1.lscache4.c.youtube.com
 173.194.26.102	o-o.preferred.sea07s11.v21.lscache4.c.youtube.com
 173.194.26.102	o-o.preferred.sea07s15.v1.lscache4.c.youtube.com
@@ -65,6 +64,7 @@
 173.194.26.10	v2.lscache1.c.youtube.com
 173.194.26.10	v2.nonxt1.c.youtube.com
 173.194.26.110	o-o.preferred.sea07s11.v23.lscache4.c.youtube.com
+173.194.26.110	o-o.preferred.sea07s11.v3.lscache4.c.youtube.com
 173.194.26.110	o-o.preferred.sea07s15.v23.lscache4.c.youtube.com
 173.194.26.110	o-o.preferred.sea07s15.v3.lscache4.c.youtube.com
 173.194.26.110	v23.lscache4.c.youtube.com
@@ -819,15 +819,19 @@
 184.169.77.33	si0.twimg.com
 184.169.77.33	si3.twimg.com
 184.169.77.33	si4.twimg.com
+184.169.84.33	betastream.twitter.com
 184.169.84.33	oi40.tinypic.com
+184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
 184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi44.tinypic.com
-184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
+184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
+184.169.84.33	oi51.tinypic.com
+184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
@@ -1025,7 +1029,6 @@
 208.117.238.23	tc.v17.cache2.c.youtube.com
 208.117.238.24	tc.v23.cache2.c.youtube.com
 208.117.238.25	tc.v8.cache1.c.youtube.com
-208.117.238.25	tc.v8.cache2.c.youtube.com
 208.117.238.27	tc.v18.cache1.c.youtube.com
 208.117.238.28	tc.v4.cache1.c.youtube.com
 208.117.238.28	tc.v4.cache2.c.youtube.com
@@ -1075,6 +1078,7 @@
 208.117.242.141	tc.v17.cache1.c.youtube.com
 208.117.242.142	tc.v23.cache3.c.youtube.com
 208.117.242.142	tc.v23.cache8.c.youtube.com
+208.117.242.143	tc.v8.cache2.c.youtube.com
 208.117.242.143	tc.v8.cache8.c.youtube.com
 208.117.242.144	tc.v13.cache3.c.youtube.com
 208.117.242.146	tc.v24.cache8.c.youtube.com
@@ -1227,7 +1231,6 @@
 209.17.68.106	i37.photobucket.com
 209.17.88.216	twitgoo.com
 209.191.105.102	adjax.flickr.yahoo.com
-209.191.92.114	login.yahoo.com
 209.85.225.113	clients-china.l.google.com
 216.115.107.207	up.flickr.com
 216.115.107.207	www.flickr.com
@@ -1240,7 +1243,6 @@
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
-23.61.248.26	a403.phobos.apple.com
 50.23.200.239	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -1975,6 +1977,7 @@
 63.141.192.120	a31.phobos.apple.com
 63.141.192.120	a321.phobos.apple.com
 63.141.192.120	a335.phobos.apple.com
+63.141.192.120	a403.phobos.apple.com
 63.141.192.120	a407.phobos.apple.com
 63.141.192.120	a434.phobos.apple.com
 63.141.192.120	a475.phobos.apple.com
@@ -3264,6 +3267,7 @@
 63.141.192.99	a898.phobos.apple.com
 63.141.192.99	a971.phobos.apple.com
 66.163.168.247	open.login.yahoo.com
+66.163.169.186	login.yahoo.com
 66.220.147.98	upload.facebook.com
 66.220.151.33	profile.facebook.com
 66.228.120.92	web8.twitpic.com
@@ -3275,7 +3279,6 @@
 68.142.214.43	static.flickr.com
 69.147.90.159	farm2.static.flickr.com
 69.147.90.215	farm3.static.flickr.com
-69.147.90.215	sp1.farm3.static.flickr.com
 69.171.224.38	api.facebook.com
 69.171.224.38	graph.facebook.com
 69.171.228.76	touch.facebook.com
@@ -3307,10 +3310,11 @@
 72.21.91.19	s.wordpress.org
 72.233.111.159	botd.wordpress.com
 72.233.111.159	stats.wordpress.com
+72.233.2.58	botd2.wordpress.com
 72.233.2.58	lucifr.wordpress.com
 72.233.2.58	wpcom.wordpress.com
-72.233.69.6	botd2.wordpress.com
-72.233.69.6	zh-sg.wordpress.com
+72.233.2.58	zh-sg.wordpress.com
+72.233.69.6	zh.wordpress.com
 74.125.103.10	o-o.preferred.sjc07s11.v22.lscache7.c.youtube.com
 74.125.103.10	o-o.preferred.sjc07s15.v22.lscache7.c.youtube.com
 74.125.103.11	o-o.preferred.sjc07s15.v7.lscache1.c.youtube.com
@@ -4132,8 +4136,6 @@
 74.125.226.207	csi.gstatic.com
 74.125.45.125	talkx.l.google.com
 74.200.244.59	lb.wordpress.com
-76.73.40.45	soutong.com
-76.74.254.120	zh.wordpress.com
 76.74.254.123	dashboard.wordpress.com
 76.74.254.123	en.blog.wordpress.com
 76.74.254.123	en.forums.wordpress.com
