@@ -15,6 +15,7 @@
 108.171.171.159	twitter.zendesk.com
 123.129.242.212	hub5idx.shub.sandai.net
 124.108.120.124	sa.edit.yahoo.com
+17.254.2.129	developer.apple.com
 173.194.26.102	o-o.preferred.sea07s11.v1.lscache4.c.youtube.com
 173.194.26.102	o-o.preferred.sea07s11.v21.lscache4.c.youtube.com
 173.194.26.102	o-o.preferred.sea07s15.v1.lscache4.c.youtube.com
@@ -825,6 +826,7 @@
 184.169.84.33	oi42.tinypic.com
 184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi44.tinypic.com
+184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
 184.169.84.33	oi48.tinypic.com
@@ -1029,6 +1031,7 @@
 208.117.238.23	tc.v17.cache2.c.youtube.com
 208.117.238.24	tc.v23.cache2.c.youtube.com
 208.117.238.25	tc.v8.cache1.c.youtube.com
+208.117.238.25	tc.v8.cache2.c.youtube.com
 208.117.238.27	tc.v18.cache1.c.youtube.com
 208.117.238.28	tc.v4.cache1.c.youtube.com
 208.117.238.28	tc.v4.cache2.c.youtube.com
@@ -1078,7 +1081,6 @@
 208.117.242.141	tc.v17.cache1.c.youtube.com
 208.117.242.142	tc.v23.cache3.c.youtube.com
 208.117.242.142	tc.v23.cache8.c.youtube.com
-208.117.242.143	tc.v8.cache2.c.youtube.com
 208.117.242.143	tc.v8.cache8.c.youtube.com
 208.117.242.144	tc.v13.cache3.c.youtube.com
 208.117.242.146	tc.v24.cache8.c.youtube.com
@@ -3279,6 +3281,7 @@
 68.142.214.43	static.flickr.com
 69.147.90.159	farm2.static.flickr.com
 69.147.90.215	farm3.static.flickr.com
+69.147.90.215	sp1.farm3.static.flickr.com
 69.171.224.38	api.facebook.com
 69.171.224.38	graph.facebook.com
 69.171.228.76	touch.facebook.com
@@ -4136,6 +4139,7 @@
 74.125.226.207	csi.gstatic.com
 74.125.45.125	talkx.l.google.com
 74.200.244.59	lb.wordpress.com
+76.73.40.45	soutong.com
 76.74.254.123	dashboard.wordpress.com
 76.74.254.123	en.blog.wordpress.com
 76.74.254.123	en.forums.wordpress.com
