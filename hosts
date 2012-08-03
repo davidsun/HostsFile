@@ -16,7 +16,6 @@
 123.129.242.212	hub5idx.shub.sandai.net
 124.108.120.124	sa.edit.yahoo.com
 17.254.2.129	developer.apple.com
-173.194.12.136	o-o.preferred.sea07s11.v11.lscache5.c.youtube.com
 173.194.26.102	o-o.preferred.sea07s11.v1.lscache4.c.youtube.com
 173.194.26.102	o-o.preferred.sea07s11.v21.lscache4.c.youtube.com
 173.194.26.102	o-o.preferred.sea07s15.v1.lscache4.c.youtube.com
@@ -141,6 +140,7 @@
 173.194.26.135	o-o.preferred.sea07s15.v6.lscache5.c.youtube.com
 173.194.26.135	v6.lscache5.c.youtube.com
 173.194.26.135	v6.nonxt5.c.youtube.com
+173.194.26.136	o-o.preferred.sea07s11.v11.lscache5.c.youtube.com
 173.194.26.136	o-o.preferred.sea07s15.v11.lscache5.c.youtube.com
 173.194.26.136	v11.lscache5.c.youtube.com
 173.194.26.136	v11.nonxt5.c.youtube.com
@@ -1207,7 +1207,6 @@
 208.80.154.224	commons.wikimedia.org
 208.80.154.224	meta.wikimedia.org
 208.80.154.224	www.wikimedia.org
-208.80.154.225	en.wikipedia.org
 208.80.154.225	simple.wikipedia.org
 208.80.154.225	www.wikipedia.org
 208.80.154.225	zh.wikipedia.org
@@ -1246,9 +1245,7 @@
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
-23.61.248.18	a507.phobos.apple.com
-23.61.248.25	a1406.phobos.apple.com
-23.61.248.27	a1395.phobos.apple.com
+23.61.248.51	a644.phobos.apple.com
 50.23.200.239	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -1682,6 +1679,7 @@
 63.141.192.113	a1331.phobos.apple.com
 63.141.192.113	a1392.phobos.apple.com
 63.141.192.113	a1402.phobos.apple.com
+63.141.192.113	a1406.phobos.apple.com
 63.141.192.113	a1429.phobos.apple.com
 63.141.192.113	a1434.phobos.apple.com
 63.141.192.113	a1453.phobos.apple.com
@@ -1990,10 +1988,10 @@
 63.141.192.120	a4.mzstatic.com
 63.141.192.120	a4.phobos.apple.com
 63.141.192.120	a506.phobos.apple.com
+63.141.192.120	a507.phobos.apple.com
 63.141.192.120	a543.phobos.apple.com
 63.141.192.120	a572.phobos.apple.com
 63.141.192.120	a627.phobos.apple.com
-63.141.192.120	a644.phobos.apple.com
 63.141.192.120	a675.phobos.apple.com
 63.141.192.120	a700.phobos.apple.com
 63.141.192.120	a705.phobos.apple.com
@@ -2500,6 +2498,7 @@
 63.141.192.131	a1372.phobos.apple.com
 63.141.192.131	a1384.phobos.apple.com
 63.141.192.131	a1390.phobos.apple.com
+63.141.192.131	a1395.phobos.apple.com
 63.141.192.131	a1417.phobos.apple.com
 63.141.192.131	a1537.phobos.apple.com
 63.141.192.131	a155.phobos.apple.com
@@ -3283,11 +3282,11 @@
 69.147.90.159	farm2.static.flickr.com
 69.147.90.215	farm3.static.flickr.com
 69.147.90.215	sp1.farm3.static.flickr.com
-69.171.224.54	graph.facebook.com
+69.171.224.38	api.facebook.com
+69.171.224.38	graph.facebook.com
 69.171.228.76	touch.facebook.com
 69.171.233.18	friendfeed.com
 69.171.233.18	www.friendfeed.com
-69.171.234.22	api.facebook.com
 69.171.234.39	login.facebook.com
 69.171.234.39	pixel.facebook.com
 69.171.234.39	ssl.facebook.com
