@@ -16,8 +16,6 @@
 123.129.242.212	hub5idx.shub.sandai.net
 124.108.120.124	sa.edit.yahoo.com
 17.254.2.129	developer.apple.com
-173.194.12.149	v19.lscache5.c.youtube.com
-173.194.12.151	v10.nonxt5.c.youtube.com
 173.194.26.102	o-o.preferred.sea07s11.v1.lscache4.c.youtube.com
 173.194.26.102	o-o.preferred.sea07s11.v21.lscache4.c.youtube.com
 173.194.26.102	o-o.preferred.sea07s15.v1.lscache4.c.youtube.com
@@ -77,6 +75,7 @@
 173.194.26.111	o-o.preferred.sea07s11.v8.lscache4.c.youtube.com
 173.194.26.111	o-o.preferred.sea07s15.v8.lscache4.c.youtube.com
 173.194.26.111	v8.lscache4.c.youtube.com
+173.194.26.111	v8.nonxt4.c.youtube.com
 173.194.26.112	o-o.preferred.sea07s11.v13.lscache4.c.youtube.com
 173.194.26.112	o-o.preferred.sea07s15.v13.lscache4.c.youtube.com
 173.194.26.112	v13.lscache4.c.youtube.com
@@ -211,6 +210,7 @@
 173.194.26.148	v14.nonxt5.c.youtube.com
 173.194.26.149	o-o.preferred.sea07s11.v19.lscache5.c.youtube.com
 173.194.26.149	o-o.preferred.sea07s15.v19.lscache5.c.youtube.com
+173.194.26.149	v19.lscache5.c.youtube.com
 173.194.26.149	v19.nonxt5.c.youtube.com
 173.194.26.14	o-o.preferred.sea07s11.v23.lscache1.c.youtube.com
 173.194.26.14	o-o.preferred.sea07s11.v3.lscache1.c.youtube.com
@@ -227,6 +227,7 @@
 173.194.26.151	o-o.preferred.sea07s11.v10.lscache5.c.youtube.com
 173.194.26.151	o-o.preferred.sea07s15.v10.lscache5.c.youtube.com
 173.194.26.151	v10.lscache5.c.youtube.com
+173.194.26.151	v10.nonxt5.c.youtube.com
 173.194.26.152	o-o.preferred.sea07s11.v15.lscache5.c.youtube.com
 173.194.26.152	o-o.preferred.sea07s15.v15.lscache5.c.youtube.com
 173.194.26.152	v15.lscache5.c.youtube.com
@@ -822,7 +823,8 @@
 184.169.84.33	betastream.twitter.com
 184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
-184.169.84.33	oi43.tinypic.com
+184.169.84.33	oi42.tinypic.com
+184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
@@ -834,7 +836,6 @@
 184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
-184.169.84.33	oi56.tinypic.com
 184.169.84.33	posterous.com
 184.169.84.33	scribe.twitter.com
 184.169.84.33	t.co
@@ -3963,7 +3964,6 @@
 74.125.224.169	talkgadget.google.com
 74.125.224.169	video-stats.l.google.com
 74.125.224.169	wenda.google.com.hk
-74.125.224.171	lh5.googleusercontent.com
 74.125.224.174	clients2.google.com
 74.125.224.174	clients4.google.com
 74.125.224.174	clients6.google.com
@@ -4041,6 +4041,7 @@
 74.125.224.203	lh4.ggpht.com
 74.125.224.203	lh4.googleusercontent.com
 74.125.224.203	lh5.ggpht.com
+74.125.224.203	lh5.googleusercontent.com
 74.125.224.203	lh6.ggpht.com
 74.125.224.203	lh6.googleusercontent.com
 74.125.224.203	magnifier.blogspot.com
