@@ -285,7 +285,6 @@
 173.194.26.173	v17.lscache6.c.youtube.com
 173.194.26.173	v17.nonxt6.c.youtube.com
 173.194.26.174	o-o.preferred.sea07s11.v23.lscache6.c.youtube.com
-173.194.26.174	o-o.preferred.sea07s11.v3.lscache6.c.youtube.com
 173.194.26.174	o-o.preferred.sea07s15.v23.lscache6.c.youtube.com
 173.194.26.174	o-o.preferred.sea07s15.v3.lscache6.c.youtube.com
 173.194.26.174	v23.lscache6.c.youtube.com
@@ -621,7 +620,6 @@
 173.194.26.46	v3.lscache3.c.youtube.com
 173.194.26.46	v3.nonxt3.c.youtube.com
 173.194.26.47	o-o.preferred.sea07s11.v8.lscache3.c.youtube.com
-173.194.26.47	o-o.preferred.sea07s15.v8.lscache3.c.youtube.com
 173.194.26.47	v8.lscache3.c.youtube.com
 173.194.26.47	v8.nonxt3.c.youtube.com
 173.194.26.48	o-o.preferred.sea07s11.v13.lscache3.c.youtube.com
@@ -713,7 +711,6 @@
 173.194.26.76	v12.lscache2.c.youtube.com
 173.194.26.76	v12.nonxt2.c.youtube.com
 173.194.26.77	o-o.preferred.sea07s11.v17.lscache2.c.youtube.com
-173.194.26.77	o-o.preferred.sea07s15.v17.lscache2.c.youtube.com
 173.194.26.77	v17.lscache2.c.youtube.com
 173.194.26.77	v17.nonxt2.c.youtube.com
 173.194.26.78	o-o.preferred.sea07s11.v23.lscache2.c.youtube.com
@@ -813,9 +810,9 @@
 173.194.79.176	vp.video.l.google.com
 173.194.79.188	mtalk.google.com
 173.194.79.190	dl-ssl.google.com
+173.194.8.142	o-o.preferred.sea07s11.v3.lscache6.c.youtube.com
+173.194.8.15	o-o.preferred.sea07s15.v8.lscache3.c.youtube.com
 173.236.207.127	mysql.imfido.com
-174.36.51.42	forums.dropbox.com
-174.36.51.42	wiki.dropbox.com
 184.169.77.33	a1.twimg.com
 184.169.77.33	si0.twimg.com
 184.169.77.33	si3.twimg.com
@@ -824,7 +821,7 @@
 184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
-184.169.84.33	oi44.tinypic.com
+184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
@@ -836,6 +833,7 @@
 184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
+184.169.84.33	oi56.tinypic.com
 184.169.84.33	posterous.com
 184.169.84.33	scribe.twitter.com
 184.169.84.33	t.co
@@ -1244,6 +1242,7 @@
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
+23.61.248.56	a740.phobos.apple.com
 50.23.200.239	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -1560,7 +1559,6 @@
 63.141.192.107	a684.phobos.apple.com
 63.141.192.107	a68.phobos.apple.com
 63.141.192.107	a712.phobos.apple.com
-63.141.192.107	a740.phobos.apple.com
 63.141.192.107	a744.phobos.apple.com
 63.141.192.107	a746.phobos.apple.com
 63.141.192.107	a770.phobos.apple.com
