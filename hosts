@@ -822,7 +822,6 @@
 184.169.84.33	betastream.twitter.com
 184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
-184.169.84.33	oi42.tinypic.com
 184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
@@ -837,6 +836,7 @@
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
 184.169.84.33	oi56.tinypic.com
+184.169.84.33	posterous.com
 184.169.84.33	scribe.twitter.com
 184.169.84.33	t.co
 184.25.104.54	discussions.apple.com
@@ -1094,7 +1094,6 @@
 208.117.242.180	tc.v14.cache2.c.youtube.com
 208.117.242.182	tc.v5.cache1.c.youtube.com
 208.117.242.184	tc.v15.cache8.c.youtube.com
-208.117.242.185	tc.v20.cache3.c.youtube.com
 208.117.242.18	tc.v24.cache1.c.youtube.com
 208.117.242.18	tc.v4.cache5.c.youtube.com
 208.117.242.19	tc.v9.cache8.c.youtube.com
@@ -1172,6 +1171,7 @@
 208.117.243.22	tc.v3.cache2.c.youtube.com
 208.117.243.230	tc.v16.cache8.c.youtube.com
 208.117.243.24	tc.v19.cache3.c.youtube.com
+208.117.243.27	tc.v20.cache3.c.youtube.com
 208.117.243.28	tc.v5.cache2.c.youtube.com
 208.117.243.29	tc.v13.cache2.c.youtube.com
 208.117.243.33	tc.v22.cache3.c.youtube.com
@@ -1237,8 +1237,8 @@
 216.115.107.207	www.flickr.com
 216.115.97.236	d.yimg.com
 216.115.97.236	l.yimg.com
-216.252.124.30	row.bc.yahoo.com
 216.252.124.30	us.bc.yahoo.com
+216.252.124.32	row.bc.yahoo.com
 23.2.111.144	platform.twitter.com
 23.2.111.144	si1.twimg.com
 23.2.111.144	si2.twimg.com
@@ -3271,6 +3271,7 @@
 66.163.169.186	login.yahoo.com
 66.220.147.88	www.facebook.com
 66.220.147.98	upload.facebook.com
+66.220.151.33	profile.facebook.com
 66.228.120.92	web8.twitpic.com
 67.195.19.66	farm4.static.flickr.com
 67.195.19.74	farm5.static.flickr.com
@@ -4137,7 +4138,6 @@
 74.125.226.207	csi.gstatic.com
 74.125.45.125	talkx.l.google.com
 74.200.244.59	lb.wordpress.com
-76.73.40.45	soutong.com
 76.74.254.123	dashboard.wordpress.com
 76.74.254.123	en.blog.wordpress.com
 76.74.254.123	en.forums.wordpress.com
