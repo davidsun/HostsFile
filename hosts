@@ -10,6 +10,7 @@
 107.14.33.50	photos-c.ak.fbcdn.net
 107.14.33.51	photos-e.ak.fbcdn.net
 107.14.33.56	photos-b.ak.fbcdn.net
+107.14.33.56	photos-f.ak.fbcdn.net
 107.14.33.64	a3.twimg.com
 108.171.171.159	twitter.zendesk.com
 123.129.242.212	hub5idx.shub.sandai.net
@@ -451,6 +452,7 @@
 173.194.26.216	o-o.preferred.sea07s15.v15.lscache7.c.youtube.com
 173.194.26.216	v15.lscache7.c.youtube.com
 173.194.26.216	v15.nonxt7.c.youtube.com
+173.194.26.217	o-o.preferred.sea07s11.v20.lscache7.c.youtube.com
 173.194.26.217	o-o.preferred.sea07s15.v20.lscache7.c.youtube.com
 173.194.26.217	v20.lscache7.c.youtube.com
 173.194.26.217	v20.nonxt7.c.youtube.com
@@ -790,7 +792,6 @@
 173.194.79.141	newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
 173.194.79.141	project-slingshot-gp.appspot.com
 173.194.79.141	r2303.latest.project-slingshot-hr.appspot.com
-173.194.79.141	r3085-dot-latest-dot-project-slingshot-gp.appspot.com
 173.194.79.141	r3091-dot-latest-dot-project-slingshot-gp.appspot.com
 173.194.79.141	r3101-dot-latest-dot-project-slingshot-gp.appspot.com
 173.194.79.141	r3115-dot-latest-dot-project-slingshot-gp.appspot.com
@@ -820,15 +821,13 @@
 184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
-184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
-184.169.84.33	oi47.tinypic.com
+184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
-184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
@@ -1061,6 +1060,7 @@
 208.117.242.110	tc.v23.cache1.c.youtube.com
 208.117.242.114	tc.v4.cache7.c.youtube.com
 208.117.242.115	tc.v9.cache6.c.youtube.com
+208.117.242.116	tc.v14.cache4.c.youtube.com
 208.117.242.117	tc.v19.cache4.c.youtube.com
 208.117.242.118	tc.v5.cache3.c.youtube.com
 208.117.242.120	tc.v15.cache1.c.youtube.com
@@ -1161,7 +1161,6 @@
 208.117.243.21	tc.v18.cache2.c.youtube.com
 208.117.243.21	tc.v18.cache3.c.youtube.com
 208.117.243.221	tc.v13.cache8.c.youtube.com
-208.117.243.224	tc.v14.cache4.c.youtube.com
 208.117.243.226	tc.v7.cache4.c.youtube.com
 208.117.243.22	tc.v3.cache2.c.youtube.com
 208.117.243.230	tc.v16.cache8.c.youtube.com
@@ -1240,12 +1239,6 @@
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
-23.61.248.27	a404.phobos.apple.com
-23.61.248.32	a992.phobos.apple.com
-23.61.248.50	a48.phobos.apple.com
-23.61.248.58	a1259.phobos.apple.com
-23.61.248.58	a191.phobos.apple.com
-23.61.248.65	a843.phobos.apple.com
 50.23.200.239	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -1426,6 +1419,7 @@
 63.141.192.106	a1223.phobos.apple.com
 63.141.192.106	a1236.phobos.apple.com
 63.141.192.106	a1254.phobos.apple.com
+63.141.192.106	a1259.phobos.apple.com
 63.141.192.106	a1260.phobos.apple.com
 63.141.192.106	a1284.phobos.apple.com
 63.141.192.106	a1290.phobos.apple.com
@@ -1968,6 +1962,7 @@
 63.141.192.120	a1836.phobos.apple.com
 63.141.192.120	a1869.phobos.apple.com
 63.141.192.120	a187.phobos.apple.com
+63.141.192.120	a191.phobos.apple.com
 63.141.192.120	a1925.phobos.apple.com
 63.141.192.120	a1966.phobos.apple.com
 63.141.192.120	a1994.phobos.apple.com
@@ -2086,6 +2081,7 @@
 63.141.192.121	a767.phobos.apple.com
 63.141.192.121	a788.phobos.apple.com
 63.141.192.121	a813.phobos.apple.com
+63.141.192.121	a843.phobos.apple.com
 63.141.192.121	a859.phobos.apple.com
 63.141.192.121	a892.phobos.apple.com
 63.141.192.121	a900.phobos.apple.com
@@ -2228,6 +2224,7 @@
 63.141.192.123	a413.phobos.apple.com
 63.141.192.123	a428.phobos.apple.com
 63.141.192.123	a478.phobos.apple.com
+63.141.192.123	a48.phobos.apple.com
 63.141.192.123	a51.phobos.apple.com
 63.141.192.123	a520.phobos.apple.com
 63.141.192.123	a550.phobos.apple.com
@@ -2664,6 +2661,7 @@
 63.141.192.88	a969.phobos.apple.com
 63.141.192.88	a97.phobos.apple.com
 63.141.192.88	a987.phobos.apple.com
+63.141.192.88	a992.phobos.apple.com
 63.141.192.89	a1000.phobos.apple.com
 63.141.192.89	a1048.phobos.apple.com
 63.141.192.89	a1054.phobos.apple.com
@@ -3062,6 +3060,7 @@
 63.141.192.97	a374.phobos.apple.com
 63.141.192.97	a386.phobos.apple.com
 63.141.192.97	a398.phobos.apple.com
+63.141.192.97	a404.phobos.apple.com
 63.141.192.97	a410.phobos.apple.com
 63.141.192.97	a422.phobos.apple.com
 63.141.192.97	a476.phobos.apple.com
@@ -3300,6 +3299,7 @@
 72.21.91.19	i0.poll.fm
 72.21.91.19	i.polldaddy.com
 72.21.91.19	s1.wordpress.com
+72.21.91.19	s2.wordpress.com
 72.21.91.19	s3.wordpress.com
 72.21.91.19	s.gravatar.com
 72.21.91.19	s.stats.wordpress.com
@@ -3456,6 +3456,7 @@
 74.125.127.95	maps.googleapis.com
 74.125.127.95	translate.googleapis.com
 74.125.127.95	www.googleapis.com
+74.125.129.141	r3085-dot-latest-dot-project-slingshot-gp.appspot.com
 74.125.170.102	o-o.preferred.sjc07s11.v21.lscache7.c.youtube.com
 74.125.170.102	o-o.preferred.sjc07s15.v1.lscache7.c.youtube.com
 74.125.170.102	o-o.preferred.sjc07s15.v21.lscache7.c.youtube.com
@@ -3971,7 +3972,6 @@
 74.125.224.174	safebrowsing.clients.google.com
 74.125.224.174	sketchup.google.com
 74.125.224.174	toolbarqueries.clients.google.com
-74.125.224.186	partner.googleadservices.com
 74.125.224.191	id.google.cn
 74.125.224.191	id.google.com.hk
 74.125.224.202	0-focus-opensocial.googleusercontent.com
@@ -4125,6 +4125,7 @@
 74.125.224.218	domains.googlesyndication.com
 74.125.224.218	pagead2.googleadservices.com
 74.125.224.218	pagead2.googlesyndication.com
+74.125.224.218	partner.googleadservices.com
 74.125.224.218	www.googleadservices.com
 74.125.224.222	ssl.google-analytics.com
 74.125.224.223	id.google.com
@@ -4181,7 +4182,6 @@
 85.17.73.239	www13.multiupload.com
 89.105.213.21	premium.nl.avira-update.com
 89.105.213.21	prempeak.avira-update.com
-92.122.50.193	photos-f.ak.fbcdn.net
 95.211.138.142	www11.multiupload.com
 95.211.99.102	www14.multiupload.com
 95.211.99.1	www9.multiupload.com
