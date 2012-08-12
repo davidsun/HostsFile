@@ -249,7 +249,6 @@
 173.194.26.166	v21.lscache6.c.youtube.com
 173.194.26.166	v21.nonxt6.c.youtube.com
 173.194.26.167	o-o.preferred.sea07s11.v6.lscache6.c.youtube.com
-173.194.26.167	o-o.preferred.sea07s15.v6.lscache6.c.youtube.com
 173.194.26.167	v6.lscache6.c.youtube.com
 173.194.26.167	v6.nonxt6.c.youtube.com
 173.194.26.168	o-o.preferred.sea07s11.v11.lscache6.c.youtube.com
@@ -813,6 +812,7 @@
 173.194.79.176	vp.video.l.google.com
 173.194.79.188	mtalk.google.com
 173.194.79.190	dl-ssl.google.com
+173.194.8.135	o-o.preferred.sea07s15.v6.lscache6.c.youtube.com
 173.236.207.127	mysql.imfido.com
 184.169.77.33	a1.twimg.com
 184.169.77.33	si0.twimg.com
@@ -1071,7 +1071,6 @@
 208.117.242.120	tc.v15.cache1.c.youtube.com
 208.117.242.120	tc.v15.cache2.c.youtube.com
 208.117.242.12	tc.v12.cache7.c.youtube.com
-208.117.242.134	tc.v1.cache5.c.youtube.com
 208.117.242.134	tc.v21.cache2.c.youtube.com
 208.117.242.134	tc.v21.cache5.c.youtube.com
 208.117.242.135	tc.v6.cache2.c.youtube.com
@@ -1082,6 +1081,7 @@
 208.117.242.142	tc.v23.cache8.c.youtube.com
 208.117.242.143	tc.v8.cache8.c.youtube.com
 208.117.242.144	tc.v13.cache3.c.youtube.com
+208.117.242.145	tc.v18.cache5.c.youtube.com
 208.117.242.146	tc.v24.cache8.c.youtube.com
 208.117.242.14	tc.v3.cache1.c.youtube.com
 208.117.242.150	tc.v5.cache6.c.youtube.com
@@ -1102,7 +1102,6 @@
 208.117.242.202	tc.v22.cache8.c.youtube.com
 208.117.242.205	tc.v17.cache3.c.youtube.com
 208.117.242.205	tc.v17.cache7.c.youtube.com
-208.117.242.209	tc.v18.cache5.c.youtube.com
 208.117.242.209	tc.v18.cache6.c.youtube.com
 208.117.242.213	static.cache.l.google.com
 208.117.242.215	tc.v10.cache1.c.youtube.com
@@ -1176,6 +1175,7 @@
 208.117.243.29	tc.v13.cache2.c.youtube.com
 208.117.243.33	tc.v22.cache3.c.youtube.com
 208.117.243.34	tc.v7.cache2.c.youtube.com
+208.117.243.80	tc.v1.cache5.c.youtube.com
 208.117.243.84	tc.v10.cache5.c.youtube.com
 208.117.243.87	tc.v11.cache5.c.youtube.com
 208.117.243.93	tc.v13.cache1.c.youtube.com
@@ -1244,6 +1244,10 @@
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
+23.61.248.17	a1008.phobos.apple.com
+23.61.248.24	a1314.phobos.apple.com
+23.61.248.50	a20.phobos.apple.com
+23.61.248.59	a939.phobos.apple.com
 50.23.200.239	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -1925,7 +1929,6 @@
 63.141.192.115	a95.phobos.apple.com
 63.141.192.115	a989.phobos.apple.com
 63.141.192.120	a1004.phobos.apple.com
-63.141.192.120	a1008.phobos.apple.com
 63.141.192.120	a100.phobos.apple.com
 63.141.192.120	a1010.phobos.apple.com
 63.141.192.120	a1011.phobos.apple.com
@@ -2248,7 +2251,6 @@
 63.141.192.123	a845.phobos.apple.com
 63.141.192.123	a881.phobos.apple.com
 63.141.192.123	a920.phobos.apple.com
-63.141.192.123	a939.phobos.apple.com
 63.141.192.123	a93.phobos.apple.com
 63.141.192.123	a949.phobos.apple.com
 63.141.192.123	a968.phobos.apple.com
@@ -2441,7 +2443,6 @@
 63.141.192.130	a1961.phobos.apple.com
 63.141.192.130	a200.phobos.apple.com
 63.141.192.130	a203.phobos.apple.com
-63.141.192.130	a20.phobos.apple.com
 63.141.192.130	a222.phobos.apple.com
 63.141.192.130	a223.phobos.apple.com
 63.141.192.130	a257.phobos.apple.com
@@ -2848,7 +2849,6 @@
 63.141.192.91	a1212.phobos.apple.com
 63.141.192.91	a1278.phobos.apple.com
 63.141.192.91	a1308.phobos.apple.com
-63.141.192.91	a1314.phobos.apple.com
 63.141.192.91	a1362.phobos.apple.com
 63.141.192.91	a1368.phobos.apple.com
 63.141.192.91	a1374.phobos.apple.com
@@ -3964,6 +3964,7 @@
 74.125.224.169	talkgadget.google.com
 74.125.224.169	video-stats.l.google.com
 74.125.224.169	wenda.google.com.hk
+74.125.224.171	doc-0g-7o-docs.googleusercontent.com
 74.125.224.174	clients2.google.com
 74.125.224.174	clients4.google.com
 74.125.224.174	clients6.google.com
@@ -4014,7 +4015,6 @@
 74.125.224.203	doc-00-7o-docs.googleusercontent.com
 74.125.224.203	doc-08-7o-docs.googleusercontent.com
 74.125.224.203	doc-0c-7o-docs.googleusercontent.com
-74.125.224.203	doc-0g-7o-docs.googleusercontent.com
 74.125.224.203	doc-0s-7o-docs.googleusercontent.com
 74.125.224.203	doc-14-7o-docs.googleusercontent.com
 74.125.224.203	feedback.googleusercontent.com
