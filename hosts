@@ -13,7 +13,7 @@
 107.14.33.56	photos-f.ak.fbcdn.net
 107.14.33.64	a3.twimg.com
 108.171.171.159	twitter.zendesk.com
-123.129.242.212	hub5idx.shub.sandai.net
+123.129.242.170	hub5idx.shub.sandai.net
 124.108.120.124	sa.edit.yahoo.com
 17.254.2.129	developer.apple.com
 173.194.26.102	o-o.preferred.sea07s11.v1.lscache4.c.youtube.com
@@ -494,6 +494,7 @@
 173.194.26.234	v2.nonxt8.c.youtube.com
 173.194.26.235	o-o.preferred.sea07s11.v7.lscache8.c.youtube.com
 173.194.26.235	o-o.preferred.sea07s15.v7.lscache8.c.youtube.com
+173.194.26.235	v7.lscache8.c.youtube.com
 173.194.26.235	v7.nonxt8.c.youtube.com
 173.194.26.236	o-o.preferred.sea07s11.v12.lscache8.c.youtube.com
 173.194.26.236	o-o.preferred.sea07s15.v12.lscache8.c.youtube.com
@@ -806,17 +807,18 @@
 173.194.79.160	mt0.google.cn
 173.194.79.160	mt1.google.cn
 173.194.79.160	mt2.google.cn
+173.194.79.160	mt.google.cn
 173.194.79.176	qwqy.vp.video.l.google.com
 173.194.79.176	vp.video.google.com
 173.194.79.176	vp.video.l.google.com
 173.194.79.188	mtalk.google.com
 173.194.79.190	dl-ssl.google.com
-173.194.79.191	www.blogblog.com
 173.236.207.127	mysql.imfido.com
 184.169.77.33	a1.twimg.com
 184.169.77.33	si0.twimg.com
 184.169.77.33	si3.twimg.com
 184.169.77.33	si4.twimg.com
+184.169.84.33	betastream.twitter.com
 184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
@@ -827,7 +829,6 @@
 184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
-184.169.84.33	oi51.tinypic.com
 184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
@@ -1005,6 +1006,7 @@
 208.117.238.163	tc.v20.cache5.c.youtube.com
 208.117.238.16	tc.v1.cache1.c.youtube.com
 208.117.238.18	tc.v11.cache1.c.youtube.com
+208.117.238.19	tc.v16.cache2.c.youtube.com
 208.117.238.208	tc.v21.cache8.c.youtube.com
 208.117.238.20	tc.v22.cache1.c.youtube.com
 208.117.238.20	tc.v22.cache2.c.youtube.com
@@ -1171,7 +1173,6 @@
 208.117.243.29	tc.v13.cache2.c.youtube.com
 208.117.243.33	tc.v22.cache3.c.youtube.com
 208.117.243.34	tc.v7.cache2.c.youtube.com
-208.117.243.38	tc.v16.cache2.c.youtube.com
 208.117.243.80	tc.v1.cache5.c.youtube.com
 208.117.243.84	tc.v10.cache5.c.youtube.com
 208.117.243.87	tc.v11.cache5.c.youtube.com
@@ -3280,7 +3281,6 @@
 69.147.90.215	sp1.farm3.static.flickr.com
 69.171.224.38	api.facebook.com
 69.171.224.38	graph.facebook.com
-69.171.228.76	apps.facebook.com
 69.171.228.76	touch.facebook.com
 69.171.233.18	friendfeed.com
 69.171.233.18	www.friendfeed.com
@@ -3290,6 +3290,7 @@
 69.171.234.39	zh-CN.facebook.com
 69.171.237.16	www.facebook.com
 69.171.237.19	m.facebook.com
+69.171.237.20	apps.facebook.com
 69.63.179.70	secure.facebook.com
 72.14.203.85	orkut.l.google.com
 72.21.91.111	s0.wp.com
@@ -3383,7 +3384,6 @@
 74.125.103.9	o-o.preferred.sjc07s15.v16.lscache7.c.youtube.com
 74.125.127.100	spreadsheets-china.l.google.com
 74.125.127.100	writely-china.l.google.com
-74.125.127.101	groups.l.google.com
 74.125.127.108	gmail-smtp.l.google.com
 74.125.127.108	smtp.gmail.com
 74.125.127.109	gmail-pop.l.google.com
@@ -3391,6 +3391,7 @@
 74.125.127.112	adwords.google.com
 74.125.127.112	adwords.google.sk
 74.125.127.113	groups.google.com
+74.125.127.113	groups.l.google.com
 74.125.127.115	checkout.google.com
 74.125.127.115	checkout.l.google.com
 74.125.127.116	large-uploads.l.google.com
@@ -3418,7 +3419,6 @@
 74.125.127.160	google.cn
 74.125.127.160	maps.gstatic.cn
 74.125.127.160	mt3.google.cn
-74.125.127.160	mt.google.cn
 74.125.127.160	www.google.cn
 74.125.127.160	www.gstatic.cn
 74.125.127.176	pr.vp.video.l.google.com
@@ -3438,6 +3438,7 @@
 74.125.127.191	img2.blogblog.com
 74.125.127.191	www1.blogblog.com
 74.125.127.191	www2.blogblog.com
+74.125.127.191	www.blogblog.com
 74.125.127.191	www.blogger.com
 74.125.127.193	m.google.com
 74.125.127.27	gmail-smtp-in.l.google.com
@@ -3845,6 +3846,7 @@
 74.125.224.163	accounts.youtube.com
 74.125.224.163	bks0.books.google.com
 74.125.224.163	bks1.books.google.com
+74.125.224.163	bks3.books.google.com
 74.125.224.163	bks4.books.google.com
 74.125.224.163	bks6.books.google.com
 74.125.224.163	bks8.books.google.com
@@ -4132,7 +4134,6 @@
 74.125.224.223	id.l.google.com
 74.125.224.240	toolbarqueries.google.com.hk
 74.125.226.207	csi.gstatic.com
-74.125.239.1	bks3.books.google.com
 74.125.45.125	talkx.l.google.com
 74.200.244.59	lb.wordpress.com
 76.73.40.45	soutong.com
