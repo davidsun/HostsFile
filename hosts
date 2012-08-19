@@ -1012,6 +1012,7 @@
 208.117.238.208	tc.v21.cache8.c.youtube.com
 208.117.238.20	tc.v22.cache1.c.youtube.com
 208.117.238.20	tc.v22.cache2.c.youtube.com
+208.117.238.20	tc.v2.cache1.c.youtube.com
 208.117.238.20	tc.v2.cache2.c.youtube.com
 208.117.238.210	tc.v11.cache6.c.youtube.com
 208.117.238.213	tc.v7.cache6.c.youtube.com
@@ -1060,7 +1061,6 @@
 208.117.242.102	tc.v1.cache3.c.youtube.com
 208.117.242.103	tc.v6.cache6.c.youtube.com
 208.117.242.106	tc.v22.cache6.c.youtube.com
-208.117.242.106	tc.v2.cache1.c.youtube.com
 208.117.242.106	tc.v2.cache8.c.youtube.com
 208.117.242.110	tc.v23.cache1.c.youtube.com
 208.117.242.114	tc.v4.cache7.c.youtube.com
@@ -1244,6 +1244,7 @@
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
+23.61.248.43	a173.phobos.apple.com
 50.23.200.239	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -3131,7 +3132,6 @@
 63.141.192.98	a1684.phobos.apple.com
 63.141.192.98	a1699.phobos.apple.com
 63.141.192.98	a16.phobos.apple.com
-63.141.192.98	a173.phobos.apple.com
 63.141.192.98	a1765.phobos.apple.com
 63.141.192.98	a1820.phobos.apple.com
 63.141.192.98	a1832.phobos.apple.com
@@ -4168,6 +4168,7 @@
 85.17.27.208	www39.multiupload.com
 85.17.27.208	www3.multiupload.com
 85.17.27.208	www40.multiupload.com
+85.17.27.208	www41.multiupload.com
 85.17.27.208	www42.multiupload.com
 85.17.27.208	www43.multiupload.com
 85.17.27.208	www44.multiupload.com
@@ -4195,7 +4196,6 @@
 98.136.170.121	farm6.static.flickr.com
 98.136.170.121	gq1.farm6.static.flickr.com
 98.136.246.29	c5.ah.yahoo.com
-98.136.43.76	geo.yahoo.com
 98.137.53.34	edit.yahoo.com
 98.138.8.116	farm7.static.flickr.com
 98.138.8.116	ne1.farm7.static.flickr.com
