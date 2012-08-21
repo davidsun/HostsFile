@@ -818,10 +818,10 @@
 184.169.77.33	si0.twimg.com
 184.169.77.33	si3.twimg.com
 184.169.77.33	si4.twimg.com
+184.169.84.33	betastream.twitter.com
 184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
-184.169.84.33	oi42.tinypic.com
-184.169.84.33	oi43.tinypic.com
+184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
@@ -829,8 +829,6 @@
 184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
-184.169.84.33	oi52.tinypic.com
-184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
 184.169.84.33	oi56.tinypic.com
@@ -1080,6 +1078,7 @@
 208.117.242.143	tc.v8.cache8.c.youtube.com
 208.117.242.144	tc.v13.cache3.c.youtube.com
 208.117.242.146	tc.v24.cache8.c.youtube.com
+208.117.242.146	tc.v4.cache5.c.youtube.com
 208.117.242.14	tc.v3.cache1.c.youtube.com
 208.117.242.150	tc.v5.cache6.c.youtube.com
 208.117.242.153	tc.v20.cache7.c.youtube.com
@@ -1090,12 +1089,12 @@
 208.117.242.182	tc.v5.cache1.c.youtube.com
 208.117.242.184	tc.v15.cache8.c.youtube.com
 208.117.242.18	tc.v24.cache1.c.youtube.com
-208.117.242.18	tc.v4.cache5.c.youtube.com
 208.117.242.19	tc.v9.cache8.c.youtube.com
 208.117.242.200	tc.v11.cache4.c.youtube.com
 208.117.242.201	tc.v16.cache3.c.youtube.com
 208.117.242.201	tc.v16.cache5.c.youtube.com
 208.117.242.201	tc.v16.cache6.c.youtube.com
+208.117.242.202	tc.v22.cache8.c.youtube.com
 208.117.242.205	tc.v17.cache3.c.youtube.com
 208.117.242.205	tc.v17.cache7.c.youtube.com
 208.117.242.209	tc.v18.cache5.c.youtube.com
@@ -1106,7 +1105,6 @@
 208.117.242.230	tc.v1.cache6.c.youtube.com
 208.117.242.231	tc.v6.cache1.c.youtube.com
 208.117.242.231	tc.v6.cache3.c.youtube.com
-208.117.242.234	tc.v22.cache8.c.youtube.com
 208.117.242.235	tc.v7.cache3.c.youtube.com
 208.117.242.236	tc.v12.cache3.c.youtube.com
 208.117.242.241	tc.v18.cache8.c.youtube.com
