@@ -643,7 +643,6 @@
 173.194.26.51	o-o.preferred.sea07s11.v9.lscache3.c.youtube.com
 173.194.26.51	o-o.preferred.sea07s15.v9.lscache3.c.youtube.com
 173.194.26.51	v9.lscache3.c.youtube.com
-173.194.26.51	v9.nonxt3.c.youtube.com
 173.194.26.52	o-o.preferred.sea07s11.v14.lscache3.c.youtube.com
 173.194.26.52	o-o.preferred.sea07s15.v14.lscache3.c.youtube.com
 173.194.26.52	v14.lscache3.c.youtube.com
@@ -789,7 +788,6 @@
 173.194.79.141	appspot.l.google.com
 173.194.79.141	chrometophone.appspot.com
 173.194.79.141	gv-gadget.appspot.com
-173.194.79.141	newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
 173.194.79.141	project-slingshot-gp.appspot.com
 173.194.79.141	r2303.latest.project-slingshot-hr.appspot.com
 173.194.79.141	r3085-dot-latest-dot-project-slingshot-gp.appspot.com
@@ -813,6 +811,7 @@
 173.194.79.176	vp.video.l.google.com
 173.194.79.188	mtalk.google.com
 173.194.79.190	dl-ssl.google.com
+173.194.8.19	v9.nonxt3.c.youtube.com
 173.236.207.127	mysql.imfido.com
 184.169.77.33	a1.twimg.com
 184.169.77.33	si0.twimg.com
@@ -821,12 +820,14 @@
 184.169.84.33	betastream.twitter.com
 184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
+184.169.84.33	oi42.tinypic.com
 184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
 184.169.84.33	oi48.tinypic.com
+184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
 184.169.84.33	oi52.tinypic.com
@@ -834,6 +835,8 @@
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
 184.169.84.33	oi56.tinypic.com
+184.169.84.33	posterous.com
+184.169.84.33	scribe.twitter.com
 184.169.84.33	t.co
 184.25.104.54	discussions.apple.com
 184.25.105.46	www.icloud.com
@@ -1240,6 +1243,8 @@
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
+23.61.248.16	a1979.phobos.apple.com
+23.61.248.40	a873.phobos.apple.com
 50.23.200.239	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -2351,7 +2356,6 @@
 63.141.192.129	a189.phobos.apple.com
 63.141.192.129	a1904.phobos.apple.com
 63.141.192.129	a1948.phobos.apple.com
-63.141.192.129	a1979.phobos.apple.com
 63.141.192.129	a205.phobos.apple.com
 63.141.192.129	a231.phobos.apple.com
 63.141.192.129	a302.phobos.apple.com
@@ -2653,7 +2657,6 @@
 63.141.192.88	a801.phobos.apple.com
 63.141.192.88	a819.phobos.apple.com
 63.141.192.88	a831.phobos.apple.com
-63.141.192.88	a873.phobos.apple.com
 63.141.192.88	a885.phobos.apple.com
 63.141.192.88	a897.phobos.apple.com
 63.141.192.88	a915.phobos.apple.com
@@ -3457,6 +3460,7 @@
 74.125.127.95	maps.googleapis.com
 74.125.127.95	translate.googleapis.com
 74.125.127.95	www.googleapis.com
+74.125.129.141	newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
 74.125.170.102	o-o.preferred.sjc07s11.v21.lscache7.c.youtube.com
 74.125.170.102	o-o.preferred.sjc07s15.v1.lscache7.c.youtube.com
 74.125.170.102	o-o.preferred.sjc07s15.v21.lscache7.c.youtube.com
