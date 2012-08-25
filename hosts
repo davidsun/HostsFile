@@ -826,7 +826,6 @@
 184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
-184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
 184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
@@ -839,6 +838,7 @@
 184.169.84.33	oi56.tinypic.com
 184.169.84.33	posterous.com
 184.169.84.33	scribe.twitter.com
+184.169.84.33	t.co
 184.25.104.54	discussions.apple.com
 184.25.105.46	www.icloud.com
 184.30.133.47	www.me.com
@@ -1244,8 +1244,6 @@
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
-23.61.248.10	a1701.phobos.apple.com
-23.61.248.8	a733.phobos.apple.com
 50.23.200.239	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -2549,6 +2547,7 @@
 63.141.192.131	a678.phobos.apple.com
 63.141.192.131	a680.phobos.apple.com
 63.141.192.131	a697.phobos.apple.com
+63.141.192.131	a733.phobos.apple.com
 63.141.192.131	a735.phobos.apple.com
 63.141.192.131	a741.phobos.apple.com
 63.141.192.131	a751.phobos.apple.com
@@ -2609,6 +2608,7 @@
 63.141.192.88	a1671.phobos.apple.com
 63.141.192.88	a1677.phobos.apple.com
 63.141.192.88	a1695.phobos.apple.com
+63.141.192.88	a1701.phobos.apple.com
 63.141.192.88	a1713.phobos.apple.com
 63.141.192.88	a1737.phobos.apple.com
 63.141.192.88	a1749.phobos.apple.com
@@ -3964,7 +3964,6 @@
 74.125.224.169	talkgadget.google.com
 74.125.224.169	video-stats.l.google.com
 74.125.224.169	wenda.google.com.hk
-74.125.224.171	s2.googleusercontent.com
 74.125.224.174	clients2.google.com
 74.125.224.174	clients4.google.com
 74.125.224.174	clients6.google.com
@@ -4060,6 +4059,7 @@
 74.125.224.203	r70rmsn4s0rhk6cehcbbcbfbs31pu0va-a-oz-opensocial.googleusercontent.com
 74.125.224.203	rbjhe237k979f79d87gmenp3gejfonu9-a-oz-opensocial.googleusercontent.com
 74.125.224.203	s1.googleusercontent.com
+74.125.224.203	s2.googleusercontent.com
 74.125.224.203	s3.googleusercontent.com
 74.125.224.203	s4.googleusercontent.com
 74.125.224.203	s5.googleusercontent.com
