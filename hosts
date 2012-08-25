@@ -162,6 +162,7 @@
 173.194.26.139	v7.lscache5.c.youtube.com
 173.194.26.139	v7.nonxt5.c.youtube.com
 173.194.26.13	o-o.preferred.sea07s11.v17.lscache1.c.youtube.com
+173.194.26.13	o-o.preferred.sea07s15.v17.lscache1.c.youtube.com
 173.194.26.13	v17.lscache1.c.youtube.com
 173.194.26.13	v17.nonxt1.c.youtube.com
 173.194.26.140	o-o.preferred.sea07s11.v12.lscache5.c.youtube.com
@@ -818,19 +819,20 @@
 184.169.77.33	si0.twimg.com
 184.169.77.33	si3.twimg.com
 184.169.77.33	si4.twimg.com
-184.169.84.33	betastream.twitter.com
+184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
 184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
-184.169.84.33	oi47.tinypic.com
+184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
 184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
+184.169.84.33	oi55.tinypic.com
 184.169.84.33	oi56.tinypic.com
 184.169.84.33	posterous.com
 184.169.84.33	scribe.twitter.com
@@ -1034,7 +1036,6 @@
 208.117.238.31	tc.v19.cache2.c.youtube.com
 208.117.238.33	tc.v10.cache2.c.youtube.com
 208.117.238.35	tc.v20.cache1.c.youtube.com
-208.117.238.35	tc.v20.cache2.c.youtube.com
 208.117.238.80	tc.v21.cache3.c.youtube.com
 208.117.238.83	tc.v16.cache4.c.youtube.com
 208.117.238.86	tc.v12.cache4.c.youtube.com
@@ -1050,7 +1051,6 @@
 208.117.238.92	tc.v4.cache4.c.youtube.com
 208.117.238.93	tc.v9.cache4.c.youtube.com
 208.117.238.94	tc.v14.cache3.c.youtube.com
-208.117.238.95	tc.v19.cache3.c.youtube.com
 208.117.238.97	tc.v10.cache3.c.youtube.com
 208.117.238.98	tc.v15.cache3.c.youtube.com
 208.117.242.102	tc.v1.cache3.c.youtube.com
@@ -1124,6 +1124,7 @@
 208.117.242.54	tc.v5.cache8.c.youtube.com
 208.117.242.55	tc.v10.cache7.c.youtube.com
 208.117.242.55	tc.v10.cache8.c.youtube.com
+208.117.242.57	tc.v20.cache2.c.youtube.com
 208.117.242.6	tc.v21.cache4.c.youtube.com
 208.117.242.70	tc.v21.cache1.c.youtube.com
 208.117.242.72	tc.v11.cache7.c.youtube.com
@@ -1164,6 +1165,7 @@
 208.117.243.226	tc.v7.cache4.c.youtube.com
 208.117.243.22	tc.v3.cache2.c.youtube.com
 208.117.243.230	tc.v16.cache8.c.youtube.com
+208.117.243.24	tc.v19.cache3.c.youtube.com
 208.117.243.27	tc.v20.cache3.c.youtube.com
 208.117.243.28	tc.v5.cache2.c.youtube.com
 208.117.243.29	tc.v13.cache2.c.youtube.com
@@ -1238,13 +1240,16 @@
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
-23.61.248.26	a1901.phobos.apple.com
-23.61.248.42	a1164.phobos.apple.com
+23.61.248.11	a610.phobos.apple.com
+23.61.248.16	a29.phobos.apple.com
+23.61.248.25	a1691.phobos.apple.com
+23.61.248.56	a1065.phobos.apple.com
+23.61.248.9	a506.phobos.apple.com
 50.23.200.239	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
 62.146.87.171	62.146.87.171
-62.146.87.174	premium.de.avira-update.com
+62.146.87.172	premium.de.avira-update.com
 62.212.66.130	multiupload.com
 62.212.73.68	www19.multiupload.com
 62.212.73.70	www12.multiupload.com
@@ -1442,7 +1447,6 @@
 63.141.192.106	a1636.phobos.apple.com
 63.141.192.106	a164.phobos.apple.com
 63.141.192.106	a1665.phobos.apple.com
-63.141.192.106	a1691.phobos.apple.com
 63.141.192.106	a174.phobos.apple.com
 63.141.192.106	a1753.phobos.apple.com
 63.141.192.106	a1814.phobos.apple.com
@@ -1459,7 +1463,6 @@
 63.141.192.106	a287.phobos.apple.com
 63.141.192.106	a292.phobos.apple.com
 63.141.192.106	a296.phobos.apple.com
-63.141.192.106	a29.phobos.apple.com
 63.141.192.106	a306.phobos.apple.com
 63.141.192.106	a340.phobos.apple.com
 63.141.192.106	a352.phobos.apple.com
@@ -1757,6 +1760,7 @@
 63.141.192.114	a1090.phobos.apple.com
 63.141.192.114	a1101.phobos.apple.com
 63.141.192.114	a1120.phobos.apple.com
+63.141.192.114	a1164.phobos.apple.com
 63.141.192.114	a1167.phobos.apple.com
 63.141.192.114	a1234.phobos.apple.com
 63.141.192.114	a1241.phobos.apple.com
@@ -1792,6 +1796,7 @@
 63.141.192.114	a1799.phobos.apple.com
 63.141.192.114	a1870.phobos.apple.com
 63.141.192.114	a1883.phobos.apple.com
+63.141.192.114	a1901.phobos.apple.com
 63.141.192.114	a1932.phobos.apple.com
 63.141.192.114	a1936.phobos.apple.com
 63.141.192.114	a193.phobos.apple.com
@@ -1979,7 +1984,6 @@
 63.141.192.120	a488.phobos.apple.com
 63.141.192.120	a4.mzstatic.com
 63.141.192.120	a4.phobos.apple.com
-63.141.192.120	a506.phobos.apple.com
 63.141.192.120	a507.phobos.apple.com
 63.141.192.120	a543.phobos.apple.com
 63.141.192.120	a572.phobos.apple.com
@@ -2247,7 +2251,6 @@
 63.141.192.123	a949.phobos.apple.com
 63.141.192.123	a968.phobos.apple.com
 63.141.192.123	a977.phobos.apple.com
-63.141.192.128	a1065.phobos.apple.com
 63.141.192.128	a1190.phobos.apple.com
 63.141.192.128	a1269.phobos.apple.com
 63.141.192.128	a130.phobos.apple.com
@@ -2731,7 +2734,6 @@
 63.141.192.89	a580.phobos.apple.com
 63.141.192.89	a598.phobos.apple.com
 63.141.192.89	a59.phobos.apple.com
-63.141.192.89	a610.phobos.apple.com
 63.141.192.89	a652.phobos.apple.com
 63.141.192.89	a658.phobos.apple.com
 63.141.192.89	a664.phobos.apple.com
@@ -3290,7 +3292,6 @@
 69.63.179.70	secure.facebook.com
 72.14.203.85	orkut.l.google.com
 72.21.91.111	s0.wp.com
-72.21.91.111	s1.wp.com
 72.21.91.111	s2.wp.com
 72.21.91.121	0.gravatar.com
 72.21.91.121	1.gravatar.com
@@ -3455,7 +3456,6 @@
 74.125.127.95	maps.googleapis.com
 74.125.127.95	translate.googleapis.com
 74.125.127.95	www.googleapis.com
-74.125.166.13	o-o.preferred.sea07s15.v17.lscache1.c.youtube.com
 74.125.170.102	o-o.preferred.sjc07s11.v21.lscache7.c.youtube.com
 74.125.170.102	o-o.preferred.sjc07s15.v1.lscache7.c.youtube.com
 74.125.170.102	o-o.preferred.sjc07s15.v21.lscache7.c.youtube.com
@@ -3877,6 +3877,7 @@
 74.125.224.164	chart.apis.google.com
 74.125.224.164	clients1.google.com
 74.125.224.164	clients3.google.com
+74.125.224.164	clients6.google.com
 74.125.224.164	code.google.com
 74.125.224.164	code.l.google.com
 74.125.224.164	ditu.google.com
@@ -3961,7 +3962,6 @@
 74.125.224.169	wenda.google.com.hk
 74.125.224.174	clients2.google.com
 74.125.224.174	clients4.google.com
-74.125.224.174	clients6.google.com
 74.125.224.174	clients.l.google.com
 74.125.224.174	khmdb.google.com
 74.125.224.174	mt0.gstatic.com
