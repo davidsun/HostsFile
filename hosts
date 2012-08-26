@@ -12,8 +12,9 @@
 107.14.33.56	photos-b.ak.fbcdn.net
 107.14.33.56	photos-f.ak.fbcdn.net
 107.14.33.64	a3.twimg.com
+107.23.5.91	www.foursquare.com
 108.171.171.159	twitter.zendesk.com
-123.129.242.170	hub5idx.shub.sandai.net
+123.129.242.212	hub5idx.shub.sandai.net
 124.108.120.124	sa.edit.yahoo.com
 17.254.2.129	developer.apple.com
 173.194.26.102	o-o.preferred.sea07s11.v1.lscache4.c.youtube.com
@@ -640,6 +641,7 @@
 173.194.26.50	v24.nonxt3.c.youtube.com
 173.194.26.50	v4.lscache3.c.youtube.com
 173.194.26.50	v4.nonxt3.c.youtube.com
+173.194.26.51	o-o.preferred.sea07s11.v9.lscache3.c.youtube.com
 173.194.26.51	o-o.preferred.sea07s15.v9.lscache3.c.youtube.com
 173.194.26.51	v9.lscache3.c.youtube.com
 173.194.26.51	v9.nonxt3.c.youtube.com
@@ -812,7 +814,6 @@
 173.194.79.176	vp.video.l.google.com
 173.194.79.188	mtalk.google.com
 173.194.79.190	dl-ssl.google.com
-173.194.8.19	o-o.preferred.sea07s11.v9.lscache3.c.youtube.com
 173.236.207.127	mysql.imfido.com
 184.169.77.33	a1.twimg.com
 184.169.77.33	si0.twimg.com
@@ -821,6 +822,7 @@
 184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
+184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
@@ -831,8 +833,10 @@
 184.169.84.33	oi51.tinypic.com
 184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
-184.169.84.33	oi55.tinypic.com
+184.169.84.33	oi54.tinypic.com
+184.169.84.33	oi56.tinypic.com
 184.169.84.33	posterous.com
+184.169.84.33	scribe.twitter.com
 184.169.84.33	t.co
 184.25.104.54	discussions.apple.com
 184.25.105.46	www.icloud.com
@@ -1239,7 +1243,7 @@
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
-23.61.248.56	a1109.phobos.apple.com
+23.61.248.33	a1285.phobos.apple.com
 50.23.200.239	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -2176,6 +2180,7 @@
 63.141.192.123	a106.phobos.apple.com
 63.141.192.123	a1071.phobos.apple.com
 63.141.192.123	a1083.phobos.apple.com
+63.141.192.123	a1109.phobos.apple.com
 63.141.192.123	a112.phobos.apple.com
 63.141.192.123	a1162.phobos.apple.com
 63.141.192.123	a1217.phobos.apple.com
@@ -2930,7 +2935,6 @@
 63.141.192.96	a1214.phobos.apple.com
 63.141.192.96	a1231.phobos.apple.com
 63.141.192.96	a1243.phobos.apple.com
-63.141.192.96	a1285.phobos.apple.com
 63.141.192.96	a1297.phobos.apple.com
 63.141.192.96	a1303.phobos.apple.com
 63.141.192.96	a1327.phobos.apple.com
@@ -3292,7 +3296,6 @@
 72.14.203.85	orkut.l.google.com
 72.21.91.111	s0.wp.com
 72.21.91.111	s1.wp.com
-72.21.91.111	s2.wp.com
 72.21.91.121	0.gravatar.com
 72.21.91.121	1.gravatar.com
 72.21.91.121	2.gravatar.com
@@ -3329,7 +3332,6 @@
 74.125.103.17	o-o.preferred.sjc07s15.v18.lscache5.c.youtube.com
 74.125.103.18	o-o.preferred.sjc07s11.v24.lscache1.c.youtube.com
 74.125.103.18	o-o.preferred.sjc07s11.v4.lscache1.c.youtube.com
-74.125.103.18	o-o.preferred.sjc07s15.v24.lscache3.c.youtube.com
 74.125.103.18	o-o.preferred.sjc07s15.v24.lscache5.c.youtube.com
 74.125.103.20	o-o.preferred.sjc07s11.v14.lscache5.c.youtube.com
 74.125.103.20	o-o.preferred.sjc07s15.v14.lscache5.c.youtube.com
@@ -3709,6 +3711,7 @@
 74.125.170.49	o-o.preferred.sjc07s15.v18.lscache3.c.youtube.com
 74.125.170.50	o-o.preferred.sjc07s11.v24.lscache3.c.youtube.com
 74.125.170.50	o-o.preferred.sjc07s11.v4.lscache3.c.youtube.com
+74.125.170.50	o-o.preferred.sjc07s15.v24.lscache3.c.youtube.com
 74.125.170.50	o-o.preferred.sjc07s15.v4.lscache3.c.youtube.com
 74.125.170.51	o-o.preferred.sjc07s11.v9.lscache3.c.youtube.com
 74.125.170.51	o-o.preferred.sjc07s15.v9.lscache3.c.youtube.com
@@ -3971,8 +3974,8 @@
 74.125.224.174	safebrowsing.clients.google.com
 74.125.224.174	sketchup.google.com
 74.125.224.174	toolbarqueries.clients.google.com
+74.125.224.183	id.google.com.hk
 74.125.224.191	id.google.cn
-74.125.224.191	id.google.com.hk
 74.125.224.202	0-focus-opensocial.googleusercontent.com
 74.125.224.202	doc-10-7o-docs.googleusercontent.com
 74.125.224.202	hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
