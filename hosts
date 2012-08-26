@@ -819,11 +819,13 @@
 184.169.77.33	si0.twimg.com
 184.169.77.33	si3.twimg.com
 184.169.77.33	si4.twimg.com
+184.169.84.33	betastream.twitter.com
 184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
 184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi44.tinypic.com
+184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
 184.169.84.33	oi48.tinypic.com
@@ -1087,7 +1089,6 @@
 208.117.242.174	tc.v23.cache7.c.youtube.com
 208.117.242.178	tc.v24.cache4.c.youtube.com
 208.117.242.178	tc.v4.cache6.c.youtube.com
-208.117.242.180	tc.v14.cache2.c.youtube.com
 208.117.242.182	tc.v5.cache1.c.youtube.com
 208.117.242.184	tc.v15.cache8.c.youtube.com
 208.117.242.18	tc.v24.cache1.c.youtube.com
@@ -1124,6 +1125,7 @@
 208.117.242.46	tc.v3.cache4.c.youtube.com
 208.117.242.46	tc.v3.cache5.c.youtube.com
 208.117.242.46	tc.v3.cache6.c.youtube.com
+208.117.242.52	tc.v14.cache2.c.youtube.com
 208.117.242.52	tc.v14.cache5.c.youtube.com
 208.117.242.54	tc.v5.cache8.c.youtube.com
 208.117.242.55	tc.v10.cache7.c.youtube.com
@@ -1243,7 +1245,6 @@
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
-23.61.248.17	a522.phobos.apple.com
 50.23.200.239	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -2159,6 +2160,7 @@
 63.141.192.122	a471.phobos.apple.com
 63.141.192.122	a473.phobos.apple.com
 63.141.192.122	a519.phobos.apple.com
+63.141.192.122	a522.phobos.apple.com
 63.141.192.122	a526.phobos.apple.com
 63.141.192.122	a53.phobos.apple.com
 63.141.192.122	a555.phobos.apple.com
@@ -3814,8 +3816,6 @@
 74.125.224.161	encrypted.google.com
 74.125.224.161	encrypted-tbn1.google.com
 74.125.224.161	feedburner.google.com
-74.125.224.161	geoauth.google.com
-74.125.224.161	i2.ytimg.com
 74.125.224.161	i3.ytimg.com
 74.125.224.161	i4.ytimg.com
 74.125.224.161	khm0.google.com
@@ -3836,6 +3836,7 @@
 74.125.224.161	writely.l.google.com
 74.125.224.162	dl.google.com
 74.125.224.162	dl.l.google.com
+74.125.224.162	geoauth.google.com
 74.125.224.162	lh2.l.google.com
 74.125.224.162	market.android.com
 74.125.224.162	mts2.google.com
@@ -3967,6 +3968,7 @@
 74.125.224.174	clients4.google.com
 74.125.224.174	clients6.google.com
 74.125.224.174	clients.l.google.com
+74.125.224.174	i2.ytimg.com
 74.125.224.174	khmdb.google.com
 74.125.224.174	mt0.gstatic.com
 74.125.224.174	mt3.gstatic.com
@@ -4148,7 +4150,7 @@
 85.17.122.103	www21.multiupload.com
 85.17.123.20	www22.multiupload.com
 85.17.190.226	www16.multiupload.com
-85.17.27.208	www17.multiupload.com
+85.17.190.229	www17.multiupload.com
 85.17.27.208	www24.multiupload.com
 85.17.27.208	www25.multiupload.com
 85.17.27.208	www26.multiupload.com
