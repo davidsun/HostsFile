@@ -511,6 +511,7 @@
 173.194.26.238	o-o.preferred.sea07s15.v3.lscache8.c.youtube.com
 173.194.26.238	v23.lscache8.c.youtube.com
 173.194.26.238	v23.nonxt8.c.youtube.com
+173.194.26.238	v3.lscache8.c.youtube.com
 173.194.26.238	v3.nonxt8.c.youtube.com
 173.194.26.239	o-o.preferred.sea07s11.v8.lscache8.c.youtube.com
 173.194.26.239	o-o.preferred.sea07s15.v8.lscache8.c.youtube.com
@@ -1023,7 +1024,6 @@
 208.117.238.218	tc.v13.cache6.c.youtube.com
 208.117.238.21	tc.v7.cache1.c.youtube.com
 208.117.238.220	tc.v24.cache6.c.youtube.com
-208.117.238.220	tc.v4.cache8.c.youtube.com
 208.117.238.222	tc.v14.cache8.c.youtube.com
 208.117.238.225	tc.v10.cache6.c.youtube.com
 208.117.238.22	tc.v12.cache1.c.youtube.com
@@ -1061,7 +1061,6 @@
 208.117.238.98	tc.v15.cache3.c.youtube.com
 208.117.242.102	tc.v1.cache3.c.youtube.com
 208.117.242.103	tc.v6.cache6.c.youtube.com
-208.117.242.104	tc.v11.cache8.c.youtube.com
 208.117.242.106	tc.v22.cache6.c.youtube.com
 208.117.242.106	tc.v2.cache8.c.youtube.com
 208.117.242.110	tc.v23.cache1.c.youtube.com
@@ -1161,7 +1160,9 @@
 208.117.243.208	tc.v1.cache8.c.youtube.com
 208.117.243.211	tc.v2.cache4.c.youtube.com
 208.117.243.212	tc.v10.cache4.c.youtube.com
+208.117.243.215	tc.v11.cache8.c.youtube.com
 208.117.243.216	tc.v19.cache8.c.youtube.com
+208.117.243.217	tc.v4.cache8.c.youtube.com
 208.117.243.219	tc.v20.cache8.c.youtube.com
 208.117.243.21	tc.v18.cache2.c.youtube.com
 208.117.243.21	tc.v18.cache3.c.youtube.com
@@ -1200,6 +1201,7 @@
 208.80.152.206	wikinews.org
 208.80.152.208	mediawiki.org
 208.80.152.209	wikimediafoundation.org
+208.80.152.211	upload.wikimedia.org
 208.80.154.150	ganglia.wikimedia.org
 208.80.154.224	commons.wikimedia.org
 208.80.154.224	meta.wikimedia.org
@@ -1236,8 +1238,8 @@
 216.115.107.207	www.flickr.com
 216.115.97.236	d.yimg.com
 216.115.97.236	l.yimg.com
-216.252.124.30	row.bc.yahoo.com
-216.252.124.30	us.bc.yahoo.com
+216.252.124.32	row.bc.yahoo.com
+216.252.124.32	us.bc.yahoo.com
 23.2.111.144	platform.twitter.com
 23.2.111.144	si1.twimg.com
 23.2.111.144	si2.twimg.com
@@ -3268,7 +3270,6 @@
 63.141.192.99	a971.phobos.apple.com
 66.163.168.247	open.login.yahoo.com
 66.163.169.186	login.yahoo.com
-66.220.147.88	www.facebook.com
 66.220.147.98	upload.facebook.com
 66.220.151.33	profile.facebook.com
 66.228.120.92	web8.twitpic.com
@@ -3276,6 +3277,7 @@
 67.195.19.74	farm5.static.flickr.com
 67.195.19.74	gq1.farm5.static.flickr.com
 68.142.214.24	flickr.com
+68.142.214.43	farm1.static.flickr.com
 68.142.214.43	static.flickr.com
 69.147.90.159	farm2.static.flickr.com
 69.147.90.215	farm3.static.flickr.com
@@ -3289,6 +3291,7 @@
 69.171.234.39	pixel.facebook.com
 69.171.234.39	ssl.facebook.com
 69.171.234.39	zh-CN.facebook.com
+69.171.237.16	www.facebook.com
 69.171.237.19	m.facebook.com
 69.171.237.20	apps.facebook.com
 69.63.179.70	secure.facebook.com
@@ -3344,6 +3347,7 @@
 74.125.103.38	o-o.preferred.sjc07s15.v21.lscache8.c.youtube.com
 74.125.103.39	o-o.preferred.sjc07s11.v6.lscache2.c.youtube.com
 74.125.103.39	o-o.preferred.sjc07s11.v6.lscache4.c.youtube.com
+74.125.103.39	o-o.preferred.sjc07s15.v6.lscache8.c.youtube.com
 74.125.103.40	o-o.preferred.sjc07s15.v11.lscache6.c.youtube.com
 74.125.103.42	o-o.preferred.sjc07s11.v22.lscache6.c.youtube.com
 74.125.103.42	o-o.preferred.sjc07s11.v2.lscache8.c.youtube.com
@@ -3642,7 +3646,6 @@
 74.125.170.230	o-o.preferred.sjc07s11.v1.lscache8.c.youtube.com
 74.125.170.230	o-o.preferred.sjc07s11.v21.lscache8.c.youtube.com
 74.125.170.231	o-o.preferred.sjc07s11.v6.lscache8.c.youtube.com
-74.125.170.231	o-o.preferred.sjc07s15.v6.lscache8.c.youtube.com
 74.125.170.232	o-o.preferred.sjc07s11.v11.lscache8.c.youtube.com
 74.125.170.232	o-o.preferred.sjc07s15.v11.lscache8.c.youtube.com
 74.125.170.233	o-o.preferred.sjc07s11.v16.lscache8.c.youtube.com
@@ -4148,6 +4151,7 @@
 85.17.123.20	www22.multiupload.com
 85.17.190.226	www16.multiupload.com
 85.17.190.229	www17.multiupload.com
+85.17.27.208	www14.multiupload.com
 85.17.27.208	www24.multiupload.com
 85.17.27.208	www25.multiupload.com
 85.17.27.208	www26.multiupload.com
@@ -4185,15 +4189,17 @@
 89.105.213.21	premium.nl.avira-update.com
 89.105.213.21	prempeak.avira-update.com
 95.211.138.142	www11.multiupload.com
-95.211.99.102	www14.multiupload.com
 95.211.99.1	www9.multiupload.com
 95.211.99.2	www6.multiupload.com
 95.211.99.3	www7.multiupload.com
 95.211.99.4	www10.multiupload.com
 95.211.99.5	www8.multiupload.com
+98.136.170.121	farm6.static.flickr.com
+98.136.170.121	gq1.farm6.static.flickr.com
 98.136.246.29	c5.ah.yahoo.com
 98.136.43.76	geo.yahoo.com
 98.137.53.34	edit.yahoo.com
 98.138.8.116	farm7.static.flickr.com
 98.138.8.116	ne1.farm7.static.flickr.com
 98.139.102.46	bf1.farm7.static.flickr.com
+98.139.197.254	bf1.farm6.static.flickr.com
