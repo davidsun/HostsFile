@@ -3347,7 +3347,6 @@
 74.125.103.38	o-o.preferred.sjc07s15.v21.lscache8.c.youtube.com
 74.125.103.39	o-o.preferred.sjc07s11.v6.lscache2.c.youtube.com
 74.125.103.39	o-o.preferred.sjc07s11.v6.lscache4.c.youtube.com
-74.125.103.39	o-o.preferred.sjc07s15.v6.lscache8.c.youtube.com
 74.125.103.40	o-o.preferred.sjc07s15.v11.lscache6.c.youtube.com
 74.125.103.42	o-o.preferred.sjc07s11.v22.lscache6.c.youtube.com
 74.125.103.42	o-o.preferred.sjc07s11.v2.lscache8.c.youtube.com
@@ -3646,6 +3645,7 @@
 74.125.170.230	o-o.preferred.sjc07s11.v1.lscache8.c.youtube.com
 74.125.170.230	o-o.preferred.sjc07s11.v21.lscache8.c.youtube.com
 74.125.170.231	o-o.preferred.sjc07s11.v6.lscache8.c.youtube.com
+74.125.170.231	o-o.preferred.sjc07s15.v6.lscache8.c.youtube.com
 74.125.170.232	o-o.preferred.sjc07s11.v11.lscache8.c.youtube.com
 74.125.170.232	o-o.preferred.sjc07s15.v11.lscache8.c.youtube.com
 74.125.170.233	o-o.preferred.sjc07s11.v16.lscache8.c.youtube.com
@@ -4151,7 +4151,6 @@
 85.17.123.20	www22.multiupload.com
 85.17.190.226	www16.multiupload.com
 85.17.190.229	www17.multiupload.com
-85.17.27.208	www14.multiupload.com
 85.17.27.208	www24.multiupload.com
 85.17.27.208	www25.multiupload.com
 85.17.27.208	www26.multiupload.com
@@ -4189,6 +4188,7 @@
 89.105.213.21	premium.nl.avira-update.com
 89.105.213.21	prempeak.avira-update.com
 95.211.138.142	www11.multiupload.com
+95.211.99.102	www14.multiupload.com
 95.211.99.1	www9.multiupload.com
 95.211.99.2	www6.multiupload.com
 95.211.99.3	www7.multiupload.com
