@@ -821,15 +821,14 @@
 184.169.77.33	si4.twimg.com
 184.169.84.33	betastream.twitter.com
 184.169.84.33	oi40.tinypic.com
-184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
 184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi44.tinypic.com
+184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
 184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
-184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
 184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
@@ -880,6 +879,7 @@
 203.208.46.27	r12.pek01s01.c.youtube.com
 203.208.46.28	r13.pek01s01.c.youtube.com
 203.208.46.29	r14.pek01s01.c.youtube.com
+203.208.46.30	r15.pek01s01.c.youtube.com
 203.208.46.31	r16.pek01s01.c.youtube.com
 203.208.46.32	r17.pek01s01.c.youtube.com
 203.208.46.33	r18.pek01s01.c.youtube.com
@@ -3381,7 +3381,6 @@
 74.125.103.6	o-o.preferred.sjc07s11.v21.lscache3.c.youtube.com
 74.125.103.7	o-o.preferred.sjc07s11.v6.lscache5.c.youtube.com
 74.125.103.8	o-o.preferred.sjc07s15.v11.lscache3.c.youtube.com
-74.125.103.9	o-o.preferred.sjc07s11.v16.lscache5.c.youtube.com
 74.125.103.9	o-o.preferred.sjc07s15.v16.lscache7.c.youtube.com
 74.125.127.100	spreadsheets-china.l.google.com
 74.125.127.100	writely-china.l.google.com
@@ -3738,6 +3737,7 @@
 74.125.170.71	o-o.preferred.sjc07s15.v6.lscache5.c.youtube.com
 74.125.170.72	o-o.preferred.sjc07s11.v11.lscache5.c.youtube.com
 74.125.170.72	o-o.preferred.sjc07s15.v11.lscache5.c.youtube.com
+74.125.170.73	o-o.preferred.sjc07s11.v16.lscache5.c.youtube.com
 74.125.170.73	o-o.preferred.sjc07s15.v16.lscache5.c.youtube.com
 74.125.170.74	o-o.preferred.sjc07s11.v22.lscache5.c.youtube.com
 74.125.170.74	o-o.preferred.sjc07s11.v2.lscache5.c.youtube.com
@@ -3975,7 +3975,6 @@
 74.125.224.174	safebrowsing.clients.google.com
 74.125.224.174	sketchup.google.com
 74.125.224.174	toolbarqueries.clients.google.com
-74.125.224.176	base3.googlehosted.com
 74.125.224.191	id.google.cn
 74.125.224.191	id.google.com.hk
 74.125.224.202	0-focus-opensocial.googleusercontent.com
@@ -4097,6 +4096,7 @@
 74.125.224.208	toolbarqueries.google.com
 74.125.224.208	toolbarqueries.l.google.com
 74.125.224.209	base2.googlehosted.com
+74.125.224.209	base3.googlehosted.com
 74.125.224.209	blogsearch.google.com.hk
 74.125.224.209	picasa.google.com
 74.125.224.209	scholar.google.com
@@ -4191,7 +4191,6 @@
 95.211.99.2	www6.multiupload.com
 95.211.99.3	www7.multiupload.com
 95.211.99.4	www10.multiupload.com
-95.211.99.5	www8.multiupload.com
 98.136.170.121	farm6.static.flickr.com
 98.136.170.121	gq1.farm6.static.flickr.com
 98.136.246.29	c5.ah.yahoo.com
