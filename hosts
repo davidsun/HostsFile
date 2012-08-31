@@ -673,7 +673,6 @@
 173.194.26.6	o-o.preferred.sea07s11.v21.lscache1.c.youtube.com
 173.194.26.6	o-o.preferred.sea07s15.v1.lscache1.c.youtube.com
 173.194.26.6	o-o.preferred.sea07s15.v21.lscache1.c.youtube.com
-173.194.26.6	v1.lscache1.c.youtube.com
 173.194.26.6	v1.nonxt1.c.youtube.com
 173.194.26.6	v21.lscache1.c.youtube.com
 173.194.26.6	v21.nonxt1.c.youtube.com
@@ -826,15 +825,16 @@
 184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
+184.169.84.33	oi46.tinypic.com
+184.169.84.33	oi47.tinypic.com
 184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
 184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
-184.169.84.33	oi55.tinypic.com
+184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi56.tinypic.com
-184.169.84.33	posterous.com
 184.169.84.33	scribe.twitter.com
 184.169.84.33	t.co
 184.25.104.54	discussions.apple.com
@@ -989,7 +989,6 @@
 208.117.226.144	o-o.preferred.ams03g05.v1.lscache5.c.youtube.com
 208.117.238.144	tc.v21.cache7.c.youtube.com
 208.117.238.145	tc.v6.cache7.c.youtube.com
-208.117.238.146	tc.v11.cache5.c.youtube.com
 208.117.238.148	tc.v22.cache7.c.youtube.com
 208.117.238.148	tc.v2.cache5.c.youtube.com
 208.117.238.149	tc.v7.cache5.c.youtube.com
@@ -1016,6 +1015,7 @@
 208.117.238.20	tc.v2.cache1.c.youtube.com
 208.117.238.20	tc.v2.cache2.c.youtube.com
 208.117.238.210	tc.v11.cache6.c.youtube.com
+208.117.238.212	tc.v2.cache6.c.youtube.com
 208.117.238.213	tc.v7.cache6.c.youtube.com
 208.117.238.213	tc.v7.cache8.c.youtube.com
 208.117.238.214	tc.v12.cache8.c.youtube.com
@@ -1032,6 +1032,7 @@
 208.117.238.24	tc.v23.cache2.c.youtube.com
 208.117.238.25	tc.v8.cache1.c.youtube.com
 208.117.238.25	tc.v8.cache2.c.youtube.com
+208.117.238.26	tc.v13.cache1.c.youtube.com
 208.117.238.27	tc.v18.cache1.c.youtube.com
 208.117.238.28	tc.v4.cache1.c.youtube.com
 208.117.238.28	tc.v4.cache2.c.youtube.com
@@ -1079,7 +1080,6 @@
 208.117.242.134	tc.v21.cache5.c.youtube.com
 208.117.242.135	tc.v6.cache2.c.youtube.com
 208.117.242.136	tc.v11.cache3.c.youtube.com
-208.117.242.138	tc.v2.cache7.c.youtube.com
 208.117.242.140	tc.v12.cache2.c.youtube.com
 208.117.242.141	tc.v17.cache1.c.youtube.com
 208.117.242.142	tc.v23.cache3.c.youtube.com
@@ -1153,7 +1153,7 @@
 208.117.243.101	tc.v8.cache5.c.youtube.com
 208.117.243.102	tc.v16.cache1.c.youtube.com
 208.117.243.144	tc.v1.cache7.c.youtube.com
-208.117.243.147	tc.v2.cache6.c.youtube.com
+208.117.243.147	tc.v2.cache7.c.youtube.com
 208.117.243.150	tc.v3.cache7.c.youtube.com
 208.117.243.152	tc.v19.cache6.c.youtube.com
 208.117.243.158	tc.v21.cache6.c.youtube.com
@@ -1177,7 +1177,7 @@
 208.117.243.24	tc.v19.cache3.c.youtube.com
 208.117.243.29	tc.v13.cache2.c.youtube.com
 208.117.243.80	tc.v1.cache5.c.youtube.com
-208.117.243.93	tc.v13.cache1.c.youtube.com
+208.117.243.87	tc.v11.cache5.c.youtube.com
 208.117.243.95	tc.v6.cache5.c.youtube.com
 208.117.243.96	tc.
 208.117.243.99	tc.v15.cache5.c.youtube.com
@@ -1233,11 +1233,16 @@
 209.85.225.113	clients-china.l.google.com
 216.115.107.207	up.flickr.com
 216.115.107.207	www.flickr.com
+216.115.97.236	d.yimg.com
+216.252.124.30	row.bc.yahoo.com
+216.252.124.32	us.bc.yahoo.com
 23.2.111.144	platform.twitter.com
 23.2.111.144	si1.twimg.com
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
+23.61.248.49	a121.phobos.apple.com
+23.61.248.9	a272.phobos.apple.com
 50.23.200.239	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -3099,7 +3104,6 @@
 63.141.192.98	a1143.phobos.apple.com
 63.141.192.98	a1191.phobos.apple.com
 63.141.192.98	a1218.phobos.apple.com
-63.141.192.98	a121.phobos.apple.com
 63.141.192.98	a1224.phobos.apple.com
 63.141.192.98	a1267.phobos.apple.com
 63.141.192.98	a1301.phobos.apple.com
@@ -3138,7 +3142,6 @@
 63.141.192.98	a217.phobos.apple.com
 63.141.192.98	a227.phobos.apple.com
 63.141.192.98	a23.phobos.apple.com
-63.141.192.98	a272.phobos.apple.com
 63.141.192.98	a284.phobos.apple.com
 63.141.192.98	a319.phobos.apple.com
 63.141.192.98	a323.phobos.apple.com
@@ -3268,6 +3271,7 @@
 67.195.19.66	farm4.static.flickr.com
 67.195.19.74	farm5.static.flickr.com
 67.195.19.74	gq1.farm5.static.flickr.com
+68.142.214.24	flickr.com
 68.142.214.43	farm1.static.flickr.com
 68.142.214.43	static.flickr.com
 69.147.90.159	farm2.static.flickr.com
@@ -3277,13 +3281,13 @@
 69.171.228.76	touch.facebook.com
 69.171.233.18	friendfeed.com
 69.171.233.18	www.friendfeed.com
-69.171.234.23	login.facebook.com
-69.171.234.39	pixel.facebook.com
+69.171.234.23	pixel.facebook.com
+69.171.234.39	login.facebook.com
 69.171.234.39	ssl.facebook.com
+69.171.234.39	zh-CN.facebook.com
 69.171.234.40	m.facebook.com
 69.171.237.16	www.facebook.com
 69.171.237.20	apps.facebook.com
-69.171.237.20	zh-CN.facebook.com
 69.63.179.70	secure.facebook.com
 72.14.203.85	orkut.l.google.com
 72.21.91.111	s0.wp.com
@@ -3452,6 +3456,7 @@
 74.125.127.95	maps.googleapis.com
 74.125.127.95	translate.googleapis.com
 74.125.127.95	www.googleapis.com
+74.125.166.6	v1.lscache1.c.youtube.com
 74.125.170.102	o-o.preferred.sjc07s11.v21.lscache7.c.youtube.com
 74.125.170.102	o-o.preferred.sjc07s15.v1.lscache7.c.youtube.com
 74.125.170.102	o-o.preferred.sjc07s15.v21.lscache7.c.youtube.com
@@ -4138,9 +4143,9 @@
 80.190.130.227	premium.avira-update.net
 83.149.126.40	www18.multiupload.com
 85.17.122.103	www21.multiupload.com
+85.17.123.20	www22.multiupload.com
 85.17.190.226	www16.multiupload.com
-85.17.190.229	www17.multiupload.com
-85.17.27.208	www22.multiupload.com
+85.17.27.208	www17.multiupload.com
 85.17.27.208	www24.multiupload.com
 85.17.27.208	www25.multiupload.com
 85.17.27.208	www26.multiupload.com
@@ -4184,9 +4189,10 @@
 95.211.99.3	www7.multiupload.com
 95.211.99.4	www10.multiupload.com
 95.211.99.5	www8.multiupload.com
-98.136.170.121	farm6.static.flickr.com
 98.136.170.121	gq1.farm6.static.flickr.com
 98.136.246.29	c5.ah.yahoo.com
 98.136.43.76	geo.yahoo.com
 98.137.53.34	edit.yahoo.com
 98.139.102.46	bf1.farm7.static.flickr.com
+98.139.102.46	farm7.static.flickr.com
+98.139.197.254	bf1.farm6.static.flickr.com
