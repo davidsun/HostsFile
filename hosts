@@ -816,7 +816,6 @@
 173.194.79.190	dl-ssl.google.com
 173.236.207.127	mysql.imfido.com
 184.169.77.33	a1.twimg.com
-184.169.77.33	a2.twimg.com
 184.169.77.33	si0.twimg.com
 184.169.77.33	si3.twimg.com
 184.169.77.33	si4.twimg.com
@@ -824,8 +823,8 @@
 184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
+184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi44.tinypic.com
-184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
 184.169.84.33	oi48.tinypic.com
@@ -834,10 +833,11 @@
 184.169.84.33	oi51.tinypic.com
 184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
+184.169.84.33	oi54.tinypic.com
+184.169.84.33	oi55.tinypic.com
 184.169.84.33	oi56.tinypic.com
 184.169.84.33	posterous.com
 184.169.84.33	scribe.twitter.com
-184.169.84.33	t.co
 184.25.104.54	discussions.apple.com
 184.25.105.46	www.icloud.com
 184.30.133.47	www.me.com
@@ -1205,7 +1205,9 @@
 208.80.154.224	meta.wikimedia.org
 208.80.154.224	www.wikimedia.org
 208.80.154.225	en.wikipedia.org
+208.80.154.225	simple.wikipedia.org
 208.80.154.225	www.wikipedia.org
+208.80.154.225	zh.wikipedia.org
 208.80.154.226	en.wiktionary.org
 208.80.154.226	www.wiktionary.org
 208.80.154.226	zh.wiktionary.org
@@ -1241,7 +1243,9 @@
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
-23.61.248.33	a49.phobos.apple.com
+23.61.248.24	a763.phobos.apple.com
+23.61.248.32	a1952.phobos.apple.com
+23.61.248.65	a1409.phobos.apple.com
 50.23.200.239	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -1345,7 +1349,6 @@
 63.141.192.105	a1325.phobos.apple.com
 63.141.192.105	a1348.phobos.apple.com
 63.141.192.105	a1373.phobos.apple.com
-63.141.192.105	a1409.phobos.apple.com
 63.141.192.105	a1452.phobos.apple.com
 63.141.192.105	a145.phobos.apple.com
 63.141.192.105	a1470.phobos.apple.com
@@ -1880,7 +1883,6 @@
 63.141.192.115	a1909.phobos.apple.com
 63.141.192.115	a1910.phobos.apple.com
 63.141.192.115	a1946.phobos.apple.com
-63.141.192.115	a1952.phobos.apple.com
 63.141.192.115	a1959.phobos.apple.com
 63.141.192.115	a1969.phobos.apple.com
 63.141.192.115	a1977.phobos.apple.com
@@ -2985,6 +2987,7 @@
 63.141.192.96	a469.phobos.apple.com
 63.141.192.96	a487.phobos.apple.com
 63.141.192.96	a493.phobos.apple.com
+63.141.192.96	a49.phobos.apple.com
 63.141.192.96	a511.phobos.apple.com
 63.141.192.96	a541.phobos.apple.com
 63.141.192.96	a55.phobos.apple.com
@@ -3254,7 +3257,6 @@
 63.141.192.99	a726.phobos.apple.com
 63.141.192.99	a747.phobos.apple.com
 63.141.192.99	a761.phobos.apple.com
-63.141.192.99	a763.phobos.apple.com
 63.141.192.99	a794.phobos.apple.com
 63.141.192.99	a79.phobos.apple.com
 63.141.192.99	a7.mzstatic.com
@@ -4140,6 +4142,7 @@
 76.74.254.123	en.blog.wordpress.com
 76.74.254.123	en.forums.wordpress.com
 76.74.254.123	forums.wordpress.com
+77.109.171.106	a2.twimg.com
 80.190.130.227	premium.avira-update.net
 83.149.126.40	www18.multiupload.com
 85.17.122.103	www21.multiupload.com
