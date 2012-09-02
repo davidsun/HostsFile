@@ -822,12 +822,11 @@
 184.169.84.33	betastream.twitter.com
 184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
-184.169.84.33	oi42.tinypic.com
 184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi44.tinypic.com
+184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
-184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
@@ -838,6 +837,7 @@
 184.169.84.33	oi56.tinypic.com
 184.169.84.33	posterous.com
 184.169.84.33	scribe.twitter.com
+184.169.84.33	t.co
 184.25.104.54	discussions.apple.com
 184.25.105.46	www.icloud.com
 184.30.133.47	www.me.com
@@ -1219,8 +1219,6 @@
 208.80.154.228	zh.wikibooks.org
 208.80.154.229	en.wikisource.org
 208.80.154.229	zh.wikisource.org
-208.80.154.230	en.wikinews.org
-208.80.154.230	www.wikinews.org
 208.80.154.230	zh.wikinews.org
 208.80.154.232	www.mediawiki.org
 208.80.154.233	www.wikimediafoundation.org
@@ -1243,9 +1241,8 @@
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
-23.61.248.24	a763.phobos.apple.com
-23.61.248.32	a1952.phobos.apple.com
-23.61.248.65	a1409.phobos.apple.com
+23.61.248.33	a1882.phobos.apple.com
+23.61.248.34	a1315.phobos.apple.com
 50.23.200.239	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -1349,6 +1346,7 @@
 63.141.192.105	a1325.phobos.apple.com
 63.141.192.105	a1348.phobos.apple.com
 63.141.192.105	a1373.phobos.apple.com
+63.141.192.105	a1409.phobos.apple.com
 63.141.192.105	a1452.phobos.apple.com
 63.141.192.105	a145.phobos.apple.com
 63.141.192.105	a1470.phobos.apple.com
@@ -1371,7 +1369,6 @@
 63.141.192.105	a1843.phobos.apple.com
 63.141.192.105	a1849.phobos.apple.com
 63.141.192.105	a1864.phobos.apple.com
-63.141.192.105	a1882.phobos.apple.com
 63.141.192.105	a188.phobos.apple.com
 63.141.192.105	a1905.phobos.apple.com
 63.141.192.105	a1926.phobos.apple.com
@@ -1883,6 +1880,7 @@
 63.141.192.115	a1909.phobos.apple.com
 63.141.192.115	a1910.phobos.apple.com
 63.141.192.115	a1946.phobos.apple.com
+63.141.192.115	a1952.phobos.apple.com
 63.141.192.115	a1959.phobos.apple.com
 63.141.192.115	a1969.phobos.apple.com
 63.141.192.115	a1977.phobos.apple.com
@@ -3109,7 +3107,6 @@
 63.141.192.98	a1224.phobos.apple.com
 63.141.192.98	a1267.phobos.apple.com
 63.141.192.98	a1301.phobos.apple.com
-63.141.192.98	a1315.phobos.apple.com
 63.141.192.98	a1336.phobos.apple.com
 63.141.192.98	a1357.phobos.apple.com
 63.141.192.98	a1394.phobos.apple.com
@@ -3257,6 +3254,7 @@
 63.141.192.99	a726.phobos.apple.com
 63.141.192.99	a747.phobos.apple.com
 63.141.192.99	a761.phobos.apple.com
+63.141.192.99	a763.phobos.apple.com
 63.141.192.99	a794.phobos.apple.com
 63.141.192.99	a79.phobos.apple.com
 63.141.192.99	a7.mzstatic.com
