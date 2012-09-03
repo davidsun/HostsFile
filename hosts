@@ -1245,6 +1245,8 @@
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
+23.61.248.35	a985.phobos.apple.com
+23.61.248.56	a214.phobos.apple.com
 50.23.200.239	twitpic.com
 58.254.134.233	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -2286,7 +2288,6 @@
 63.141.192.128	a1968.phobos.apple.com
 63.141.192.128	a1983.phobos.apple.com
 63.141.192.128	a207.phobos.apple.com
-63.141.192.128	a214.phobos.apple.com
 63.141.192.128	a218.phobos.apple.com
 63.141.192.128	a279.phobos.apple.com
 63.141.192.128	a290.phobos.apple.com
@@ -2322,7 +2323,6 @@
 63.141.192.128	a899.phobos.apple.com
 63.141.192.128	a909.phobos.apple.com
 63.141.192.128	a92.phobos.apple.com
-63.141.192.128	a985.phobos.apple.com
 63.141.192.129	a1013.phobos.apple.com
 63.141.192.129	a1016.phobos.apple.com
 63.141.192.129	a1045.phobos.apple.com
@@ -4151,7 +4151,6 @@
 85.17.123.20	www22.multiupload.com
 85.17.190.226	www16.multiupload.com
 85.17.190.229	www17.multiupload.com
-85.17.27.208	www15.multiupload.com
 85.17.27.208	www24.multiupload.com
 85.17.27.208	www25.multiupload.com
 85.17.27.208	www26.multiupload.com
@@ -4184,6 +4183,7 @@
 85.17.27.208	www5.multiupload.com
 85.17.27.208	www.multiupload.com
 85.17.73.226	www20.multiupload.com
+85.17.73.227	www15.multiupload.com
 85.17.73.239	www13.multiupload.com
 89.105.213.21	premium.nl.avira-update.com
 89.105.213.21	prempeak.avira-update.com
