@@ -91,6 +91,7 @@
 173.194.26.114	o-o.preferred.sea07s15.v4.lscache4.c.youtube.com
 173.194.26.114	v24.lscache4.c.youtube.com
 173.194.26.114	v24.nonxt4.c.youtube.com
+173.194.26.114	v4.lscache4.c.youtube.com
 173.194.26.114	v4.nonxt4.c.youtube.com
 173.194.26.115	o-o.preferred.sea07s11.v9.lscache4.c.youtube.com
 173.194.26.115	o-o.preferred.sea07s15.v9.lscache4.c.youtube.com
@@ -820,15 +821,16 @@
 184.169.77.33	si4.twimg.com
 184.169.84.33	betastream.twitter.com
 184.169.84.33	oi40.tinypic.com
+184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
 184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
+184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
-184.169.84.33	oi51.tinypic.com
 184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
@@ -1242,9 +1244,11 @@
 23.2.111.144	si2.twimg.com
 23.2.111.144	si5.twimg.com
 23.2.98.110	s-static.ak.facebook.com
-23.61.248.56	a740.phobos.apple.com
+23.61.248.25	a1540.phobos.apple.com
+23.61.248.33	a658.phobos.apple.com
+23.61.248.9	a284.phobos.apple.com
 50.23.200.239	twitpic.com
-58.254.134.233	hub5pr.sandai.net
+58.254.134.238	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
 62.146.87.171	62.146.87.171
 62.146.87.174	premium.de.avira-update.com
@@ -1559,6 +1563,7 @@
 63.141.192.107	a684.phobos.apple.com
 63.141.192.107	a68.phobos.apple.com
 63.141.192.107	a712.phobos.apple.com
+63.141.192.107	a740.phobos.apple.com
 63.141.192.107	a744.phobos.apple.com
 63.141.192.107	a746.phobos.apple.com
 63.141.192.107	a770.phobos.apple.com
@@ -2335,7 +2340,6 @@
 63.141.192.129	a1485.phobos.apple.com
 63.141.192.129	a1493.phobos.apple.com
 63.141.192.129	a1508.phobos.apple.com
-63.141.192.129	a1540.phobos.apple.com
 63.141.192.129	a1555.phobos.apple.com
 63.141.192.129	a1567.phobos.apple.com
 63.141.192.129	a1613.phobos.apple.com
@@ -2737,7 +2741,6 @@
 63.141.192.89	a59.phobos.apple.com
 63.141.192.89	a610.phobos.apple.com
 63.141.192.89	a652.phobos.apple.com
-63.141.192.89	a658.phobos.apple.com
 63.141.192.89	a664.phobos.apple.com
 63.141.192.89	a676.phobos.apple.com
 63.141.192.89	a706.phobos.apple.com
@@ -3143,7 +3146,6 @@
 63.141.192.98	a227.phobos.apple.com
 63.141.192.98	a23.phobos.apple.com
 63.141.192.98	a272.phobos.apple.com
-63.141.192.98	a284.phobos.apple.com
 63.141.192.98	a319.phobos.apple.com
 63.141.192.98	a323.phobos.apple.com
 63.141.192.98	a328.phobos.apple.com
