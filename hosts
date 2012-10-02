@@ -790,7 +790,6 @@
 184.169.77.33	a3.twimg.com
 184.169.77.33	si1.twimg.com
 184.169.84.33	betastream.twitter.com
-184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
 184.169.84.33	oi43.tinypic.com
@@ -1022,7 +1021,6 @@
 208.117.242.179	tc.v9.cache6.c.youtube.com
 208.117.242.17	tc.v18.cache1.c.youtube.com
 208.117.242.180	tc.v14.cache6.c.youtube.com
-208.117.242.181	tc.v19.cache6.c.youtube.com
 208.117.242.182	tc.v5.cache6.c.youtube.com
 208.117.242.183	tc.v10.cache6.c.youtube.com
 208.117.242.184	tc.v15.cache6.c.youtube.com
@@ -1090,7 +1088,6 @@
 208.117.242.40	tc.v11.cache2.c.youtube.com
 208.117.242.41	tc.v16.cache2.c.youtube.com
 208.117.242.42	tc.v22.cache2.c.youtube.com
-208.117.242.42	tc.v2.cache2.c.youtube.com
 208.117.242.43	tc.v7.cache2.c.youtube.com
 208.117.242.44	tc.v12.cache2.c.youtube.com
 208.117.242.45	tc.v17.cache2.c.youtube.com
@@ -1631,6 +1628,7 @@
 23.61.248.24	a299.phobos.apple.com
 23.61.248.24	a308.phobos.apple.com
 23.61.248.24	a320.phobos.apple.com
+23.61.248.24	a398.phobos.apple.com
 23.61.248.24	a548.phobos.apple.com
 23.61.248.24	a554.phobos.apple.com
 23.61.248.24	a694.phobos.apple.com
@@ -3234,7 +3232,6 @@
 62.212.73.68	www19.multiupload.com
 62.212.73.70	www12.multiupload.com
 62.212.73.80	www23.multiupload.com
-64.208.159.16	photos-f.ak.fbcdn.net
 66.163.168.247	open.login.yahoo.com
 66.163.169.186	login.yahoo.com
 66.220.146.98	upload.facebook.com
@@ -3251,6 +3248,7 @@
 68.142.214.43	static.flickr.com
 69.147.90.159	farm2.static.flickr.com
 69.147.90.215	farm3.static.flickr.com
+69.147.90.215	sp1.farm3.static.flickr.com
 69.171.228.76	apps.facebook.com
 69.171.228.77	m.facebook.com
 69.171.233.18	friendfeed.com
@@ -3301,6 +3299,7 @@
 74.125.103.12	o-o.preferred.sjc07s15.v12.lscache7.c.youtube.com
 74.125.103.13	o-o.preferred.sjc07s11.v17.lscache1.c.youtube.com
 74.125.103.13	o-o.preferred.sjc07s11.v17.lscache3.c.youtube.com
+74.125.103.13	o-o.preferred.sjc07s11.v17.lscache7.c.youtube.com
 74.125.103.13	o-o.preferred.sjc07s15.v17.lscache1.c.youtube.com
 74.125.103.13	o-o.preferred.sjc07s15.v17.lscache3.c.youtube.com
 74.125.103.14	o-o.preferred.sjc07s11.v23.lscache5.c.youtube.com
@@ -3358,6 +3357,7 @@
 74.125.103.42	o-o.preferred.sjc07s15.v2.lscache8.c.youtube.com
 74.125.103.43	o-o.preferred.sjc07s15.v7.lscache6.c.youtube.com
 74.125.103.44	o-o.preferred.sjc07s11.v12.lscache4.c.youtube.com
+74.125.103.44	o-o.preferred.sjc07s11.v12.lscache6.c.youtube.com
 74.125.103.44	o-o.preferred.sjc07s11.v12.lscache8.c.youtube.com
 74.125.103.44	o-o.preferred.sjc07s15.v12.lscache4.c.youtube.com
 74.125.103.45	o-o.preferred.sjc07s15.v17.lscache6.c.youtube.com
@@ -3455,7 +3455,6 @@
 74.125.103.87	o-o.preferred.sjc07s15.v4.lscache3.c.youtube.com
 74.125.103.87	o-o.preferred.sjc07s15.v4.lscache7.c.youtube.com
 74.125.103.88	o-o.preferred.sjc07s15.v8.lscache1.c.youtube.com
-74.125.103.89	o-o.preferred.sjc07s11.v12.lscache6.c.youtube.com
 74.125.103.89	o-o.preferred.sjc07s15.v12.lscache1.c.youtube.com
 74.125.103.89	o-o.preferred.sjc07s15.v12.lscache3.c.youtube.com
 74.125.103.89	o-o.preferred.sjc07s15.v12.lscache5.c.youtube.com
@@ -3565,7 +3564,6 @@
 74.125.170.106	o-o.preferred.sjc07s11.v22.lscache7.c.youtube.com
 74.125.170.106	o-o.preferred.sjc07s15.v22.lscache7.c.youtube.com
 74.125.170.108	o-o.preferred.sjc07s11.v12.lscache7.c.youtube.com
-74.125.170.109	o-o.preferred.sjc07s11.v17.lscache7.c.youtube.com
 74.125.170.109	o-o.preferred.sjc07s15.v17.lscache7.c.youtube.com
 74.125.170.10	o-o.preferred.sjc07s11.v22.lscache1.c.youtube.com
 74.125.170.110	o-o.preferred.sjc07s11.v23.lscache7.c.youtube.com
@@ -4128,9 +4126,9 @@
 74.125.79.108	gmail-smtp.l.google.com
 76.73.40.45	soutong.com
 76.74.254.120	en.forums.wordpress.com
-77.109.171.193	a398.phobos.apple.com
 83.149.126.40	www18.multiupload.com
 85.17.121.102	www25.multiupload.com
+85.17.121.95	www31.multiupload.com
 85.17.122.103	www21.multiupload.com
 85.17.122.29	www33.multiupload.com
 85.17.122.30	www24.multiupload.com
@@ -4140,7 +4138,6 @@
 85.17.190.226	www16.multiupload.com
 85.17.190.229	www17.multiupload.com
 85.17.27.208	www2.multiupload.com
-85.17.27.208	www31.multiupload.com
 85.17.27.208	www34.multiupload.com
 85.17.27.208	www35.multiupload.com
 85.17.27.208	www36.multiupload.com
@@ -4178,6 +4175,7 @@
 92.122.50.186	photos-e.ak.fbcdn.net
 92.122.50.193	photos-c.ak.fbcdn.net
 92.122.50.193	photos-d.ak.fbcdn.net
+92.122.50.193	photos-f.ak.fbcdn.net
 92.123.247.144	platform.twitter.com
 92.123.247.144	si2.twimg.com
 92.123.247.144	si5.twimg.com
