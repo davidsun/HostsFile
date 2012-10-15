@@ -523,6 +523,7 @@
 173.194.26.239	o-o.preferred.sea07s15.v8.lscache8.c.youtube.com
 173.194.26.239	v8.lscache8.c.youtube.com
 173.194.26.239	v8.nonxt8.c.youtube.com
+173.194.26.23	o-o.preferred.sea07s11.v10.lscache1.c.youtube.com
 173.194.26.23	o-o.preferred.sea07s15.v10.lscache1.c.youtube.com
 173.194.26.23	v10.lscache1.c.youtube.com
 173.194.26.23	v10.nonxt1.c.youtube.com
@@ -575,7 +576,9 @@
 173.194.26.24	v15.lscache1.c.youtube.com
 173.194.26.24	v15.nonxt1.c.youtube.com
 173.194.26.25	o-o.preferred.sea07s11.v20.lscache1.c.youtube.com
+173.194.26.25	o-o.preferred.sea07s15.v20.lscache1.c.youtube.com
 173.194.26.25	v20.lscache1.c.youtube.com
+173.194.26.25	v20.nonxt1.c.youtube.com
 173.194.26.38	o-o.preferred.sea07s11.v1.lscache3.c.youtube.com
 173.194.26.38	o-o.preferred.sea07s11.v21.lscache3.c.youtube.com
 173.194.26.38	o-o.preferred.sea07s15.v1.lscache3.c.youtube.com
@@ -806,6 +809,7 @@
 184.169.77.33	a0.twimg.com
 184.169.77.33	a2.twimg.com
 184.169.77.33	a3.twimg.com
+184.169.77.33	si0.twimg.com
 184.169.77.33	si1.twimg.com
 184.169.84.33	betastream.twitter.com
 184.169.84.33	oi40.tinypic.com
@@ -818,19 +822,15 @@
 184.169.84.33	oi47.tinypic.com
 184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
-184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
-184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
-184.169.84.33	oi56.tinypic.com
 184.169.84.33	posterous.com
 184.169.84.33	scribe.twitter.com
-184.169.84.33	si0.twimg.com
+184.169.84.33	si3.twimg.com
 184.169.84.33	si4.twimg.com
 184.169.84.33	t.co
-184.85.79.144	si3.twimg.com
 199.47.216.171	www.dropbox.com
 199.47.216.179	dropbox.com
 199.59.148.212	help.twitter.com
@@ -1217,7 +1217,6 @@
 23.21.206.219	forums.dropbox.com
 23.32.109.227	s.yimg.com
 23.45.34.110	s-static.ak.facebook.com
-23.61.194.90	a1637.phobos.apple.com
 23.61.248.10	a1059.phobos.apple.com
 23.61.248.10	a1101.phobos.apple.com
 23.61.248.10	a1119.phobos.apple.com
@@ -1505,6 +1504,7 @@
 23.61.248.18	a1591.phobos.apple.com
 23.61.248.18	a1596.phobos.apple.com
 23.61.248.18	a1617.phobos.apple.com
+23.61.248.18	a1637.phobos.apple.com
 23.61.248.18	a1642.phobos.apple.com
 23.61.248.18	a164.phobos.apple.com
 23.61.248.18	a1663.phobos.apple.com
@@ -2174,6 +2174,7 @@
 23.61.248.40	a152.phobos.apple.com
 23.61.248.40	a1543.phobos.apple.com
 23.61.248.40	a1544.phobos.apple.com
+23.61.248.40	a1569.phobos.apple.com
 23.61.248.40	a1619.phobos.apple.com
 23.61.248.40	a1695.phobos.apple.com
 23.61.248.40	a1709.phobos.apple.com
@@ -4127,7 +4128,8 @@
 74.125.47.123	wifi.l.google.com
 76.73.40.45	soutong.com
 76.74.254.120	en.forums.wordpress.com
-77.109.171.137	a1569.phobos.apple.com
+83.149.126.40	www18.multiupload.com
+85.17.121.102	www25.multiupload.com
 85.17.121.95	www31.multiupload.com
 85.17.122.103	www21.multiupload.com
 85.17.122.29	www33.multiupload.com
@@ -4137,7 +4139,6 @@
 85.17.123.32	www30.multiupload.com
 85.17.190.226	www16.multiupload.com
 85.17.190.229	www17.multiupload.com
-85.17.27.208	www25.multiupload.com
 85.17.27.208	www2.multiupload.com
 85.17.27.208	www34.multiupload.com
 85.17.27.208	www35.multiupload.com
