@@ -185,7 +185,6 @@
 173.194.26.146	o-o.preferred.sea07s15.v24.lscache5.c.youtube.com
 173.194.26.146	o-o.preferred.sea07s15.v4.lscache5.c.youtube.com
 173.194.26.146	v24.lscache5.c.youtube.com
-173.194.26.146	v24.nonxt5.c.youtube.com
 173.194.26.146	v4.lscache5.c.youtube.com
 173.194.26.146	v4.nonxt5.c.youtube.com
 173.194.26.147	o-o.preferred.sea07s11.v9.lscache5.c.youtube.com
@@ -828,8 +827,6 @@
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
 184.169.84.33	oi56.tinypic.com
-184.169.84.33	posterous.com
-184.169.84.33	scribe.twitter.com
 184.169.84.33	t.co
 184.85.229.54	discussions.apple.com
 184.85.230.46	www.icloud.com
@@ -896,13 +893,6 @@
 203.208.47.165	r22.pek01s05.c.youtube.com
 203.208.47.166	r23.pek01s05.c.youtube.com
 203.208.47.167	r24.pek01s05.c.youtube.com
-203.208.47.16	r1.pek01s03.c.youtube.com
-203.208.47.21	r6.pek01s03.c.youtube.com
-203.208.47.23	r8.pek01s03.c.youtube.com
-203.208.47.24	r9.pek01s03.c.youtube.com
-203.208.47.27	r12.pek01s03.c.youtube.com
-203.208.47.34	r19.pek01s03.c.youtube.com
-203.208.47.35	r20.pek01s03.c.youtube.com
 203.208.47.80	r1.pek01s04.c.youtube.com
 203.208.47.81	r2.pek01s04.c.youtube.com
 203.208.47.82	r3.pek01s04.c.youtube.com
@@ -1120,8 +1110,9 @@
 208.117.242.88	tc.v15.cache3.c.youtube.com
 208.117.242.89	tc.v20.cache3.c.youtube.com
 208.117.242.9	tc.v16.cache1.c.youtube.com
-208.49.52.10	a1864.phobos.apple.com
-208.49.52.32	a706.phobos.apple.com
+208.49.52.17	a373.phobos.apple.com
+208.49.52.26	a929.phobos.apple.com
+208.49.52.34	a403.phobos.apple.com
 208.65.155.80	o-o.preferred.ams03g05.v1.lscache5.c.youtube.com
 208.80.152.133	mail.wikimedia.org
 208.80.152.149	bugs.wikimedia.org
@@ -1588,8 +1579,6 @@
 64.208.5.18	a337.phobos.apple.com
 64.208.5.18	a356.phobos.apple.com
 64.208.5.18	a372.phobos.apple.com
-64.208.5.18	a373.phobos.apple.com
-64.208.5.18	a403.phobos.apple.com
 64.208.5.18	a42.phobos.apple.com
 64.208.5.18	a43.phobos.apple.com
 64.208.5.18	a462.phobos.apple.com
@@ -2432,6 +2421,7 @@
 64.208.5.40	a1823.phobos.apple.com
 64.208.5.40	a1825.phobos.apple.com
 64.208.5.40	a1847.phobos.apple.com
+64.208.5.40	a1864.phobos.apple.com
 64.208.5.40	a1866.phobos.apple.com
 64.208.5.40	a1903.phobos.apple.com
 64.208.5.40	a1974.phobos.apple.com
@@ -3042,6 +3032,7 @@
 64.208.5.51	a678.phobos.apple.com
 64.208.5.51	a694.phobos.apple.com
 64.208.5.51	a695.phobos.apple.com
+64.208.5.51	a706.phobos.apple.com
 64.208.5.51	a724.phobos.apple.com
 64.208.5.51	a736.phobos.apple.com
 64.208.5.51	a761.phobos.apple.com
@@ -3204,7 +3195,6 @@
 64.208.5.9	a83.phobos.apple.com
 64.208.5.9	a845.phobos.apple.com
 64.208.5.9	a851.phobos.apple.com
-64.208.5.9	a929.phobos.apple.com
 64.208.5.9	a935.phobos.apple.com
 64.208.5.9	a941.phobos.apple.com
 64.208.5.9	a953.phobos.apple.com
