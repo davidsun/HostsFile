@@ -1,6 +1,6 @@
 107.23.86.49	www.foursquare.com
-108.162.197.156	wikileaks.org
 108.162.233.10	www.wikileaks.org
+108.162.233.9	wikileaks.org
 108.171.171.159	twitter.zendesk.com
 123.129.242.212	hub5idx.shub.sandai.net
 124.108.120.124	sa.edit.yahoo.com
@@ -820,6 +820,8 @@
 184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
+184.169.84.33	oi47.tinypic.com
+184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
@@ -1042,6 +1044,7 @@
 208.117.242.88	tc.v15.cache3.c.youtube.com
 208.117.242.89	tc.v20.cache3.c.youtube.com
 208.117.242.9	tc.v16.cache1.c.youtube.com
+208.49.52.56	a509.phobos.apple.com
 208.65.155.80	o-o.preferred.ams03g05.v1.lscache5.c.youtube.com
 208.80.152.133	mail.wikimedia.org
 208.80.152.149	bugs.wikimedia.org
@@ -1690,7 +1693,6 @@
 64.208.5.24	a438.phobos.apple.com
 64.208.5.24	a475.phobos.apple.com
 64.208.5.24	a502.phobos.apple.com
-64.208.5.24	a509.phobos.apple.com
 64.208.5.24	a513.phobos.apple.com
 64.208.5.24	a533.phobos.apple.com
 64.208.5.24	a545.phobos.apple.com
@@ -3179,7 +3181,6 @@
 72.21.91.19	s.stats.wordpress.com
 72.21.91.19	s.wordpress.com
 72.21.91.19	s.wordpress.org
-72.233.2.58	botd2.wordpress.com
 72.233.2.58	dashboard.wordpress.com
 72.233.2.58	en.blog.wordpress.com
 72.233.2.58	forums.wordpress.com
@@ -3188,6 +3189,7 @@
 72.233.2.58	wpcom.wordpress.com
 72.233.2.58	zh-sg.wordpress.com
 72.233.2.58	zh.wordpress.com
+72.233.69.6	botd2.wordpress.com
 74.125.103.11	o-o.preferred.sjc07s11.v7.lscache7.c.youtube.com
 74.125.103.12	o-o.preferred.sjc07s11.v12.lscache1.c.youtube.com
 74.125.103.14	o-o.preferred.sjc07s11.v3.lscache1.c.youtube.com
@@ -3698,7 +3700,6 @@
 74.125.224.149	gmail.com
 74.125.224.150	googlemail.l.google.com
 74.125.224.150	mail.google.com
-74.125.224.150	www.gmail.com
 74.125.224.152	clients1.google.com.hk
 74.125.224.152	clients1.google.com.tw
 74.125.224.153	pagead2.googlesyndication.com
@@ -4014,6 +4015,7 @@
 74.125.224.175	maps.gstatic.com
 74.125.224.175	ssl.gstatic.com
 74.125.224.175	www.gstatic.com
+74.125.224.181	www.gmail.com
 74.125.224.62	ssl.google-analytics.com
 74.125.235.142	clients-china.l.google.com
 74.125.235.64	youtube-ui-china.l.google.com
