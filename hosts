@@ -1,11 +1,10 @@
 107.23.86.49	www.foursquare.com
-108.162.233.11	www.wikileaks.org
-108.162.233.9	wikileaks.org
+108.162.197.56	wikileaks.org
+108.162.233.10	www.wikileaks.org
 108.171.171.159	twitter.zendesk.com
 123.129.242.212	hub5idx.shub.sandai.net
 124.108.120.124	sa.edit.yahoo.com
 17.254.2.129	developer.apple.com
-173.194.12.145	o-o.preferred.sea07s15.v18.lscache5.c.youtube.com
 173.194.25.10	o-o.preferred.sjc07s15.v22.lscache1.c.youtube.com
 173.194.25.10	o-o.preferred.sjc07s15.v2.lscache1.c.youtube.com
 173.194.25.12	o-o.preferred.sjc07s15.v12.lscache1.c.youtube.com
@@ -237,6 +236,7 @@
 173.194.26.144	v13.lscache5.c.youtube.com
 173.194.26.144	v13.nonxt5.c.youtube.com
 173.194.26.145	o-o.preferred.sea07s11.v18.lscache5.c.youtube.com
+173.194.26.145	o-o.preferred.sea07s15.v18.lscache5.c.youtube.com
 173.194.26.145	v18.lscache5.c.youtube.com
 173.194.26.145	v18.nonxt5.c.youtube.com
 173.194.26.146	o-o.preferred.sea07s11.v24.lscache5.c.youtube.com
@@ -878,14 +878,14 @@
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
 184.169.84.33	oi48.tinypic.com
+184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
 184.169.84.33	oi52.tinypic.com
-184.169.84.33	oi53.tinypic.com
-184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
 184.169.84.33	oi56.tinypic.com
 184.169.84.33	posterous.com
+184.169.84.33	scribe.twitter.com
 184.169.84.33	t.co
 184.28.97.55	p.twimg.com
 184.85.229.54	discussions.apple.com
@@ -1098,9 +1098,8 @@
 208.117.242.88	tc.v15.cache3.c.youtube.com
 208.117.242.89	tc.v20.cache3.c.youtube.com
 208.117.242.9	tc.v16.cache1.c.youtube.com
-208.49.52.32	a128.phobos.apple.com
-208.49.52.34	a186.phobos.apple.com
-208.49.52.57	a1101.phobos.apple.com
+208.49.52.19	a1217.phobos.apple.com
+208.49.52.32	a935.phobos.apple.com
 208.65.155.80	o-o.preferred.ams03g05.v1.lscache5.c.youtube.com
 208.80.152.133	mail.wikimedia.org
 208.80.152.149	bugs.wikimedia.org
@@ -1358,6 +1357,7 @@
 64.208.5.16	a1232.phobos.apple.com
 64.208.5.16	a1244.phobos.apple.com
 64.208.5.16	a1250.phobos.apple.com
+64.208.5.16	a128.phobos.apple.com
 64.208.5.16	a1304.phobos.apple.com
 64.208.5.16	a1322.phobos.apple.com
 64.208.5.16	a1328.phobos.apple.com
@@ -1786,7 +1786,6 @@
 64.208.5.25	a1177.phobos.apple.com
 64.208.5.25	a1185.phobos.apple.com
 64.208.5.25	a1203.phobos.apple.com
-64.208.5.25	a1217.phobos.apple.com
 64.208.5.25	a121.phobos.apple.com
 64.208.5.25	a1245.phobos.apple.com
 64.208.5.25	a1272.phobos.apple.com
@@ -1960,6 +1959,7 @@
 64.208.5.26	oscdn.apple.com
 64.208.5.27	a1057.phobos.apple.com
 64.208.5.27	a1084.phobos.apple.com
+64.208.5.27	a1101.phobos.apple.com
 64.208.5.27	a1178.phobos.apple.com
 64.208.5.27	a1219.phobos.apple.com
 64.208.5.27	a1220.phobos.apple.com
@@ -2660,6 +2660,7 @@
 64.208.5.43	a1845.phobos.apple.com
 64.208.5.43	a1852.phobos.apple.com
 64.208.5.43	a1854.phobos.apple.com
+64.208.5.43	a186.phobos.apple.com
 64.208.5.43	a188.phobos.apple.com
 64.208.5.43	a189.phobos.apple.com
 64.208.5.43	a1946.phobos.apple.com
@@ -3185,7 +3186,6 @@
 64.208.5.9	a845.phobos.apple.com
 64.208.5.9	a851.phobos.apple.com
 64.208.5.9	a929.phobos.apple.com
-64.208.5.9	a935.phobos.apple.com
 64.208.5.9	a941.phobos.apple.com
 64.208.5.9	a953.phobos.apple.com
 64.208.5.9	deimos3.apple.com
