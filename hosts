@@ -1,5 +1,5 @@
 107.23.86.49	www.foursquare.com
-108.162.233.11	wikileaks.org
+108.162.197.56	wikileaks.org
 108.162.233.11	www.wikileaks.org
 108.171.171.159	twitter.zendesk.com
 123.129.242.212	hub5idx.shub.sandai.net
@@ -477,6 +477,7 @@
 173.194.26.210	v4.nonxt7.c.youtube.com
 173.194.26.211	o-o.preferred.sea07s11.v9.lscache7.c.youtube.com
 173.194.26.211	o-o.preferred.sea07s15.v9.lscache7.c.youtube.com
+173.194.26.211	v9.lscache7.c.youtube.com
 173.194.26.211	v9.nonxt7.c.youtube.com
 173.194.26.212	o-o.preferred.sea07s11.v14.lscache7.c.youtube.com
 173.194.26.212	o-o.preferred.sea07s15.v14.lscache7.c.youtube.com
@@ -799,6 +800,7 @@
 173.194.26.83	v9.lscache2.c.youtube.com
 173.194.26.83	v9.nonxt2.c.youtube.com
 173.194.26.84	o-o.preferred.sea07s11.v14.lscache2.c.youtube.com
+173.194.26.84	o-o.preferred.sea07s15.v14.lscache2.c.youtube.com
 173.194.26.84	v14.lscache2.c.youtube.com
 173.194.26.84	v14.nonxt2.c.youtube.com
 173.194.26.85	o-o.preferred.sea07s11.v19.lscache2.c.youtube.com
@@ -819,6 +821,7 @@
 173.194.26.88	v15.nonxt2.c.youtube.com
 173.194.26.89	o-o.preferred.sea07s11.v20.lscache2.c.youtube.com
 173.194.26.89	o-o.preferred.sea07s15.v20.lscache2.c.youtube.com
+173.194.26.89	v20.lscache2.c.youtube.com
 173.194.26.89	v20.nonxt2.c.youtube.com
 173.194.26.8	o-o.preferred.sea07s11.v11.lscache1.c.youtube.com
 173.194.26.8	o-o.preferred.sea07s15.v11.lscache1.c.youtube.com
@@ -861,6 +864,7 @@
 173.236.207.127	mysql.imfido.com
 173.252.101.17	upload.facebook.com
 184.169.77.33	a0.twimg.com
+184.169.77.33	si0.twimg.com
 184.169.77.33	si1.twimg.com
 184.169.77.33	si2.twimg.com
 184.169.77.33	si4.twimg.com
@@ -870,7 +874,6 @@
 184.169.84.33	oi42.tinypic.com
 184.169.84.33	oi43.tinypic.com
 184.169.84.33	oi44.tinypic.com
-184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
 184.169.84.33	oi48.tinypic.com
@@ -883,6 +886,7 @@
 184.169.84.33	oi55.tinypic.com
 184.169.84.33	oi56.tinypic.com
 184.169.84.33	posterous.com
+184.169.84.33	scribe.twitter.com
 184.169.84.33	t.co
 184.28.97.55	p.twimg.com
 184.85.229.54	discussions.apple.com
@@ -908,7 +912,6 @@
 208.117.239.150	tc.v5.cache5.c.youtube.com
 208.117.239.151	tc.v10.cache5.c.youtube.com
 208.117.239.169	tc.v16.cache8.c.youtube.com
-208.117.239.171	tc.v7.cache6.c.youtube.com
 208.117.239.176	tc.v13.cache1.c.youtube.com
 208.117.239.182	tc.v5.cache6.c.youtube.com
 208.117.239.200	tc.v11.cache3.c.youtube.com
@@ -980,6 +983,7 @@
 208.117.242.169	tc.v16.cache6.c.youtube.com
 208.117.242.170	tc.v22.cache6.c.youtube.com
 208.117.242.170	tc.v2.cache6.c.youtube.com
+208.117.242.171	tc.v7.cache6.c.youtube.com
 208.117.242.172	tc.v12.cache6.c.youtube.com
 208.117.242.173	tc.v17.cache6.c.youtube.com
 208.117.242.174	tc.v23.cache6.c.youtube.com
@@ -1095,9 +1099,6 @@
 208.117.242.88	tc.v15.cache3.c.youtube.com
 208.117.242.89	tc.v20.cache3.c.youtube.com
 208.117.242.9	tc.v16.cache1.c.youtube.com
-208.49.52.32	a409.phobos.apple.com
-208.49.52.40	a842.phobos.apple.com
-208.49.52.8	a1592.phobos.apple.com
 208.65.155.80	o-o.preferred.ams03g05.v1.lscache5.c.youtube.com
 208.80.152.133	mail.wikimedia.org
 208.80.152.149	bugs.wikimedia.org
@@ -1316,6 +1317,7 @@
 64.208.5.11	a331.phobos.apple.com
 64.208.5.11	a367.phobos.apple.com
 64.208.5.11	a391.phobos.apple.com
+64.208.5.11	a409.phobos.apple.com
 64.208.5.11	a427.phobos.apple.com
 64.208.5.11	a445.phobos.apple.com
 64.208.5.11	a457.phobos.apple.com
@@ -1665,6 +1667,7 @@
 64.208.5.19	a823.phobos.apple.com
 64.208.5.19	a838.phobos.apple.com
 64.208.5.19	a840.phobos.apple.com
+64.208.5.19	a842.phobos.apple.com
 64.208.5.19	a850.phobos.apple.com
 64.208.5.19	a857.phobos.apple.com
 64.208.5.19	a868.phobos.apple.com
@@ -2313,6 +2316,7 @@
 64.208.5.35	a1487.phobos.apple.com
 64.208.5.35	a1497.phobos.apple.com
 64.208.5.35	a152.phobos.apple.com
+64.208.5.35	a1592.phobos.apple.com
 64.208.5.35	a1607.phobos.apple.com
 64.208.5.35	a1642.phobos.apple.com
 64.208.5.35	a1667.phobos.apple.com
@@ -3207,7 +3211,6 @@
 69.171.228.72	apps.facebook.com
 69.171.228.72	login.facebook.com
 69.171.228.72	pixel.facebook.com
-69.171.228.73	m.facebook.com
 69.171.231.10	secure.facebook.com
 69.171.233.18	friendfeed.com
 69.171.233.18	www.friendfeed.com
@@ -3215,6 +3218,7 @@
 69.171.234.21	fbcdn.net
 69.171.234.21	www.facebook.com
 69.171.237.20	touch.facebook.com
+69.171.237.35	m.facebook.com
 69.171.237.36	ssl.facebook.com
 69.171.237.36	zh-CN.facebook.com
 72.14.203.87	orkut.l.google.com
@@ -3671,7 +3675,6 @@
 74.125.224.144	tbn3.google.com
 74.125.224.145	t0.gstatic.com
 74.125.224.145	tbn2.google.com
-74.125.224.146	base2.googlehosted.com
 74.125.224.146	buttons.googlesyndication.com
 74.125.224.146	help.youtube.com
 74.125.224.146	photos1.blogger.com
@@ -3686,6 +3689,7 @@
 74.125.224.147	www.l.google.com
 74.125.224.148	base0.googlehosted.com
 74.125.224.148	base1.googlehosted.com
+74.125.224.148	base2.googlehosted.com
 74.125.224.148	base3.googlehosted.com
 74.125.224.148	blogsearch.google.com
 74.125.224.148	blogsearch.google.com.hk
@@ -3704,6 +3708,7 @@
 74.125.224.154	domains.googlesyndication.com
 74.125.224.154	pagead2.googleadservices.com
 74.125.224.154	www.googleadservices.com
+74.125.224.160	apis.google.com
 74.125.224.160	cache.pack.google.com
 74.125.224.160	khms1.google.com
 74.125.224.160	khms3.google.com
@@ -3851,7 +3856,6 @@
 74.125.224.165	ytimg.l.google.com
 74.125.224.166	kh.google.com
 74.125.224.166	kh.l.google.com
-74.125.224.167	apis.google.com
 74.125.224.167	cbk2.google.com
 74.125.224.167	cbks2.google.com
 74.125.224.167	encrypted-tbn0.google.com
@@ -4026,6 +4030,7 @@
 76.73.40.45	soutong.com
 76.74.254.123	en.forums.wordpress.com
 83.149.126.40	www18.multiupload.com
+85.17.121.102	www25.multiupload.com
 85.17.121.95	www31.multiupload.com
 85.17.122.103	www21.multiupload.com
 85.17.122.29	www33.multiupload.com
@@ -4035,7 +4040,6 @@
 85.17.123.32	www30.multiupload.com
 85.17.190.226	www16.multiupload.com
 85.17.190.229	www17.multiupload.com
-85.17.27.208	www25.multiupload.com
 85.17.27.208	www2.multiupload.com
 85.17.27.208	www34.multiupload.com
 85.17.27.208	www35.multiupload.com
@@ -4062,11 +4066,10 @@
 85.17.73.227	www15.multiupload.com
 85.17.73.239	www13.multiupload.com
 85.17.84.98	www28.multiupload.com
+89.105.213.21	prempeak.avira-update.com
 89.105.213.22	premium.avira-update.net
 89.105.213.22	premium.de.avira-update.com
 89.105.213.22	premium.nl.avira-update.com
-89.105.213.22	prempeak.avira-update.com
-93.184.216.139	si0.twimg.com
 95.211.138.142	www11.multiupload.com
 95.211.99.102	www14.multiupload.com
 95.211.99.1	www9.multiupload.com
