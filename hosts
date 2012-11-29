@@ -1,6 +1,6 @@
 107.23.86.49	www.foursquare.com
-108.162.233.11	wikileaks.org
-108.162.233.9	www.wikileaks.org
+108.162.233.10	wikileaks.org
+108.162.233.13	www.wikileaks.org
 108.171.171.159	twitter.zendesk.com
 123.129.242.212	hub5idx.shub.sandai.net
 124.108.120.124	sa.edit.yahoo.com
@@ -847,7 +847,6 @@
 173.194.8.109	static.cache.l.google.com
 173.223.52.168	a3.twimg.com
 173.223.52.171	us.js2.yimg.com
-173.223.52.176	b.static.ak.facebook.com
 173.223.52.176	b.static.ak.fbcdn.net
 173.223.52.176	static.ak.facebook.com
 173.223.52.176	static.ak.fbcdn.net
@@ -877,7 +876,6 @@
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
-184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
@@ -1100,7 +1098,8 @@
 208.117.242.88	tc.v15.cache3.c.youtube.com
 208.117.242.89	tc.v20.cache3.c.youtube.com
 208.117.242.9	tc.v16.cache1.c.youtube.com
-208.49.52.50	a1615.phobos.apple.com
+208.49.52.25	a1525.phobos.apple.com
+208.49.52.50	a1330.phobos.apple.com
 208.65.155.80	o-o.preferred.ams03g05.v1.lscache5.c.youtube.com
 208.80.152.133	mail.wikimedia.org
 208.80.152.149	bugs.wikimedia.org
@@ -1178,6 +1177,7 @@
 62.212.73.68	www19.multiupload.com
 62.212.73.70	www12.multiupload.com
 62.212.73.80	www23.multiupload.com
+64.208.159.51	b.static.ak.facebook.com
 64.208.5.10	a103.phobos.apple.com
 64.208.5.10	a1041.phobos.apple.com
 64.208.5.10	a1086.phobos.apple.com
@@ -1975,7 +1975,6 @@
 64.208.5.27	a1285.phobos.apple.com
 64.208.5.27	a1296.phobos.apple.com
 64.208.5.27	a1299.phobos.apple.com
-64.208.5.27	a1330.phobos.apple.com
 64.208.5.27	a1356.phobos.apple.com
 64.208.5.27	a1394.phobos.apple.com
 64.208.5.27	a1454.phobos.apple.com
@@ -2065,11 +2064,11 @@
 64.208.5.32	a1469.phobos.apple.com
 64.208.5.32	a1502.phobos.apple.com
 64.208.5.32	a150.phobos.apple.com
-64.208.5.32	a1525.phobos.apple.com
 64.208.5.32	a1537.phobos.apple.com
 64.208.5.32	a1547.phobos.apple.com
 64.208.5.32	a1584.phobos.apple.com
 64.208.5.32	a1595.phobos.apple.com
+64.208.5.32	a1615.phobos.apple.com
 64.208.5.32	a1625.phobos.apple.com
 64.208.5.32	a1657.phobos.apple.com
 64.208.5.32	a1675.phobos.apple.com
