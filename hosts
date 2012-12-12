@@ -79,6 +79,7 @@
 173.194.12.147	v9.nonxt5.c.youtube.com
 173.194.12.148	o-o.preferred.sea07s11.v14.lscache5.c.youtube.com
 173.194.12.148	o-o.preferred.sea07s15.v14.lscache5.c.youtube.com
+173.194.12.148	v14.lscache5.c.youtube.com
 173.194.12.148	v14.nonxt5.c.youtube.com
 173.194.12.149	o-o.preferred.sea07s11.v19.lscache5.c.youtube.com
 173.194.12.149	o-o.preferred.sea07s15.v19.lscache5.c.youtube.com
@@ -210,6 +211,7 @@
 173.194.26.103	v6.nonxt4.c.youtube.com
 173.194.26.104	o-o.preferred.sea07s11.v11.lscache4.c.youtube.com
 173.194.26.104	o-o.preferred.sea07s15.v11.lscache4.c.youtube.com
+173.194.26.104	v11.lscache4.c.youtube.com
 173.194.26.104	v11.nonxt4.c.youtube.com
 173.194.26.105	o-o.preferred.sea07s11.v16.lscache4.c.youtube.com
 173.194.26.105	o-o.preferred.sea07s15.v16.lscache4.c.youtube.com
@@ -458,6 +460,7 @@
 173.194.26.242	v4.nonxt8.c.youtube.com
 173.194.26.243	o-o.preferred.sea07s11.v9.lscache8.c.youtube.com
 173.194.26.243	o-o.preferred.sea07s15.v9.lscache8.c.youtube.com
+173.194.26.243	v9.lscache8.c.youtube.com
 173.194.26.243	v9.nonxt8.c.youtube.com
 173.194.26.244	o-o.preferred.sea07s11.v14.lscache8.c.youtube.com
 173.194.26.244	o-o.preferred.sea07s15.v14.lscache8.c.youtube.com
@@ -523,6 +526,7 @@
 173.194.26.77	o-o.preferred.sea07s15.v17.lscache2.c.youtube.com
 173.194.26.77	v17.lscache2.c.youtube.com
 173.194.26.77	v17.nonxt2.c.youtube.com
+173.194.26.78	o-o.preferred.sea07s11.v23.lscache2.c.youtube.com
 173.194.26.78	o-o.preferred.sea07s11.v3.lscache2.c.youtube.com
 173.194.26.78	o-o.preferred.sea07s15.v23.lscache2.c.youtube.com
 173.194.26.78	o-o.preferred.sea07s15.v3.lscache2.c.youtube.com
@@ -530,6 +534,7 @@
 173.194.26.78	v23.nonxt2.c.youtube.com
 173.194.26.78	v3.lscache2.c.youtube.com
 173.194.26.78	v3.nonxt2.c.youtube.com
+173.194.26.79	o-o.preferred.sea07s11.v8.lscache2.c.youtube.com
 173.194.26.79	o-o.preferred.sea07s15.v8.lscache2.c.youtube.com
 173.194.26.79	v8.lscache2.c.youtube.com
 173.194.26.79	v8.nonxt2.c.youtube.com
@@ -561,6 +566,7 @@
 173.194.26.85	o-o.preferred.sea07s15.v19.lscache2.c.youtube.com
 173.194.26.85	v19.lscache2.c.youtube.com
 173.194.26.85	v19.nonxt2.c.youtube.com
+173.194.26.86	o-o.preferred.sea07s11.v5.lscache2.c.youtube.com
 173.194.26.86	o-o.preferred.sea07s15.v5.lscache2.c.youtube.com
 173.194.26.86	v5.lscache2.c.youtube.com
 173.194.26.86	v5.nonxt2.c.youtube.com
@@ -582,7 +588,6 @@
 173.194.79.176	vp.video.google.com
 173.194.79.176	vp.video.l.google.com
 173.194.79.188	mtalk.google.com
-173.194.79.95	maps.googleapis.com
 173.194.8.10	o-o.preferred.sea07s11.v22.lscache3.c.youtube.com
 173.194.8.10	o-o.preferred.sea07s11.v2.lscache3.c.youtube.com
 173.194.8.10	o-o.preferred.sea07s15.v22.lscache3.c.youtube.com
@@ -648,7 +653,9 @@
 173.194.8.142	o-o.preferred.sea07s15.v23.lscache6.c.youtube.com
 173.194.8.142	o-o.preferred.sea07s15.v3.lscache6.c.youtube.com
 173.194.8.142	v23.lscache6.c.youtube.com
+173.194.8.142	v23.nonxt6.c.youtube.com
 173.194.8.142	v3.lscache6.c.youtube.com
+173.194.8.142	v3.nonxt6.c.youtube.com
 173.194.8.143	o-o.preferred.sea07s11.v8.lscache6.c.youtube.com
 173.194.8.143	o-o.preferred.sea07s15.v8.lscache6.c.youtube.com
 173.194.8.143	v8.lscache6.c.youtube.com
@@ -688,6 +695,7 @@
 173.194.8.14	v23.lscache3.c.youtube.com
 173.194.8.14	v23.nonxt3.c.youtube.com
 173.194.8.14	v3.lscache3.c.youtube.com
+173.194.8.14	v3.nonxt3.c.youtube.com
 173.194.8.150	o-o.preferred.sea07s11.v5.lscache6.c.youtube.com
 173.194.8.150	o-o.preferred.sea07s15.v5.lscache6.c.youtube.com
 173.194.8.150	v5.lscache6.c.youtube.com
@@ -1255,6 +1263,7 @@
 173.223.52.177	a1528.phobos.apple.com
 173.223.52.177	a153.phobos.apple.com
 173.223.52.177	a15.phobos.apple.com
+173.223.52.177	a160.phobos.apple.com
 173.223.52.177	a1626.phobos.apple.com
 173.223.52.177	a1670.phobos.apple.com
 173.223.52.177	a1731.phobos.apple.com
@@ -1618,6 +1627,7 @@
 173.223.52.186	a1465.phobos.apple.com
 173.223.52.186	a1477.phobos.apple.com
 173.223.52.186	a1483.phobos.apple.com
+173.223.52.186	a1503.phobos.apple.com
 173.223.52.186	a1505.phobos.apple.com
 173.223.52.186	a1541.phobos.apple.com
 173.223.52.186	a1578.phobos.apple.com
@@ -1812,7 +1822,6 @@
 173.223.52.193	a1519.phobos.apple.com
 173.223.52.193	a1556.phobos.apple.com
 173.223.52.193	a158.phobos.apple.com
-173.223.52.193	a160.phobos.apple.com
 173.223.52.193	a1627.phobos.apple.com
 173.223.52.193	a1633.phobos.apple.com
 173.223.52.193	a1647.phobos.apple.com
@@ -2180,7 +2189,6 @@
 173.223.52.202	a299.phobos.apple.com
 173.223.52.202	a307.phobos.apple.com
 173.223.52.202	a341.phobos.apple.com
-173.223.52.202	a415.phobos.apple.com
 173.223.52.202	a453.phobos.apple.com
 173.223.52.202	a454.phobos.apple.com
 173.223.52.202	a455.phobos.apple.com
@@ -2786,7 +2794,6 @@
 184.169.77.33	a3.twimg.com
 184.169.77.33	si2.twimg.com
 184.169.77.33	si4.twimg.com
-184.169.84.33	betastream.twitter.com
 184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
@@ -2796,7 +2803,6 @@
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
 184.169.84.33	oi48.tinypic.com
-184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
 184.169.84.33	oi52.tinypic.com
@@ -2804,7 +2810,7 @@
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
 184.169.84.33	oi56.tinypic.com
-184.169.84.33	scribe.twitter.com
+184.169.84.33	posterous.com
 184.169.84.33	t.co
 184.24.47.144	platform.twitter.com
 184.24.47.144	si1.twimg.com
@@ -2825,7 +2831,6 @@
 205.251.203.195	s.twimg.com
 205.251.203.246	i.media-imdb.com
 208.117.239.102	tc.v21.cache4.c.youtube.com
-208.117.239.103	tc.v6.cache4.c.youtube.com
 208.117.239.105	tc.v16.cache4.c.youtube.com
 208.117.239.106	tc.v2.cache4.c.youtube.com
 208.117.239.110	tc.v3.cache4.c.youtube.com
@@ -2833,7 +2838,6 @@
 208.117.239.134	tc.v21.cache5.c.youtube.com
 208.117.239.141	tc.v17.cache5.c.youtube.com
 208.117.239.146	tc.v4.cache5.c.youtube.com
-208.117.239.148	tc.v14.cache5.c.youtube.com
 208.117.239.151	tc.v10.cache5.c.youtube.com
 208.117.239.15	tc.v8.cache1.c.youtube.com
 208.117.239.166	tc.v1.cache6.c.youtube.com
@@ -2843,12 +2847,10 @@
 208.117.239.170	tc.v22.cache6.c.youtube.com
 208.117.239.172	tc.v12.cache6.c.youtube.com
 208.117.239.175	tc.v8.cache6.c.youtube.com
-208.117.239.176	tc.v13.cache6.c.youtube.com
 208.117.239.178	tc.v24.cache6.c.youtube.com
 208.117.239.179	tc.v9.cache6.c.youtube.com
 208.117.239.184	tc.v15.cache6.c.youtube.com
 208.117.239.185	tc.v20.cache6.c.youtube.com
-208.117.239.198	tc.v1.cache7.c.youtube.com
 208.117.239.202	tc.v2.cache7.c.youtube.com
 208.117.239.207	tc.v8.cache7.c.youtube.com
 208.117.239.211	tc.v9.cache7.c.youtube.com
@@ -2864,16 +2866,15 @@
 208.117.239.249	tc.v20.cache8.c.youtube.com
 208.117.239.43	tc.v7.cache2.c.youtube.com
 208.117.239.48	tc.v13.cache2.c.youtube.com
-208.117.239.50	tc.v4.cache2.c.youtube.com
 208.117.239.53	tc.v19.cache2.c.youtube.com
 208.117.239.54	tc.v5.cache2.c.youtube.com
 208.117.239.72	tc.v11.cache3.c.youtube.com
 208.117.239.73	tc.v16.cache3.c.youtube.com
 208.117.239.74	tc.v2.cache3.c.youtube.com
 208.117.239.84	tc.v14.cache3.c.youtube.com
-208.117.239.88	tc.v15.cache3.c.youtube.com
 208.117.239.9	tc.v16.cache1.c.youtube.com
 208.117.242.102	tc.v1.cache4.c.youtube.com
+208.117.242.103	tc.v6.cache4.c.youtube.com
 208.117.242.104	tc.v11.cache4.c.youtube.com
 208.117.242.106	tc.v22.cache4.c.youtube.com
 208.117.242.107	tc.v7.cache4.c.youtube.com
@@ -2883,6 +2884,7 @@
 208.117.242.112	tc.v13.cache4.c.youtube.com
 208.117.242.113	tc.v18.cache4.c.youtube.com
 208.117.242.114	tc.v24.cache4.c.youtube.com
+208.117.242.115	tc.v9.cache4.c.youtube.com
 208.117.242.116	tc.v14.cache4.c.youtube.com
 208.117.242.118	tc.v5.cache4.c.youtube.com
 208.117.242.119	tc.v10.cache4.c.youtube.com
@@ -2899,6 +2901,7 @@
 208.117.242.145	tc.v18.cache5.c.youtube.com
 208.117.242.146	tc.v24.cache5.c.youtube.com
 208.117.242.147	tc.v9.cache5.c.youtube.com
+208.117.242.148	tc.v14.cache5.c.youtube.com
 208.117.242.149	tc.v19.cache5.c.youtube.com
 208.117.242.150	tc.v5.cache5.c.youtube.com
 208.117.242.152	tc.v15.cache5.c.youtube.com
@@ -2907,12 +2910,14 @@
 208.117.242.170	tc.v2.cache6.c.youtube.com
 208.117.242.174	tc.v23.cache6.c.youtube.com
 208.117.242.174	tc.v3.cache6.c.youtube.com
+208.117.242.176	tc.v13.cache6.c.youtube.com
 208.117.242.177	tc.v18.cache6.c.youtube.com
 208.117.242.178	tc.v4.cache6.c.youtube.com
 208.117.242.17	tc.v18.cache1.c.youtube.com
 208.117.242.182	tc.v5.cache6.c.youtube.com
 208.117.242.183	tc.v10.cache6.c.youtube.com
 208.117.242.18	tc.v24.cache1.c.youtube.com
+208.117.242.198	tc.v1.cache7.c.youtube.com
 208.117.242.198	tc.v21.cache7.c.youtube.com
 208.117.242.199	tc.v6.cache7.c.youtube.com
 208.117.242.200	tc.v11.cache7.c.youtube.com
@@ -2969,6 +2974,7 @@
 208.117.242.85	tc.v19.cache3.c.youtube.com
 208.117.242.86	tc.v5.cache3.c.youtube.com
 208.117.242.87	tc.v10.cache3.c.youtube.com
+208.117.242.88	tc.v15.cache3.c.youtube.com
 208.117.242.89	tc.v20.cache3.c.youtube.com
 208.117.250.38	o-o.preferred.ams03g05.v1.lscache5.c.youtube.com
 208.117.252.105	tc.v16.cache5.c.youtube.com
@@ -2986,8 +2992,8 @@
 208.117.252.167	tc.v6.cache5.c.youtube.com
 208.117.252.170	tc.v22.cache3.c.youtube.com
 208.117.252.171	tc.v7.cache1.c.youtube.com
+208.117.252.18	tc.v4.cache2.c.youtube.com
 208.117.252.19	tc.v9.cache1.c.youtube.com
-208.117.252.19	tc.v9.cache4.c.youtube.com
 208.117.252.202	tc.v22.cache1.c.youtube.com
 208.117.252.205	tc.v17.cache6.c.youtube.com
 208.117.252.207	tc.v8.cache2.c.youtube.com
@@ -3044,7 +3050,6 @@
 208.80.154.225	www.wikipedia.org
 208.80.154.225	zh.wikipedia
 208.80.154.225	zh.wikipedia.org
-208.80.154.226	en.wiktionary.org
 208.80.154.226	www.wiktionary.org
 208.80.154.226	zh.wiktionary.org
 208.80.154.227	en.wikiquote.org
@@ -3079,7 +3084,7 @@
 23.11.162.110	s-static.ak.facebook.com
 23.21.206.219	forums.dropbox.com
 23.39.192.107	s.yimg.com
-23.61.248.10	a1503.phobos.apple.com
+23.61.248.8	a415.phobos.apple.com
 50.23.200.238	twitpic.com
 58.254.134.205	hub5pr.sandai.net
 59.151.39.126	img.blshe.com
@@ -3137,9 +3142,9 @@
 69.171.229.17	graph.facebook.com
 69.171.233.18	friendfeed.com
 69.171.233.18	www.friendfeed.com
-69.171.234.21	www.facebook.com
 69.171.234.23	apps.facebook.com
 69.171.234.23	pixel.facebook.com
+69.171.234.23	www.facebook.com
 69.171.234.39	touch.facebook.com
 69.171.237.19	m.facebook.com
 69.171.237.33	upload.facebook.com
@@ -3161,7 +3166,6 @@
 72.233.69.6	zh.wordpress.com
 74.125.103.10	o-o.preferred.sjc07s11.v22.lscache1.c.youtube.com
 74.125.103.10	o-o.preferred.sjc07s11.v22.lscache3.c.youtube.com
-74.125.103.11	o-o.preferred.sea07s15.v7.lscache1.c.youtube.com
 74.125.103.11	o-o.preferred.sjc07s11.v7.lscache5.c.youtube.com
 74.125.103.12	o-o.preferred.sjc07s11.v12.lscache5.c.youtube.com
 74.125.103.13	o-o.preferred.sjc07s11.v17.lscache1.c.youtube.com
@@ -3187,7 +3191,6 @@
 74.125.103.46	o-o.preferred.sjc07s11.v23.lscache6.c.youtube.com
 74.125.103.46	o-o.preferred.sjc07s15.v23.lscache8.c.youtube.com
 74.125.103.46	o-o.preferred.sjc07s15.v3.lscache2.c.youtube.com
-74.125.103.46	v3.nonxt6.c.youtube.com
 74.125.103.47	o-o.preferred.sjc07s11.v8.lscache2.c.youtube.com
 74.125.103.47	o-o.preferred.sjc07s15.v8.lscache4.c.youtube.com
 74.125.103.48	o-o.preferred.sjc07s15.v13.lscache2.c.youtube.com
@@ -3214,7 +3217,6 @@
 74.125.129.121	chrome.angrybirds.com
 74.125.129.121	ghs46.google.com
 74.125.129.121	ghs46.l.google.com
-74.125.129.160	0.gvt0.cn
 74.125.129.160	ditu.google.cn
 74.125.129.160	maps.google.cn
 74.125.129.160	mt0.google.cn
@@ -3222,7 +3224,6 @@
 74.125.129.160	mt2.google.cn
 74.125.129.160	mt.google.cn
 74.125.129.190	dl-ssl.google.com
-74.125.129.191	blogger.l.google.com
 74.125.129.81	sandbox.google.com
 74.125.129.82	autoproxy-gfwlist.googlecode.com
 74.125.129.82	chromium.googlecode.com
@@ -3231,7 +3232,6 @@
 74.125.129.82	gmaps-samples-flash.googlecode.com
 74.125.129.82	google-code-feed-gadget.googlecode.com
 74.125.129.82	googlecode.l.google.com
-74.125.129.95	translate.googleapis.com
 74.125.134.86	orkut.l.google.com
 74.125.137.109	gmail-smtp.l.google.com
 74.125.140.125	talkx.l.google.com
@@ -3264,6 +3264,7 @@
 74.125.141.141	wcproxyx.appspot.com
 74.125.141.141	www.appspot.com
 74.125.141.141	www.googlelabs.com
+74.125.141.160	0.gvt0.cn
 74.125.141.160	1.gvt0.cn
 74.125.141.160	2.gvt0.cn
 74.125.141.160	3.gvt0.cn
@@ -3284,6 +3285,7 @@
 74.125.141.191	beta.blogger.com
 74.125.141.191	blogger.com
 74.125.141.191	blogger.google.com
+74.125.141.191	blogger.l.google.com
 74.125.141.191	buttons.blogger.com
 74.125.141.191	img1.blogblog.com
 74.125.141.191	img2.blogblog.com
@@ -3298,6 +3300,8 @@
 74.125.141.95	chart.googleapis.com
 74.125.141.95	fonts.googleapis.com
 74.125.141.95	googleapis.l.google.com
+74.125.141.95	maps.googleapis.com
+74.125.141.95	translate.googleapis.com
 74.125.141.95	www.googleapis.com
 74.125.166.10	o-o.preferred.sea07s11.v22.lscache1.c.youtube.com
 74.125.166.10	o-o.preferred.sea07s11.v2.lscache1.c.youtube.com
@@ -3308,6 +3312,7 @@
 74.125.166.10	v2.lscache1.c.youtube.com
 74.125.166.10	v2.nonxt1.c.youtube.com
 74.125.166.11	o-o.preferred.sea07s11.v7.lscache1.c.youtube.com
+74.125.166.11	o-o.preferred.sea07s15.v7.lscache1.c.youtube.com
 74.125.166.11	v7.lscache1.c.youtube.com
 74.125.166.11	v7.nonxt1.c.youtube.com
 74.125.166.12	o-o.preferred.sea07s11.v12.lscache1.c.youtube.com
@@ -3475,7 +3480,6 @@
 74.125.170.174	o-o.preferred.sjc07s11.v3.lscache6.c.youtube.com
 74.125.170.174	o-o.preferred.sjc07s15.v23.lscache6.c.youtube.com
 74.125.170.174	o-o.preferred.sjc07s15.v3.lscache6.c.youtube.com
-74.125.170.174	v23.nonxt6.c.youtube.com
 74.125.170.175	o-o.preferred.sjc07s11.v8.lscache6.c.youtube.com
 74.125.170.175	o-o.preferred.sjc07s15.v8.lscache6.c.youtube.com
 74.125.170.176	o-o.preferred.sjc07s11.v13.lscache6.c.youtube.com
@@ -3603,7 +3607,6 @@
 74.125.170.44	o-o.preferred.sjc07s11.v12.lscache3.c.youtube.com
 74.125.170.45	o-o.preferred.sjc07s11.v17.lscache3.c.youtube.com
 74.125.170.46	o-o.preferred.sjc07s11.v3.lscache3.c.youtube.com
-74.125.170.46	v3.nonxt3.c.youtube.com
 74.125.170.47	o-o.preferred.sjc07s11.v8.lscache3.c.youtube.com
 74.125.170.48	o-o.preferred.sjc07s11.v13.lscache3.c.youtube.com
 74.125.170.49	o-o.preferred.sjc07s11.v18.lscache3.c.youtube.com
@@ -3634,7 +3637,6 @@
 74.125.170.82	o-o.preferred.sjc07s11.v4.lscache5.c.youtube.com
 74.125.170.83	o-o.preferred.sjc07s11.v9.lscache5.c.youtube.com
 74.125.170.84	o-o.preferred.sjc07s11.v14.lscache5.c.youtube.com
-74.125.170.84	v14.lscache5.c.youtube.com
 74.125.170.85	o-o.preferred.sjc07s11.v19.lscache5.c.youtube.com
 74.125.170.86	o-o.preferred.sjc07s11.v5.lscache5.c.youtube.com
 74.125.170.88	o-o.preferred.sjc07s11.v15.lscache5.c.youtube.com
@@ -3659,7 +3661,6 @@
 74.125.224.161	bks5.books.google.com
 74.125.224.161	bks7.books.google.com
 74.125.224.161	books.google.com
-74.125.224.161	cbk1.google.com
 74.125.224.161	cbks0.google.com
 74.125.224.161	clients5.google.com
 74.125.224.161	developer.android.com
@@ -3704,6 +3705,7 @@
 74.125.224.162	market.android.com
 74.125.224.162	mts2.google.com
 74.125.224.162	photos.google.com
+74.125.224.162	picasaweb.google.com.hk
 74.125.224.162	picasaweb.l.google.com
 74.125.224.162	youtu.be
 74.125.224.162	youtube.com
@@ -3717,6 +3719,7 @@
 74.125.224.163	bks9.books.google.com
 74.125.224.163	browsersync.google.com
 74.125.224.163	browsersync.l.google.com
+74.125.224.163	cbk1.google.com
 74.125.224.163	cbks1.google.com
 74.125.224.163	chrome.google.com
 74.125.224.163	docs.google.com
@@ -3746,7 +3749,6 @@
 74.125.224.164	code.google.com
 74.125.224.164	code.l.google.com
 74.125.224.164	ditu.google.com
-74.125.224.164	encrypted-tbn0.google.com
 74.125.224.164	local.google.com
 74.125.224.164	map.google.com
 74.125.224.164	maps-api-ssl.google.com
@@ -3754,7 +3756,6 @@
 74.125.224.164	mw1.google.com
 74.125.224.164	mw-small.l.google.com
 74.125.224.164	picasaweb.google.com
-74.125.224.164	s2.youtube.com
 74.125.224.164	spreadsheet.google.com
 74.125.224.164	spreadsheets0.google.com
 74.125.224.164	spreadsheets1.google.com
@@ -3781,6 +3782,7 @@
 74.125.224.165	mt.l.google.com
 74.125.224.165	plusone.google.com
 74.125.224.165	profiles.google.com
+74.125.224.165	s2.youtube.com
 74.125.224.165	suggestqueries.google.com
 74.125.224.165	suggestqueries.l.google.com
 74.125.224.165	s.youtube.com
@@ -3790,10 +3792,12 @@
 74.125.224.166	kh.l.google.com
 74.125.224.167	cbk2.google.com
 74.125.224.167	cbks2.google.com
+74.125.224.167	encrypted-tbn0.google.com
 74.125.224.167	encrypted-tbn2.google.com
 74.125.224.167	encrypted-tbn3.google.com
 74.125.224.167	encrypted-tbn.l.google.com
 74.125.224.167	g.co
+74.125.224.167	khmdb.google.com
 74.125.224.167	khms0.google.com
 74.125.224.167	mt6.gstatic.com
 74.125.224.167	mts0.google.com
@@ -3824,13 +3828,10 @@
 74.125.224.169	talkgadget.google.com
 74.125.224.169	video-stats.l.google.com
 74.125.224.169	wenda.google.com.hk
-74.125.224.170	www-opensocial-sandbox.googleusercontent.com
-74.125.224.171	www-gm-opensocial.googleusercontent.com
 74.125.224.174	clients2.google.com
 74.125.224.174	clients4.google.com
 74.125.224.174	clients6.google.com
 74.125.224.174	clients.l.google.com
-74.125.224.174	khmdb.google.com
 74.125.224.174	mt0.gstatic.com
 74.125.224.174	mt3.gstatic.com
 74.125.224.174	news.google.com
@@ -3838,9 +3839,6 @@
 74.125.224.174	safebrowsing.clients.google.com
 74.125.224.174	sketchup.google.com
 74.125.224.174	toolbarqueries.clients.google.com
-74.125.224.176	blogsearch.google.com
-74.125.224.181	mail.google.com
-74.125.224.181	www.gmail.com
 74.125.224.202	0-focus-opensocial.googleusercontent.com
 74.125.224.202	clients2.googleusercontent.com
 74.125.224.202	doc-10-7o-docs.googleusercontent.com
@@ -3861,6 +3859,7 @@
 74.125.224.202	tpc.googlesyndication.com
 74.125.224.202	www-kix-opensocial.googleusercontent.com
 74.125.224.202	www-opensocial.googleusercontent.com
+74.125.224.202	www-opensocial-sandbox.googleusercontent.com
 74.125.224.202	www-oz-opensocial.googleusercontent.com
 74.125.224.203	0-open-opensocial.googleusercontent.com
 74.125.224.203	2-open-opensocial.googleusercontent.com
@@ -3939,6 +3938,7 @@
 74.125.224.204	upt14k1i2veesusrda9nfotcrbp9d7p5-a-oz-opensocial.googleusercontent.com
 74.125.224.204	webcache.googleusercontent.com
 74.125.224.204	www-fc-opensocial.googleusercontent.com
+74.125.224.204	www-gm-opensocial.googleusercontent.com
 74.125.224.204	www.googleusercontent.com
 74.125.224.204	www-open-opensocial.googleusercontent.com
 74.125.224.205	domains.googlesyndication.com
@@ -3954,7 +3954,9 @@
 74.125.224.207	www.gstatic.com
 74.125.224.208	base0.googlehosted.com
 74.125.224.208	base1.googlehosted.com
+74.125.224.208	base2.googlehosted.com
 74.125.224.208	base3.googlehosted.com
+74.125.224.208	blogsearch.google.com
 74.125.224.208	blogsearch.google.com.hk
 74.125.224.208	picasa.google.com
 74.125.224.208	reader.google.com
@@ -3965,7 +3967,6 @@
 74.125.224.209	android.com
 74.125.224.209	pack.google.com
 74.125.224.209	www.l.google.com
-74.125.224.210	base2.googlehosted.com
 74.125.224.210	t1.gstatic.com
 74.125.224.210	tbn2.google.com
 74.125.224.211	t2.gstatic.com
@@ -3983,19 +3984,20 @@
 74.125.224.212	www.google.com
 74.125.224.214	gmail.com
 74.125.224.214	googlemail.l.google.com
+74.125.224.214	mail.google.com
+74.125.224.214	www.gmail.com
 74.125.224.215	clients1.google.com.hk
 74.125.224.215	clients1.google.com.tw
 74.125.224.216	id.google.cn
+74.125.224.216	id.google.com
 74.125.224.216	id.google.com.hk
 74.125.224.216	id.l.google.com
 74.125.224.217	pagead2.googlesyndication.com
 74.125.224.218	pagead.l.google.com
 74.125.224.218	partner.googleadservices.com
-74.125.224.224	picasaweb.google.com.hk
 74.125.224.242	toolbarqueries.google.com
 74.125.224.242	toolbarqueries.google.com.hk
-74.125.224.244	toolbarqueries.l.google.com
-74.125.224.247	id.google.com
+74.125.224.242	toolbarqueries.l.google.com
 74.125.224.254	ssl.google-analytics.com
 74.125.228.111	csi.l.google.com
 74.125.235.131	clients-china.l.google.com
@@ -4031,6 +4033,7 @@
 85.17.190.236	www40.multiupload.com
 85.17.190.241	www44.multiupload.com
 85.17.27.208	www2.multiupload.com
+85.17.27.208	www3.multiupload.com
 85.17.27.208	www46.multiupload.com
 85.17.27.208	www47.multiupload.com
 85.17.27.208	www48.multiupload.com
@@ -4075,7 +4078,6 @@
 98.136.170.121	gq1.farm6.static.flickr.com
 98.136.246.29	c5.ah.yahoo.com
 98.136.43.76	geo.yahoo.com
-98.137.53.34	edit.yahoo.com
 98.138.8.116	farm7.static.flickr.com
 98.138.8.116	ne1.farm7.static.flickr.com
 98.139.102.46	bf1.farm7.static.flickr.com
