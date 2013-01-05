@@ -560,6 +560,7 @@
 173.194.26.83	v9.nonxt2.c.youtube.com
 173.194.26.84	o-o.preferred.sea07s11.v14.lscache2.c.youtube.com
 173.194.26.84	o-o.preferred.sea07s15.v14.lscache2.c.youtube.com
+173.194.26.84	v14.lscache2.c.youtube.com
 173.194.26.84	v14.nonxt2.c.youtube.com
 173.194.26.85	o-o.preferred.sea07s11.v19.lscache2.c.youtube.com
 173.194.26.85	o-o.preferred.sea07s15.v19.lscache2.c.youtube.com
@@ -877,6 +878,7 @@
 173.223.52.163	a35.phobos.apple.com
 173.223.52.163	a473.phobos.apple.com
 173.223.52.163	a47.phobos.apple.com
+173.223.52.163	a485.phobos.apple.com
 173.223.52.163	a53.phobos.apple.com
 173.223.52.163	a59.phobos.apple.com
 173.223.52.163	a614.phobos.apple.com
@@ -1844,6 +1846,7 @@
 173.223.52.193	a58.phobos.apple.com
 173.223.52.193	a650.phobos.apple.com
 173.223.52.193	a682.phobos.apple.com
+173.223.52.193	a686.phobos.apple.com
 173.223.52.193	a691.phobos.apple.com
 173.223.52.193	a692.phobos.apple.com
 173.223.52.193	a69.phobos.apple.com
@@ -2502,6 +2505,7 @@
 173.223.52.211	a50.phobos.apple.com
 173.223.52.211	a517.phobos.apple.com
 173.223.52.211	a521.phobos.apple.com
+173.223.52.211	a530.phobos.apple.com
 173.223.52.211	a584.phobos.apple.com
 173.223.52.211	a591.phobos.apple.com
 173.223.52.211	a61.phobos.apple.com
@@ -2795,16 +2799,14 @@
 184.169.84.33	betastream.twitter.com
 184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
-184.169.84.33	oi42.tinypic.com
 184.169.84.33	oi43.tinypic.com
+184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
-184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
-184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
@@ -2817,9 +2819,6 @@
 184.24.47.144	si3.twimg.com
 184.24.47.144	si5.twimg.com
 184.28.97.55	p.twimg.com
-184.51.126.104	a485.phobos.apple.com
-184.51.126.105	a686.phobos.apple.com
-184.51.126.107	a530.phobos.apple.com
 184.84.149.54	discussions.apple.com
 184.84.150.46	www.icloud.com
 199.16.156.12	support.twitter.com
@@ -3171,7 +3170,6 @@
 72.233.69.6	forums.wordpress.com
 72.233.69.6	wpcom.wordpress.com
 72.233.69.6	zh.wordpress.com
-74.125.10.20	v14.lscache2.c.youtube.com
 74.125.103.10	o-o.preferred.sjc07s11.v22.lscache1.c.youtube.com
 74.125.103.10	o-o.preferred.sjc07s11.v22.lscache3.c.youtube.com
 74.125.103.11	o-o.preferred.sjc07s11.v7.lscache5.c.youtube.com
@@ -3329,7 +3327,6 @@
 74.125.128.118	mw2.google.com
 74.125.128.118	mw-small.l.google.com
 74.125.128.118	voice.google.com
-74.125.128.132	www-kix-opensocial.googleusercontent.com
 74.125.128.138	apps.google.com
 74.125.128.138	auth.keyhole.com
 74.125.128.138	bks2.books.google.com
@@ -3866,6 +3863,7 @@
 74.125.224.202	spreadsheets-opensocial.googleusercontent.com
 74.125.224.202	themes.googleusercontent.com
 74.125.224.202	tpc.googlesyndication.com
+74.125.224.202	www-kix-opensocial.googleusercontent.com
 74.125.224.202	www-opensocial.googleusercontent.com
 74.125.224.202	www-opensocial-sandbox.googleusercontent.com
 74.125.224.202	www-oz-opensocial.googleusercontent.com
