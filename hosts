@@ -582,6 +582,7 @@
 173.194.26.89	o-o.preferred.sea07s15.v20.lscache2.c.youtube.com
 173.194.26.89	v20.lscache2.c.youtube.com
 173.194.26.89	v20.nonxt2.c.youtube.com
+173.194.51.20	v14.nonxt1.c.youtube.com
 173.194.74.136	sb.google.com
 173.194.79.160	mt3.google.cn
 173.194.79.176	qwqy.vp.video.l.google.com
@@ -670,6 +671,7 @@
 173.194.8.145	v18.nonxt6.c.youtube.com
 173.194.8.146	o-o.preferred.sea07s11.v24.lscache6.c.youtube.com
 173.194.8.146	o-o.preferred.sea07s11.v4.lscache6.c.youtube.com
+173.194.8.146	o-o.preferred.sea07s15.v24.lscache6.c.youtube.com
 173.194.8.146	o-o.preferred.sea07s15.v4.lscache6.c.youtube.com
 173.194.8.146	v24.lscache6.c.youtube.com
 173.194.8.146	v24.nonxt6.c.youtube.com
@@ -1803,6 +1805,7 @@
 173.223.52.192	a705.phobos.apple.com
 173.223.52.192	a73.phobos.apple.com
 173.223.52.192	a754.phobos.apple.com
+173.223.52.192	a76.phobos.apple.com
 173.223.52.192	a789.phobos.apple.com
 173.223.52.192	a888.phobos.apple.com
 173.223.52.192	a894.phobos.apple.com
@@ -2270,7 +2273,6 @@
 173.223.52.203	a80.phobos.apple.com
 173.223.52.203	a831.phobos.apple.com
 173.223.52.203	a840.phobos.apple.com
-173.223.52.203	a84.phobos.apple.com
 173.223.52.203	a884.phobos.apple.com
 173.223.52.203	a89.phobos.apple.com
 173.223.52.208	a1015.phobos.apple.com
@@ -2799,28 +2801,23 @@
 184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
 184.169.84.33	oi43.tinypic.com
-184.169.84.33	oi44.tinypic.com
 184.169.84.33	oi45.tinypic.com
 184.169.84.33	oi46.tinypic.com
 184.169.84.33	oi47.tinypic.com
 184.169.84.33	oi48.tinypic.com
 184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
-184.169.84.33	oi51.tinypic.com
 184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
-184.169.84.33	oi55.tinypic.com
 184.169.84.33	oi56.tinypic.com
-184.169.84.33	posterous.com
-184.169.84.33	scribe.twitter.com
 184.169.84.33	t.co
 184.24.47.144	platform.twitter.com
 184.24.47.144	si1.twimg.com
 184.24.47.144	si3.twimg.com
 184.24.47.144	si5.twimg.com
 184.28.97.55	p.twimg.com
-184.51.126.96	a76.phobos.apple.com
+184.51.126.98	a84.phobos.apple.com
 184.84.149.54	discussions.apple.com
 184.84.150.46	www.icloud.com
 199.16.156.12	support.twitter.com
@@ -3217,7 +3214,6 @@
 74.125.103.6	o-o.preferred.sjc07s11.v21.lscache5.c.youtube.com
 74.125.103.6	o-o.preferred.sjc07s11.v21.lscache7.c.youtube.com
 74.125.103.7	o-o.preferred.sjc07s11.v6.lscache7.c.youtube.com
-74.125.10.82	o-o.preferred.sea07s15.v24.lscache6.c.youtube.com
 74.125.128.100	accounts.youtube.com
 74.125.128.100	appengine.google.com
 74.125.128.100	bks0.books.google.com
@@ -3315,6 +3311,7 @@
 74.125.128.102	mt0.gstatic.com
 74.125.128.102	mt7.gstatic.com
 74.125.128.102	m.youtube.com
+74.125.128.103	blogsearch.google.com.hk
 74.125.128.113	cbk3.google.com
 74.125.128.113	code.google.com
 74.125.128.113	code.l.google.com
@@ -3402,7 +3399,6 @@
 74.125.128.139	tools.google.com
 74.125.128.139	www.google-analytics.com
 74.125.128.139	ytimg.l.google.com
-74.125.128.141	r2303.latest.project-slingshot-hr.appspot.com
 74.125.129.115	checkout.google.com
 74.125.129.115	checkout.l.google.com
 74.125.129.117	music-streaming.l.google.com
@@ -3447,6 +3443,7 @@
 74.125.141.141	gv-gadget.appspot.com
 74.125.141.141	newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
 74.125.141.141	project-slingshot-gp.appspot.com
+74.125.141.141	r2303.latest.project-slingshot-hr.appspot.com
 74.125.141.141	r3085-dot-latest-dot-project-slingshot-gp.appspot.com
 74.125.141.141	r3091-dot-latest-dot-project-slingshot-gp.appspot.com
 74.125.141.141	r3101-dot-latest-dot-project-slingshot-gp.appspot.com
@@ -3551,7 +3548,6 @@
 74.125.166.20	o-o.preferred.sea07s11.v14.lscache1.c.youtube.com
 74.125.166.20	o-o.preferred.sea07s15.v14.lscache1.c.youtube.com
 74.125.166.20	v14.lscache1.c.youtube.com
-74.125.166.20	v14.nonxt1.c.youtube.com
 74.125.166.21	o-o.preferred.sea07s11.v19.lscache1.c.youtube.com
 74.125.166.21	o-o.preferred.sea07s15.v19.lscache1.c.youtube.com
 74.125.166.21	v19.lscache1.c.youtube.com
@@ -3966,7 +3962,6 @@
 74.125.224.208	base2.googlehosted.com
 74.125.224.208	base3.googlehosted.com
 74.125.224.208	blogsearch.google.com
-74.125.224.208	blogsearch.google.com.hk
 74.125.224.208	picasa.google.com
 74.125.224.208	reader.google.com
 74.125.224.208	scholar.google.com
