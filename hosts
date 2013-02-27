@@ -1202,6 +1202,7 @@
 173.223.52.176	a1629.phobos.apple.com
 173.223.52.176	a1660.phobos.apple.com
 173.223.52.176	a16.phobos.apple.com
+173.223.52.176	a1729.phobos.apple.com
 173.223.52.176	a176.phobos.apple.com
 173.223.52.176	a1773.phobos.apple.com
 173.223.52.176	a1782.phobos.apple.com
@@ -1214,7 +1215,9 @@
 173.223.52.176	a1952.phobos.apple.com
 173.223.52.176	a198.phobos.apple.com
 173.223.52.176	a199.phobos.apple.com
+173.223.52.176	a205.phobos.apple.com
 173.223.52.176	a212.phobos.apple.com
+173.223.52.176	a248.phobos.apple.com
 173.223.52.176	a24.phobos.apple.com
 173.223.52.176	a272.phobos.apple.com
 173.223.52.176	a32.phobos.apple.com
@@ -1548,6 +1551,7 @@
 173.223.52.185	a1323.phobos.apple.com
 173.223.52.185	a1329.phobos.apple.com
 173.223.52.185	a1410.phobos.apple.com
+173.223.52.185	a1448.phobos.apple.com
 173.223.52.185	a1473.phobos.apple.com
 173.223.52.185	a1532.phobos.apple.com
 173.223.52.185	a1567.phobos.apple.com
@@ -2805,6 +2809,7 @@
 184.169.84.33	oi49.tinypic.com
 184.169.84.33	oi50.tinypic.com
 184.169.84.33	oi51.tinypic.com
+184.169.84.33	oi52.tinypic.com
 184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
@@ -2817,10 +2822,6 @@
 184.24.47.144	si3.twimg.com
 184.24.47.144	si5.twimg.com
 184.28.97.55	p.twimg.com
-184.51.126.105	a1729.phobos.apple.com
-184.51.126.83	a248.phobos.apple.com
-184.51.126.89	a205.phobos.apple.com
-184.51.126.90	a1448.phobos.apple.com
 184.84.149.54	discussions.apple.com
 184.84.150.46	www.icloud.com
 199.16.156.12	support.twitter.com
@@ -2866,6 +2867,7 @@
 208.117.239.207	tc.v8.cache7.c.youtube.com
 208.117.239.211	tc.v9.cache7.c.youtube.com
 208.117.239.212	tc.v14.cache7.c.youtube.com
+208.117.239.21	tc.v19.cache1.c.youtube.com
 208.117.239.236	tc.v12.cache8.c.youtube.com
 208.117.239.238	tc.v23.cache8.c.youtube.com
 208.117.239.242	tc.v4.cache8.c.youtube.com
@@ -2875,9 +2877,9 @@
 208.117.239.247	tc.v10.cache8.c.youtube.com
 208.117.239.249	tc.v20.cache8.c.youtube.com
 208.117.239.43	tc.v7.cache2.c.youtube.com
-208.117.239.48	tc.v13.cache2.c.youtube.com
 208.117.239.50	tc.v4.cache2.c.youtube.com
 208.117.239.53	tc.v19.cache2.c.youtube.com
+208.117.239.54	tc.v5.cache2.c.youtube.com
 208.117.239.72	tc.v11.cache3.c.youtube.com
 208.117.239.73	tc.v16.cache3.c.youtube.com
 208.117.239.74	tc.v2.cache3.c.youtube.com
@@ -2983,12 +2985,10 @@
 208.117.242.87	tc.v10.cache3.c.youtube.com
 208.117.242.88	tc.v15.cache3.c.youtube.com
 208.117.242.89	tc.v20.cache3.c.youtube.com
-208.117.248.54	tc.v5.cache2.c.youtube.com
+208.117.248.48	tc.v13.cache2.c.youtube.com
 208.117.250.38	o-o.preferred.ams03g05.v1.lscache5.c.youtube.com
-208.117.251.21	tc.v19.cache1.c.youtube.com
 208.117.251.86	v5.lscache3.c.you
 208.117.252.105	tc.v16.cache5.c.youtube.com
-208.117.252.106	o-o.preferred.sjc07s15.v2.lscache4.c.youtube.com
 208.117.252.106	tc.v2.cache1.c.youtube.com
 208.117.252.108	tc.v12.cache1.c.youtube.com
 208.117.252.10	tc.v22.cache5.c.youtube.com
@@ -3066,6 +3066,7 @@
 208.80.154.227	en.wikiquote.org
 208.80.154.227	www.wikiquote.org
 208.80.154.227	zh.wikiquote.org
+208.80.154.228	en.wikibooks.org
 208.80.154.228	www.wikibooks.org
 208.80.154.228	zh.wikibooks.org
 208.80.154.229	en.wikisource.org
@@ -3131,7 +3132,6 @@
 64.208.159.8	photos-d.ak.fbcdn.net
 64.208.159.8	photos-h.ak.fbcdn.net
 64.212.100.99	vthumb.ak.fbcdn.net
-66.147.242.180	www.imfido.com
 66.155.11.243	wordpress.com
 66.163.168.247	open.login.yahoo.com
 66.163.169.186	login.yahoo.com
@@ -3716,6 +3716,7 @@
 74.125.170.202	o-o.preferred.sjc07s11.v22.lscache4.c.youtube.com
 74.125.170.202	o-o.preferred.sjc07s11.v2.lscache4.c.youtube.com
 74.125.170.202	o-o.preferred.sjc07s15.v22.lscache4.c.youtube.com
+74.125.170.202	o-o.preferred.sjc07s15.v2.lscache4.c.youtube.com
 74.125.170.203	o-o.preferred.sjc07s11.v7.lscache4.c.youtube.com
 74.125.170.203	o-o.preferred.sjc07s15.v7.lscache4.c.youtube.com
 74.125.170.204	o-o.preferred.sjc07s11.v12.lscache4.c.youtube.com
@@ -4029,9 +4030,11 @@
 83.149.126.15	www34.multiupload.com
 83.149.126.40	www18.multiupload.com
 85.17.121.102	www25.multiupload.com
+85.17.121.95	www31.multiupload.com
 85.17.122.103	www21.multiupload.com
 85.17.122.29	www33.multiupload.com
 85.17.122.30	www24.multiupload.com
+85.17.122.93	www26.multiupload.com
 85.17.123.20	www22.multiupload.com
 85.17.123.32	www30.multiupload.com
 85.17.190.226	www16.multiupload.com
@@ -4049,6 +4052,7 @@
 85.17.27.208	www4.multiupload.com
 85.17.27.208	www50.multiupload.com
 85.17.27.208	www5.multiupload.com
+85.17.27.208	www.multiupload.com
 85.17.73.226	www20.multiupload.com
 85.17.73.227	www15.multiupload.com
 85.17.73.228	www38.multiupload.com
@@ -4086,6 +4090,7 @@
 98.136.43.76	geo.yahoo.com
 98.137.205.236	bf1.farm3.static.flickr.com
 98.137.53.34	edit.yahoo.com
+98.138.250.88	ne1.farm7.static.flickr.com
 98.139.197.254	bf1.farm6.static.flickr.com
 98.139.21.45	farm6.static.flickr.com
 98.139.235.135	bf1.farm7.static.flickr.com
