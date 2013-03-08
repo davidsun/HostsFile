@@ -166,6 +166,7 @@
 173.194.25.21	o-o.preferred.sjc07s15.v19.lscache1.c.youtube.com
 173.194.25.22	o-o.preferred.sjc07s15.v5.lscache1.c.youtube.com
 173.194.25.23	o-o.preferred.sjc07s15.v10.lscache1.c.youtube.com
+173.194.25.246	o-o.preferred.sjc07s15.v5.lscache6.c.youtube.com
 173.194.25.24	o-o.preferred.sjc07s15.v15.lscache1.c.youtube.com
 173.194.25.25	o-o.preferred.sjc07s15.v20.lscache1.c.youtube.com
 173.194.25.38	o-o.preferred.sjc07s15.v1.lscache5.c.youtube.com
@@ -175,6 +176,7 @@
 173.194.25.41	o-o.preferred.sjc07s15.v16.lscache5.c.youtube.com
 173.194.25.42	o-o.preferred.sjc07s15.v22.lscache5.c.youtube.com
 173.194.25.42	o-o.preferred.sjc07s15.v2.lscache5.c.youtube.com
+173.194.25.43	o-o.preferred.sjc07s15.v7.lscache5.c.youtube.com
 173.194.25.44	o-o.preferred.sjc07s15.v12.lscache5.c.youtube.com
 173.194.25.45	o-o.preferred.sjc07s15.v17.lscache5.c.youtube.com
 173.194.25.46	o-o.preferred.sjc07s15.v23.lscache5.c.youtube.com
@@ -826,6 +828,7 @@
 173.223.52.162	a826.phobos.apple.com
 173.223.52.162	a832.phobos.apple.com
 173.223.52.162	a868.phobos.apple.com
+173.223.52.162	a880.phobos.apple.com
 173.223.52.162	a952.phobos.apple.com
 173.223.52.162	a970.phobos.apple.com
 173.223.52.163	a1001.phobos.apple.com
@@ -1306,7 +1309,6 @@
 173.223.52.177	a984.phobos.apple.com
 173.223.52.178	a102.phobos.apple.com
 173.223.52.178	a1075.phobos.apple.com
-173.223.52.178	a1112.phobos.apple.com
 173.223.52.178	a1115.phobos.apple.com
 173.223.52.178	a1117.phobos.apple.com
 173.223.52.178	a113.phobos.apple.com
@@ -1947,7 +1949,6 @@
 173.223.52.195	a1708.phobos.apple.com
 173.223.52.195	a1725.phobos.apple.com
 173.223.52.195	a1727.phobos.apple.com
-173.223.52.195	a1740.phobos.apple.com
 173.223.52.195	a1764.phobos.apple.com
 173.223.52.195	a180.phobos.apple.com
 173.223.52.195	a1816.phobos.apple.com
@@ -2134,7 +2135,6 @@
 173.223.52.201	a862.phobos.apple.com
 173.223.52.201	a870.phobos.apple.com
 173.223.52.201	a87.phobos.apple.com
-173.223.52.201	a928.phobos.apple.com
 173.223.52.201	a954.phobos.apple.com
 173.223.52.201	profile.ak.facebook.com
 173.223.52.202	a1010.phobos.apple.com
@@ -2529,6 +2529,7 @@
 173.223.52.216	a1088.phobos.apple.com
 173.223.52.216	a1130.phobos.apple.com
 173.223.52.216	a1140.phobos.apple.com
+173.223.52.216	a119.phobos.apple.com
 173.223.52.216	a1207.phobos.apple.com
 173.223.52.216	a121.phobos.apple.com
 173.223.52.216	a122.phobos.apple.com
@@ -2794,6 +2795,7 @@
 184.169.77.33	si2.twimg.com
 184.169.77.33	si4.twimg.com
 184.169.84.33	betastream.twitter.com
+184.169.84.33	oi40.tinypic.com
 184.169.84.33	oi41.tinypic.com
 184.169.84.33	oi42.tinypic.com
 184.169.84.33	oi43.tinypic.com
@@ -2809,15 +2811,18 @@
 184.169.84.33	oi53.tinypic.com
 184.169.84.33	oi54.tinypic.com
 184.169.84.33	oi55.tinypic.com
+184.169.84.33	oi56.tinypic.com
 184.169.84.33	posterous.com
 184.169.84.33	scribe.twitter.com
+184.169.84.33	t.co
 184.24.47.144	platform.twitter.com
 184.24.47.144	si1.twimg.com
 184.24.47.144	si3.twimg.com
 184.24.47.144	si5.twimg.com
 184.28.97.55	p.twimg.com
-184.51.126.75	a880.phobos.apple.com
-184.51.126.80	a119.phobos.apple.com
+184.51.126.107	a928.phobos.apple.com
+184.51.126.112	a1740.phobos.apple.com
+184.51.126.83	a1112.phobos.apple.com
 184.84.149.54	discussions.apple.com
 184.84.150.46	www.icloud.com
 199.16.156.12	support.twitter.com
@@ -3162,7 +3167,6 @@
 72.21.91.111	s1.wp.com
 72.21.91.111	s2.wp.com
 72.21.91.121	0.gravatar.com
-72.21.91.121	1.gravatar.com
 72.21.91.121	2.gravatar.com
 72.21.91.121	s.gravatar.com
 72.233.2.58	botd2.wordpress.com
@@ -3178,6 +3182,7 @@
 74.125.103.14	o-o.preferred.sjc07s11.v23.lscache3.c.youtube.com
 74.125.103.14	o-o.preferred.sjc07s11.v3.lscache7.c.youtube.com
 74.125.103.16	o-o.preferred.sjc07s11.v13.lscache1.c.youtube.com
+74.125.103.18	o-o.preferred.sjc07s11.v24.lscache3.c.youtube.com
 74.125.103.18	o-o.preferred.sjc07s11.v24.lscache7.c.youtube.com
 74.125.103.20	o-o.preferred.sjc07s11.v14.lscache1.c.youtube.com
 74.125.103.20	o-o.preferred.sjc07s11.v14.lscache7.c.youtube.com
@@ -3215,7 +3220,6 @@
 74.125.103.6	o-o.preferred.sjc07s11.v21.lscache7.c.youtube.com
 74.125.103.70	o-o.prefer
 74.125.103.7	o-o.preferred.sjc07s11.v6.lscache7.c.youtube.com
-74.125.103.82	o-o.preferred.sjc07s15.v7.lscache5.c.youtube.com
 74.125.128.100	accounts.youtube.com
 74.125.128.100	appengine.google.com
 74.125.128.100	bks0.books.google.com
@@ -3328,7 +3332,8 @@
 74.125.128.118	mw2.google.com
 74.125.128.118	mw-small.l.google.com
 74.125.128.118	voice.google.com
-74.125.128.132	lh4.ggpht.com
+74.125.128.132	doc-0g-7o-docs.googleusercontent.com
+74.125.128.132	nt2.ggpht.com
 74.125.128.138	apps.google.com
 74.125.128.138	auth.keyhole.com
 74.125.128.138	bks2.books.google.com
@@ -3356,6 +3361,7 @@
 74.125.128.138	mt2.google.com
 74.125.128.138	mt3.google.com
 74.125.128.138	mt6.gstatic.com
+74.125.128.138	mt.google.com
 74.125.128.138	mt.l.google.com
 74.125.128.138	mts0.google.com
 74.125.128.138	mts1.google.com
@@ -3400,8 +3406,7 @@
 74.125.128.139	tools.google.com
 74.125.128.139	www.google-analytics.com
 74.125.128.139	ytimg.l.google.com
-74.125.128.155	www.googleadservices.com
-74.125.128.160	2.gvt0.cn
+74.125.128.191	beta.blogger.com
 74.125.129.115	checkout.google.com
 74.125.129.115	checkout.l.google.com
 74.125.129.117	music-streaming.l.google.com
@@ -3461,6 +3466,7 @@
 74.125.141.141	www.googlelabs.com
 74.125.141.160	0.gvt0.cn
 74.125.141.160	1.gvt0.cn
+74.125.141.160	2.gvt0.cn
 74.125.141.160	3.gvt0.cn
 74.125.141.160	4.gvt0.cn
 74.125.141.160	blogsearch.google.cn
@@ -3476,7 +3482,6 @@
 74.125.141.189	4.docs.google.com
 74.125.141.189	5.docs.google.com
 74.125.141.189	browserchannel-docs.l.google.com
-74.125.141.191	beta.blogger.com
 74.125.141.191	blogger.com
 74.125.141.191	blogger.google.com
 74.125.141.191	blogger.l.google.com
@@ -3691,7 +3696,6 @@
 74.125.170.181	o-o.preferred.sjc07s11.v19.lscache6.c.youtube.com
 74.125.170.181	o-o.preferred.sjc07s15.v19.lscache6.c.youtube.com
 74.125.170.182	o-o.preferred.sjc07s11.v5.lscache6.c.youtube.com
-74.125.170.182	o-o.preferred.sjc07s15.v5.lscache6.c.youtube.com
 74.125.170.183	o-o.preferred.sjc07s11.v10.lscache6.c.youtube.com
 74.125.170.183	o-o.preferred.sjc07s15.v10.lscache6.c.youtube.com
 74.125.170.184	o-o.preferred.sjc07s11.v15.lscache6.c.youtube.com
@@ -3804,7 +3808,6 @@
 74.125.170.47	o-o.preferred.sjc07s11.v8.lscache3.c.youtube.com
 74.125.170.48	o-o.preferred.sjc07s11.v13.lscache3.c.youtube.com
 74.125.170.49	o-o.preferred.sjc07s11.v18.lscache3.c.youtube.com
-74.125.170.50	o-o.preferred.sjc07s11.v24.lscache3.c.youtube.com
 74.125.170.50	o-o.preferred.sjc07s11.v4.lscache3.c.youtube.com
 74.125.170.51	o-o.preferred.sjc07s11.v9.lscache3.c.youtube.com
 74.125.170.52	o-o.preferred.sjc07s11.v14.lscache3.c.youtube.com
@@ -3845,7 +3848,6 @@
 74.125.224.162	youtu.be
 74.125.224.162	youtube.com
 74.125.224.164	picasaweb.google.com
-74.125.224.165	mt.google.com
 74.125.224.166	kh.google.com
 74.125.224.166	kh.l.google.com
 74.125.224.168	tw.youtube.com
@@ -3857,11 +3859,11 @@
 74.125.224.202	hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
 74.125.224.202	lh1.googleusercontent.com
 74.125.224.202	lh3.ggpht.com
+74.125.224.202	lh4.ggpht.com
 74.125.224.202	lh5.ggpht.com
 74.125.224.202	lh6.ggpht.com
 74.125.224.202	nt0.ggpht.com
 74.125.224.202	nt1.ggpht.com
-74.125.224.202	nt2.ggpht.com
 74.125.224.202	nt3.ggpht.com
 74.125.224.202	oauth.googleusercontent.com
 74.125.224.202	photos-ugc.l.google.com
@@ -3880,7 +3882,6 @@
 74.125.224.203	clients4.googleusercontent.com
 74.125.224.203	debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
 74.125.224.203	doc-0c-7o-docs.googleusercontent.com
-74.125.224.203	doc-0g-7o-docs.googleusercontent.com
 74.125.224.203	images8-focus-opensocial.googleusercontent.com
 74.125.224.203	qhie5b8u979rnch1q0hqbrmbkn9estf7-a-oz-opensocial.googleusercontent.com
 74.125.224.203	r70rmsn4s0rhk6cehcbbcbfbs31pu0va-a-oz-opensocial.googleusercontent.com
@@ -3954,6 +3955,7 @@
 74.125.224.204	www-open-opensocial.googleusercontent.com
 74.125.224.205	domains.googlesyndication.com
 74.125.224.205	pagead2.googleadservices.com
+74.125.224.205	www.googleadservices.com
 74.125.224.207	csi.gstatic.com
 74.125.224.207	g0.gstatic.com
 74.125.224.207	g1.gstatic.com
