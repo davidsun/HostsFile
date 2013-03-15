@@ -2,6 +2,7 @@
 107.23.111.41	www.foursquare.com
 108.162.233.11	wikileaks.org
 108.162.233.11	www.wikileaks.org
+108.171.171.159	twitter.zendesk.com
 123.129.242.170	hub5idx.shub.sandai.net
 17.254.2.129	developer.apple.com
 173.194.12.134	o-o.preferred.sea07s11.v1.lscache5.c.youtube.com
@@ -140,6 +141,7 @@
 173.194.25.16	o-o.preferred.sjc07s15.v13.lscache1.c.youtube.com
 173.194.25.170	o-o.preferred.sjc07s15.v22.lscache7.c.youtube.com
 173.194.25.170	o-o.preferred.sjc07s15.v2.lscache7.c.youtube.com
+173.194.25.171	o-o.preferred.sjc07s15.v7.lscache7.c.youtube.com
 173.194.25.172	o-o.preferred.sjc07s15.v12.lscache7.c.youtube.com
 173.194.25.173	o-o.preferred.sjc07s15.v17.lscache7.c.youtube.com
 173.194.25.174	o-o.preferred.sjc07s15.v23.lscache7.c.youtube.com
@@ -1538,6 +1540,7 @@
 173.223.52.185	a1014.phobos.apple.com
 173.223.52.185	a1044.phobos.apple.com
 173.223.52.185	a1055.phobos.apple.com
+173.223.52.185	a1197.phobos.apple.com
 173.223.52.185	a1206.phobos.apple.com
 173.223.52.185	a1208.phobos.apple.com
 173.223.52.185	a1258.phobos.apple.com
@@ -2248,7 +2251,6 @@
 173.223.52.203	a215.phobos.apple.com
 173.223.52.203	a311.phobos.apple.com
 173.223.52.203	a314.phobos.apple.com
-173.223.52.203	a329.phobos.apple.com
 173.223.52.203	a335.phobos.apple.com
 173.223.52.203	a423.phobos.apple.com
 173.223.52.203	a450.phobos.apple.com
@@ -2457,7 +2459,6 @@
 173.223.52.210	a749.phobos.apple.com
 173.223.52.210	a755.phobos.apple.com
 173.223.52.210	a779.phobos.apple.com
-173.223.52.210	a788.phobos.apple.com
 173.223.52.210	a839.phobos.apple.com
 173.223.52.210	a845.phobos.apple.com
 173.223.52.210	a941.phobos.apple.com
@@ -2820,7 +2821,8 @@
 184.24.47.144	si3.twimg.com
 184.24.47.144	si5.twimg.com
 184.28.97.55	p.twimg.com
-184.51.126.112	a1197.phobos.apple.com
+184.51.126.112	a788.phobos.apple.com
+184.51.126.97	a329.phobos.apple.com
 184.84.149.54	discussions.apple.com
 184.84.150.46	www.icloud.com
 199.16.156.12	support.twitter.com
@@ -3043,7 +3045,6 @@
 208.80.152.185	dumps.wikimedia.org
 208.80.152.200	wikimedia.org
 208.80.152.201	wikipedia.org
-208.80.152.201	zh.wikipedia.org
 208.80.152.202	wiktionary.org
 208.80.152.203	wikiquote.org
 208.80.152.204	wikibooks.org
@@ -3059,6 +3060,7 @@
 208.80.154.225	simple.wikipedia.org
 208.80.154.225	www.wikipedia.org
 208.80.154.225	zh.wikipedia
+208.80.154.225	zh.wikipedia.org
 208.80.154.226	en.wiktionary.org
 208.80.154.226	www.wiktionary.org
 208.80.154.226	zh.wiktionary.org
@@ -3175,7 +3177,6 @@
 74.125.103.10	o-o.preferred.sjc07s11.v22.lscache1.c.youtube.com
 74.125.103.10	o-o.preferred.sjc07s11.v22.lscache3.c.youtube.com
 74.125.103.11	o-o.preferred.sjc07s11.v7.lscache5.c.youtube.com
-74.125.103.11	o-o.preferred.sjc07s15.v7.lscache7.c.youtube.com
 74.125.103.12	o-o.preferred.sjc07s11.v12.lscache5.c.youtube.com
 74.125.103.13	o-o.preferred.sjc07s11.v17.lscache1.c.youtube.com
 74.125.103.14	o-o.preferred.sjc07s11.v23.lscache3.c.youtube.com
@@ -3331,6 +3332,7 @@
 74.125.128.118	mw2.google.com
 74.125.128.118	mw-small.l.google.com
 74.125.128.118	voice.google.com
+74.125.128.132	s2.googleusercontent.com
 74.125.128.138	apps.google.com
 74.125.128.138	auth.keyhole.com
 74.125.128.138	bks2.books.google.com
@@ -3403,7 +3405,6 @@
 74.125.128.139	tools.google.com
 74.125.128.139	www.google-analytics.com
 74.125.128.139	ytimg.l.google.com
-74.125.128.160	g.cn
 74.125.129.115	checkout.google.com
 74.125.129.115	checkout.l.google.com
 74.125.129.117	music-streaming.l.google.com
@@ -3467,6 +3468,7 @@
 74.125.141.160	3.gvt0.cn
 74.125.141.160	4.gvt0.cn
 74.125.141.160	blogsearch.google.cn
+74.125.141.160	g.cn
 74.125.141.160	google.cn
 74.125.141.160	maps.gstatic.cn
 74.125.141.160	www.google.cn
@@ -3940,7 +3942,6 @@
 74.125.224.204	ode25pfjgmvpquh3b1oqo31ti5ibg5fr-a-calendar.opensocial.googleusercontent.com
 74.125.224.204	rbjhe237k979f79d87gmenp3gejfonu9-a-oz-opensocial.googleusercontent.com
 74.125.224.204	s1.googleusercontent.com
-74.125.224.204	s2.googleusercontent.com
 74.125.224.204	s3.googleusercontent.com
 74.125.224.204	s4.googleusercontent.com
 74.125.224.204	s5.googleusercontent.com
