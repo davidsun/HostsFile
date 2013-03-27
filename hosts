@@ -347,7 +347,6 @@
 173.194.26.207	v8.lscache7.c.youtube.com
 173.194.26.207	v8.nonxt7.c.youtube.com
 173.194.26.208	o-o.preferred.sea07s11.v13.lscache7.c.youtube.com
-173.194.26.208	o-o.preferred.sea07s15.v13.lscache7.c.youtube.com
 173.194.26.208	v13.lscache7.c.youtube.com
 173.194.26.208	v13.nonxt7.c.youtube.com
 173.194.26.209	o-o.preferred.sea07s11.v18.lscache7.c.youtube.com
@@ -582,6 +581,8 @@
 173.194.26.89	o-o.preferred.sea07s15.v20.lscache2.c.youtube.com
 173.194.26.89	v20.lscache2.c.youtube.com
 173.194.26.89	v20.nonxt2.c.youtube.com
+173.194.51.112	o-o.preferred.sea07s15.v13.lscache7.c.youtube.com
+173.194.51.25	v20.lscache1.c.youtube.com
 173.194.79.160	mt3.google.cn
 173.194.79.176	qwqy.vp.video.l.google.com
 173.194.79.176	vp.video.google.com
@@ -991,7 +992,6 @@
 173.223.52.169	a1591.phobos.apple.com
 173.223.52.169	a1621.phobos.apple.com
 173.223.52.169	a1631.phobos.apple.com
-173.223.52.169	a1669.phobos.apple.com
 173.223.52.169	a1681.phobos.apple.com
 173.223.52.169	a1687.phobos.apple.com
 173.223.52.169	a1735.phobos.apple.com
@@ -1009,6 +1009,7 @@
 173.223.52.169	a252.phobos.apple.com
 173.223.52.169	a259.phobos.apple.com
 173.223.52.169	a25.phobos.apple.com
+173.223.52.169	a277.phobos.apple.com
 173.223.52.169	a325.phobos.apple.com
 173.223.52.169	a337.phobos.apple.com
 173.223.52.169	a397.phobos.apple.com
@@ -1877,7 +1878,6 @@
 173.223.52.194	a1315.phobos.apple.com
 173.223.52.194	a1327.phobos.apple.com
 173.223.52.194	a1362.phobos.apple.com
-173.223.52.194	a1397.phobos.apple.com
 173.223.52.194	a139.phobos.apple.com
 173.223.52.194	a1406.phobos.apple.com
 173.223.52.194	a1481.phobos.apple.com
@@ -2000,7 +2000,6 @@
 173.223.52.200	a1179.phobos.apple.com
 173.223.52.200	a1181.phobos.apple.com
 173.223.52.200	a1185.phobos.apple.com
-173.223.52.200	a1235.phobos.apple.com
 173.223.52.200	a1266.phobos.apple.com
 173.223.52.200	a127.phobos.apple.com
 173.223.52.200	a1289.phobos.apple.com
@@ -2116,7 +2115,6 @@
 173.223.52.201	a275.phobos.apple.com
 173.223.52.201	a287.phobos.apple.com
 173.223.52.201	a313.phobos.apple.com
-173.223.52.201	a322.phobos.apple.com
 173.223.52.201	a349.phobos.apple.com
 173.223.52.201	a36.phobos.apple.com
 173.223.52.201	a40.phobos.apple.com
@@ -2523,7 +2521,6 @@
 173.223.52.211	a994.phobos.apple.com
 173.223.52.216	a1002.phobos.apple.com
 173.223.52.216	a1027.phobos.apple.com
-173.223.52.216	a1046.phobos.apple.com
 173.223.52.216	a1074.phobos.apple.com
 173.223.52.216	a1083.phobos.apple.com
 173.223.52.216	a1088.phobos.apple.com
@@ -2821,10 +2818,15 @@
 184.24.47.144	si3.twimg.com
 184.24.47.144	si5.twimg.com
 184.28.97.55	p.twimg.com
-184.51.126.83	a277.phobos.apple.com
+184.51.126.105	a1397.phobos.apple.com
+184.51.126.75	a322.phobos.apple.com
+184.51.126.80	a1235.phobos.apple.com
+184.51.126.82	a1669.phobos.apple.com
 184.51.126.83	a458.phobo
+184.51.126.96	a1046.phobos.apple.com
 184.84.149.54	discussions.apple.com
 184.84.150.46	www.icloud.com
+199.16.156.12	support.twitter.com
 199.47.216.170	www.dropbox.com
 199.47.217.179	dropbox.com
 199.59.148.148	upload.twitter.com
@@ -2977,7 +2979,6 @@
 208.117.242.77	tc.v17.cache3.c.youtube.com
 208.117.242.78	tc.v23.cache3.c.youtube.com
 208.117.242.78	tc.v3.cache3.c.youtube.com
-208.117.242.79	tc.v8.cache3.c.youtube.com
 208.117.242.7	tc.v6.cache1.c.youtube.com
 208.117.242.80	tc.v13.cache3.c.youtube.com
 208.117.242.82	tc.v24.cache3.c.youtube.com
@@ -2987,7 +2988,7 @@
 208.117.242.88	tc.v15.cache3.c.youtube.com
 208.117.242.89	tc.v20.cache3.c.youtube.com
 208.117.250.38	o-o.preferred.ams03g05.v1.lscache5.c.youtube.com
-208.117.251.86	v5.lscache3.c.you
+208.117.251.79	tc.v8.cache3.c.youtube.com
 208.117.252.105	tc.v16.cache5.c.youtube.com
 208.117.252.106	tc.v2.cache1.c.youtube.com
 208.117.252.108	tc.v12.cache1.c.youtube.com
@@ -3050,7 +3051,6 @@
 208.80.152.206	wikinews.org
 208.80.152.208	mediawiki.org
 208.80.152.209	wikimediafoundation.org
-208.80.152.211	upload.wikimedia.org
 208.80.154.150	ganglia.wikimedia.org
 208.80.154.155	stats.wikimedia.org
 208.80.154.224	commons.wikimedia.org
@@ -3077,6 +3077,7 @@
 208.80.154.230	zh.wikinews.org
 208.80.154.232	www.mediawiki.org
 208.80.154.233	www.wikimediafoundation.org
+208.80.154.235	upload.wikimedia.org
 208.94.0.61	a.yfrog.com
 208.94.0.61	www.yfrog.com
 208.94.0.61	yfrog.com
@@ -3091,6 +3092,7 @@
 216.39.54.34	gq1.farm3.static.flickr.com
 221.123.176.123	s5.flashget.com
 221.123.176.136	cplog.flashget.com
+23.0.160.206	a237.ph
 23.0.160.216	a793.phobos.apple.c
 23.11.162.110	s-static.ak.facebook.com
 23.15.8.226	a544.phobos.appl
@@ -3140,7 +3142,6 @@
 66.163.169.186	login.yahoo.com
 66.196.116.162	geo.yahoo.com
 66.220.151.32	profile.facebook.com
-66.220.151.32	secure-profile.facebook.com
 66.228.120.92	web8.twitpic.com
 67.195.19.74	farm5.static.flickr.com
 67.195.19.74	gq1.farm5.static.flickr.com
@@ -3576,7 +3577,6 @@
 74.125.166.24	v15.nonxt1.c.youtube.com
 74.125.166.25	o-o.preferred.sea07s11.v20.lscache1.c.youtube.com
 74.125.166.25	o-o.preferred.sea07s15.v20.lscache1.c.youtube.com
-74.125.166.25	v20.lscache1.c.youtube.com
 74.125.166.25	v20.nonxt1.c.youtube.com
 74.125.166.6	o-o.preferred.sea07s11.v1.lscache1.c.youtube.com
 74.125.166.6	o-o.preferred.sea07s11.v21.lscache1.c.youtube.com
