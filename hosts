@@ -582,6 +582,7 @@
 173.194.26.89	o-o.preferred.sea07s15.v20.lscache2.c.youtube.com
 173.194.26.89	v20.lscache2.c.youtube.com
 173.194.26.89	v20.nonxt2.c.youtube.com
+173.194.51.51	v9.lscache3.c.youtube.com
 173.194.79.160	mt3.google.cn
 173.194.79.176	qwqy.vp.video.l.google.com
 173.194.79.176	vp.video.google.com
@@ -733,7 +734,6 @@
 173.194.8.18	v4.nonxt3.c.youtube.com
 173.194.8.19	o-o.preferred.sea07s11.v9.lscache3.c.youtube.com
 173.194.8.19	o-o.preferred.sea07s15.v9.lscache3.c.youtube.com
-173.194.8.19	v9.lscache3.c.youtube.com
 173.194.8.19	v9.nonxt3.c.youtube.com
 173.194.8.20	o-o.preferred.sea07s11.v14.lscache3.c.youtube.com
 173.194.8.20	o-o.preferred.sea07s15.v14.lscache3.c.youtube.com
@@ -811,7 +811,6 @@
 173.223.52.162	a192.phobos.apple.com
 173.223.52.162	a1936.phobos.apple.com
 173.223.52.162	a286.phobos.apple.com
-173.223.52.162	a316.phobos.apple.com
 173.223.52.162	a346.phobos.apple.com
 173.223.52.162	a376.phobos.apple.com
 173.223.52.162	a400.phobos.apple.com
@@ -968,6 +967,7 @@
 173.223.52.168	a90.phobos.apple.com
 173.223.52.168	a930.phobos.apple.com
 173.223.52.168	a948.phobos.apple.com
+173.223.52.169	a1024.phobos.apple.com
 173.223.52.169	a1135.phobos.apple.com
 173.223.52.169	a1231.phobos.apple.com
 173.223.52.169	a1243.phobos.apple.com
@@ -1003,6 +1003,7 @@
 173.223.52.169	a1927.phobos.apple.com
 173.223.52.169	a193.phobos.apple.com
 173.223.52.169	a1951.phobos.apple.com
+173.223.52.169	a211.phobos.apple.com
 173.223.52.169	a239.phobos.apple.com
 173.223.52.169	a252.phobos.apple.com
 173.223.52.169	a259.phobos.apple.com
@@ -1875,6 +1876,7 @@
 173.223.52.194	a1307.phobos.apple.com
 173.223.52.194	a1315.phobos.apple.com
 173.223.52.194	a1327.phobos.apple.com
+173.223.52.194	a1362.phobos.apple.com
 173.223.52.194	a1397.phobos.apple.com
 173.223.52.194	a139.phobos.apple.com
 173.223.52.194	a1406.phobos.apple.com
@@ -2262,7 +2264,6 @@
 173.223.52.203	a64.phobos.apple.com
 173.223.52.203	a661.phobos.apple.com
 173.223.52.203	a733.phobos.apple.com
-173.223.52.203	a741.phobos.apple.com
 173.223.52.203	a783.phobos.apple.com
 173.223.52.203	a809.phobos.apple.com
 173.223.52.203	a80.phobos.apple.com
@@ -2747,7 +2748,6 @@
 173.223.52.219	a1828.phobos.apple.com
 173.223.52.219	a1848.phobos.apple.com
 173.223.52.219	a1877.phobos.apple.com
-173.223.52.219	a1925.phobos.apple.com
 173.223.52.219	a1928.phobos.apple.com
 173.223.52.219	a1973.phobos.apple.com
 173.223.52.219	a1995.phobos.apple.com
@@ -2819,10 +2819,10 @@
 184.24.47.144	si3.twimg.com
 184.24.47.144	si5.twimg.com
 184.28.97.55	p.twimg.com
-184.51.126.81	a1362.phobos.apple.com
+184.51.126.75	a316.phobos.apple.com
+184.51.126.80	a1925.phobos.apple.com
 184.51.126.83	a458.phobo
-184.51.126.89	a1024.phobos.apple.com
-184.51.126.97	a211.phobos.apple.com
+184.51.126.97	a741.phobos.apple.com
 184.84.149.54	discussions.apple.com
 184.84.150.46	www.icloud.com
 199.16.156.12	support.twitter.com
@@ -3104,6 +3104,7 @@
 62.146.87.171	62.146.87.171
 62.212.73.129	www43.multiupload.com
 62.212.73.130	www32.multiupload.com
+62.212.73.135	www45.multiupload.com
 62.212.73.68	multiupload.com
 62.212.73.68	www19.multiupload.com
 62.212.73.70	www12.multiupload.com
@@ -3335,7 +3336,8 @@
 74.125.128.118	mw2.google.com
 74.125.128.118	mw-small.l.google.com
 74.125.128.118	voice.google.com
-74.125.128.132	53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
+74.125.128.132	clients3.googleusercontent.com
+74.125.128.132	www-calendar-opensocial.googleusercontent.com
 74.125.128.138	apps.google.com
 74.125.128.138	auth.keyhole.com
 74.125.128.138	bks2.books.google.com
@@ -3877,7 +3879,6 @@
 74.125.224.203	images8-focus-opensocial.googleusercontent.com
 74.125.224.203	qhie5b8u979rnch1q0hqbrmbkn9estf7-a-oz-opensocial.googleusercontent.com
 74.125.224.203	r70rmsn4s0rhk6cehcbbcbfbs31pu0va-a-oz-opensocial.googleusercontent.com
-74.125.224.203	www-calendar-opensocial.googleusercontent.com
 74.125.224.203	www-focus-opensocial.googleusercontent.com
 74.125.224.204	1-focus-opensocial.googleusercontent.com
 74.125.224.204	1-open-opensocial.googleusercontent.com
@@ -3885,6 +3886,7 @@
 74.125.224.204	3-focus-opensocial.googleusercontent.com
 74.125.224.204	3hdrrlnlknhi77nrmsjnjr152ueo3soc-a-calendar-opensocial.googleusercontent.com
 74.125.224.204	3-open-opensocial.googleusercontent.com
+74.125.224.204	53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
 74.125.224.204	59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
 74.125.224.204	8kubpeu8314p2efdd7jlv09an9i2ljdo-a-oz-opensocial.googleusercontent.com
 74.125.224.204	adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com
@@ -3892,7 +3894,6 @@
 74.125.224.204	blogger.googleusercontent.com
 74.125.224.204	bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
 74.125.224.204	clients1.googleusercontent.com
-74.125.224.204	clients3.googleusercontent.com
 74.125.224.204	clients5.googleusercontent.com
 74.125.224.204	clients6.googleusercontent.com
 74.125.224.204	clients7.googleusercontent.com
