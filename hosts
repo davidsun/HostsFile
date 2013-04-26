@@ -393,7 +393,6 @@
 208.117.239.249	v20.lscache8.c.youtube.com
 208.117.239.38	o-o.preferred.sea07s11.v1.lscache2.c.youtube.com
 208.117.239.38	o-o.preferred.sea07s11.v21.lscache2.c.youtube.com
-208.117.239.38	v21.lscache2.c.youtube.com
 208.117.239.39	o-o.preferred.sea07s11.v6.lscache2.c.youtube.com
 208.117.239.39	o-o.preferred.sea07s15.v6.lscache2.c.youtube.com
 208.117.239.41	o-o.preferred.sea07s11.v16.lscache2.c.youtube.com
@@ -510,6 +509,7 @@
 208.117.240.241	v18.nonxt8.c.youtube.com
 208.117.240.24	o-o.preferred.sea07s15.v15.lscache1.c.youtube.com
 208.117.240.25	v20.lscache1.c.youtube.com
+208.117.240.38	v21.lscache2.c.youtube.com
 208.117.240.50	o-o.preferred.sea07s11.v4.lscache2.c.youtube.com
 208.117.240.53	v19.lscache2.c.youtube.com
 208.117.240.53	v19.nonxt2.c.youtube.com
@@ -886,6 +886,7 @@
 208.117.251.249	tc.v20.cache8.c.youtube.com
 208.117.251.249	v20.nonxt8.c.youtube.com
 208.117.251.24	tc.v15.cache1.c.youtube.com
+208.117.251.24	v15.lscache1.c.youtube.com
 208.117.251.25	tc.v20.cache1.c.youtube.com
 208.117.251.38	tc.v1.cache2.c.youtube.com
 208.117.251.38	tc.v21.cache2.c.youtube.com
@@ -1306,7 +1307,6 @@
 208.117.255.242	o-o.preferred.sjc07s11.v4.lscache8.c.youtube.com
 208.117.255.246	o-o.preferred.sjc07s11.v5.lscache8.c.youtube.com
 208.117.255.24	o-o.preferred.sea07s11.v15.lscache1.c.youtube.com
-208.117.255.24	v15.lscache1.c.youtube.com
 208.117.255.24	v15.nonxt1.c.youtube.com
 208.117.255.25	o-o.preferred.sea07s11.v20.lscache1.c.youtube.com
 208.117.255.25	o-o.preferred.sea07s15.v20.lscache1.c.youtube.com
@@ -3770,6 +3770,7 @@
 74.125.228.68	code.l.google.com
 74.125.228.68	gg.google.com
 74.125.228.68	i1.ytimg.com
+74.125.228.68	i2.ytimg.com
 74.125.228.68	i3.ytimg.com
 74.125.228.68	i4.ytimg.com
 74.125.228.68	img.youtube.com
@@ -4018,7 +4019,6 @@
 74.125.228.89	www.googleadservices.com
 74.125.228.95	clients1.google.com.hk
 74.125.228.95	clients1.google.com.tw
-74.125.228.98	i2.ytimg.com
 76.13.18.77	farm4.static.flickr.com
 76.13.18.79	farm5.static.flickr.com
 76.73.40.45	soutong.com
@@ -4048,6 +4048,7 @@
 85.17.27.208	www.multiupload.com
 85.17.73.226	www20.multiupload.com
 85.17.73.227	www15.multiupload.com
+85.17.73.228	www38.multiupload.com
 85.17.73.239	www13.multiupload.com
 85.17.84.98	www28.multiupload.com
 89.105.213.21	premium.de.avira-update.com
