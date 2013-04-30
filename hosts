@@ -532,6 +532,7 @@
 208.117.242.153	o-o.preferred.sjc07s15.v20.lscache5.c.youtube.com
 208.117.242.167	o-o.preferred.sea07s11.v6.lscache6.c.youtube.com
 208.117.242.16	o-o.preferred.sjc07s15.v13.lscache1.c.youtube.com
+208.117.242.177	o-o.preferred.sjc07s11.v18.lscache6.c.youtube.com
 208.117.242.183	o-o.preferred.sea07s15.v10.lscache6.c.youtube.com
 208.117.242.185	o-o.preferred.sea07s11.v20.lscache6.c.youtube.com
 208.117.242.38	v1.nonxt2.c.youtube.com
@@ -1210,7 +1211,6 @@
 208.117.255.174	o-o.preferred.sjc07s11.v23.lscache6.c.youtube.com
 208.117.255.174	o-o.preferred.sjc07s11.v3.lscache6.c.youtube.com
 208.117.255.175	o-o.preferred.sjc07s11.v8.lscache6.c.youtube.com
-208.117.255.177	o-o.preferred.sjc07s11.v18.lscache6.c.youtube.com
 208.117.255.178	o-o.preferred.sea07s11.v24.lscache6.c.youtube.com
 208.117.255.178	o-o.preferred.sjc07s11.v24.lscache6.c.youtube.com
 208.117.255.178	o-o.preferred.sjc07s11.v4.lscache6.c.youtube.com
@@ -1979,6 +1979,7 @@
 23.0.160.209	a609.phobos.apple.com
 23.0.160.209	a652.phobos.apple.com
 23.0.160.209	a659.phobos.apple.com
+23.0.160.209	a67.phobos.apple.com
 23.0.160.209	a715.phobos.apple.com
 23.0.160.209	a71.phobos.apple.com
 23.0.160.209	a725.phobos.apple.com
@@ -2466,7 +2467,6 @@
 23.15.8.201	a577.phobos.apple.com
 23.15.8.201	a607.phobos.apple.com
 23.15.8.201	a637.phobos.apple.com
-23.15.8.201	a67.phobos.apple.com
 23.15.8.201	a685.phobos.apple.com
 23.15.8.201	a727.phobos.apple.com
 23.15.8.201	a730.phobos.apple.com
@@ -3456,6 +3456,7 @@
 66.220.151.32	secure-profile.facebook.com
 66.228.120.92	web8.twitpic.com
 67.195.19.65	gq1.farm5.static.flickr.com
+68.142.214.24	flickr.com
 68.142.227.95	bf1.farm5.static.flickr.com
 69.147.90.215	sp1.farm3.static.flickr.com
 69.171.229.26	m.facebook.com
@@ -3671,7 +3672,9 @@
 74.125.170.86	o-o.preferred.sjc07s11.v5.lscache5.c.youtube.com
 74.125.170.88	o-o.preferred.sjc07s11.v15.lscache5.c.youtube.com
 74.125.170.89	o-o.preferred.sjc07s11.v20.lscache5.c.youtube.com
-74.125.228.104	video-stats.l.google.com
+74.125.228.100	clients5.google.com
+74.125.228.100	picasaweb.google.com.hk
+74.125.228.117	googlemail.l.google.com
 74.125.228.126	ssl.google-analytics.com
 74.125.228.31	id.google.cn
 74.125.228.31	id.google.com
@@ -3686,7 +3689,6 @@
 74.125.228.64	bks1.books.google.com
 74.125.228.64	cbk0.google.com
 74.125.228.64	cbks3.google.com
-74.125.228.64	clients5.google.com
 74.125.228.64	docs7.google.com
 74.125.228.64	goo.gl
 74.125.228.64	goto.google.com
@@ -3702,6 +3704,7 @@
 74.125.228.64	profiles.google.com
 74.125.228.64	spreadsheet.google.com
 74.125.228.64	spreadsheets.l.google.com
+74.125.228.64	video-stats.l.google.com
 74.125.228.64	wenda.google.com.hk
 74.125.228.65	accounts.youtube.com
 74.125.228.65	apps.google.com
@@ -3968,7 +3971,6 @@
 74.125.228.78	mt1.gstatic.com
 74.125.228.78	mw2.google.com
 74.125.228.78	photos.google.com
-74.125.228.78	picasaweb.google.com.hk
 74.125.228.78	picasaweb.l.google.com
 74.125.228.78	places.google.com
 74.125.228.78	plus.google.com
@@ -4008,7 +4010,6 @@
 74.125.228.84	scholar.l.google.com
 74.125.228.84	t2.gstatic.com
 74.125.228.85	gmail.com
-74.125.228.86	googlemail.l.google.com
 74.125.228.86	mail.google.com
 74.125.228.86	www.gmail.com
 74.125.228.89	domains.googlesyndication.com
